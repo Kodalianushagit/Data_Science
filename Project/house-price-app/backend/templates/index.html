@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EstateLine — House Price Estimator</title>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600;700&family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --blueprint: #0F2A43;
+    --blueprint-panel: #15375A;
+    --grid-line: rgba(212,162,78,0.14);
+    --grid-line-strong: rgba(212,162,78,0.28);
+    --brass: #D4A24E;
+    --brass-bright: #E9C275;
+    --paper: #EDE6D8;
+    --paper-dim: #B9C3CE;
+    --ok: #7FB89A;
+    --radius: 2px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background-color: var(--blueprint);
+    background-image:
+      linear-gradient(var(--grid-line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+    background-size: 28px 28px;
+    color: var(--paper);
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+  }
+  .wrap{ max-width:1080px; margin:0 auto; padding:48px 24px 80px; }
+  header{
+    display:flex; justify-content:space-between; align-items:flex-end;
+    border-bottom: 1px dashed var(--grid-line-strong);
+    padding-bottom:20px; margin-bottom:8px;
+  }
+  .brand{ font-family:'Spectral',serif; font-weight:700; font-size:26px; color:var(--paper); }
+  .brand span{ color:var(--brass); }
+  .doc-tag{ font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--paper-dim); text-align:right; line-height:1.6; }
+  .hero{ margin:36px 0 44px; }
+  .hero h1{ font-family:'Spectral',serif; font-weight:600; font-size:clamp(32px,4.6vw,52px); line-height:1.12; margin:0 0 14px; max-width:700px; }
+  .hero h1 em{ font-style:normal; color:var(--brass-bright); }
+  .hero p{ color:var(--paper-dim); font-size:16px; max-width:540px; line-height:1.6; }
+  .model-chip{
+    display:inline-flex; align-items:center; gap:8px; margin-top:18px;
+    font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--brass);
+    border:1px solid var(--grid-line-strong); padding:6px 12px; border-radius:100px;
+  }
+  .model-chip::before{ content:''; width:6px; height:6px; border-radius:50%; background:var(--ok); box-shadow:0 0 6px var(--ok); }
+  .grid{ display:grid; grid-template-columns:1.3fr 1fr; gap:28px; align-items:start; }
+  @media(max-width:860px){ .grid{ grid-template-columns:1fr; } }
+  .panel{
+    background:var(--blueprint-panel); border:1px solid var(--grid-line-strong);
+    border-radius:var(--radius); padding:28px; position:relative;
+  }
+  .panel::before{
+    content:attr(data-label); position:absolute; top:-11px; left:20px;
+    background:var(--blueprint); padding:0 8px;
+    font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:1px;
+    color:var(--brass); text-transform:uppercase;
+  }
+  .field{ margin-bottom:20px; }
+  .field label{
+    display:block; font-family:'JetBrains Mono',monospace; font-size:11px;
+    text-transform:uppercase; letter-spacing:0.6px; color:var(--paper-dim); margin-bottom:8px;
+  }
+  .field input, .field select{
+    width:100%; background:rgba(255,255,255,0.04); border:1px solid var(--grid-line-strong);
+    color:var(--paper); font-family:'Inter',sans-serif; font-size:14px;
+    padding:11px 12px; border-radius:var(--radius); outline:none;
+    transition:border-color .15s ease,background .15s ease;
+  }
+  .field input:focus, .field select:focus{ border-color:var(--brass); background:rgba(255,255,255,0.07); }
+  .field select option{ background:#15375A; }
+  .row2{ display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+  .row3{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:16px; }
+  .toggle-group{ display:flex; gap:10px; }
+  .toggle-group button{
+    flex:1; padding:10px; background:rgba(255,255,255,0.04);
+    border:1px solid var(--grid-line-strong); color:var(--paper-dim);
+    font-family:'Inter'; font-size:13px; border-radius:var(--radius); cursor:pointer; transition:all .15s ease;
+  }
+  .toggle-group button.active{ background:var(--brass); color:var(--blueprint); border-color:var(--brass); font-weight:600; }
+  .submit-btn{
+    width:100%; margin-top:6px; padding:14px; background:var(--brass); color:var(--blueprint);
+    border:none; border-radius:var(--radius); font-family:'JetBrains Mono',monospace;
+    font-weight:700; font-size:13px; letter-spacing:1px; text-transform:uppercase;
+    cursor:pointer; transition:background .15s ease;
+  }
+  .submit-btn:hover{ background:var(--brass-bright); }
+  .submit-btn:disabled{ opacity:0.6; cursor:not-allowed; }
+  .result-panel{ min-height:320px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; }
+  .result-empty{ color:var(--paper-dim); font-size:14px; line-height:1.7; }
+  .result-empty .icon{ font-size:28px; display:block; margin-bottom:10px; opacity:0.6; }
+  .stamp{
+    width:168px; height:168px; border:3px solid var(--brass); border-radius:50%;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    margin:0 auto 22px; transform:rotate(-6deg); position:relative;
+    animation:stampIn .35s cubic-bezier(.2,1.4,.4,1) both;
+  }
+  .stamp::after{ content:''; position:absolute; inset:8px; border:1px dashed var(--brass); border-radius:50%; }
+  @keyframes stampIn{ from{ opacity:0; transform:rotate(-6deg) scale(0.7); } to{ opacity:1; transform:rotate(-6deg) scale(1); } }
+  .stamp .label{ font-family:'JetBrains Mono',monospace; font-size:9px; letter-spacing:1.5px; color:var(--brass); text-transform:uppercase; }
+  .stamp .value{ font-family:'Spectral',serif; font-weight:700; font-size:26px; color:var(--paper); margin:4px 0 2px; }
+  .stamp .unit{ font-family:'JetBrains Mono',monospace; font-size:10px; color:var(--paper-dim); }
+  .result-sub{ font-family:'JetBrains Mono',monospace; font-size:13px; color:var(--paper-dim); }
+  .result-sub strong{ color:var(--brass-bright); }
+  footer{
+    margin-top:56px; padding-top:20px; border-top:1px dashed var(--grid-line-strong);
+    font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--paper-dim);
+    display:flex; justify-content:space-between;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">Estate<span>Line</span></div>
+    <div class="doc-tag">DOC NO. HPM-2026-01<br>SCALE — REGRESSION</div>
+  </header>
+  <div class="hero">
+    <h1>Estimate a property's value <em>before</em> you sign anything.</h1>
+    <p>Enter the specs of a property — location, size, layout — and get an instant machine-learning price estimate.</p>
+    <div class="model-chip">MODEL: {{ model_name.upper() }} · R² {{ r2_score }}</div>
+  </div>
+  <div class="grid">
+    <div class="panel" data-label="Property Specification">
+      <form id="predict-form">
+        <div class="field">
+          <label for="location">Location</label>
+          <select id="location" required>
+            {% for loc in locations %}
+            <option value="{{ loc }}">{{ loc }}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <div class="row2">
+          <div class="field">
+            <label for="total_sqft">Total Area (sq.ft)</label>
+            <input type="number" id="total_sqft" min="200" max="10000" value="1200" required>
+          </div>
+          <div class="field">
+            <label for="bhk">Bedrooms (BHK)</label>
+            <input type="number" id="bhk" min="1" max="10" value="2" required>
+          </div>
+        </div>
+        <div class="row3">
+          <div class="field">
+            <label for="bath">Bathrooms</label>
+            <input type="number" id="bath" min="1" max="10" value="2" required>
+          </div>
+          <div class="field">
+            <label for="balcony">Balconies</label>
+            <input type="number" id="balcony" min="0" max="5" value="1" required>
+          </div>
+          <div class="field">
+            <label for="age_years">Age (years)</label>
+            <input type="number" id="age_years" min="0" max="60" value="3" required>
+          </div>
+        </div>
+        <div class="field">
+          <label>Furnishing</label>
+          <div class="toggle-group" id="furnishing-group">
+            {% for f in furnishing_options %}
+            <button type="button" class="furnish-btn" data-value="{{ f }}">{{ f }}</button>
+            {% endfor %}
+          </div>
+        </div>
+        <div class="field">
+          <label>Parking Available</label>
+          <div class="toggle-group">
+            <button type="button" class="parking-btn active" data-value="1">Yes</button>
+            <button type="button" class="parking-btn" data-value="0">No</button>
+          </div>
+        </div>
+        <button type="submit" class="submit-btn" id="submit-btn">Estimate Price</button>
+      </form>
+    </div>
+    <div class="panel result-panel" data-label="Valuation Output" id="result-panel">
+      <div class="result-empty">
+        <span class="icon">⌂</span>
+        Fill in the property specification<br>and submit to see an estimate.
+      </div>
+    </div>
+  </div>
+  <footer>
+    <span>BUILT FOR DATA SCIENCE COURSEWORK</span>
+    <span>SYNTHETIC DATASET · GRADIENT BOOSTING REGRESSOR</span>
+  </footer>
+</div>
+<script>
+let selectedFurnishing = "{{ furnishing_options[0] }}";
+let selectedParking = "1";
+
+document.querySelectorAll('.furnish-btn').forEach((btn, i) => {
+  if(i === 0) btn.classList.add('active');
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.furnish-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    selectedFurnishing = btn.dataset.value;
+  });
+});
+
+document.querySelectorAll('.parking-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.parking-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    selectedParking = btn.dataset.value;
+  });
+});
+
+document.getElementById('predict-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const submitBtn = document.getElementById('submit-btn');
+  const resultPanel = document.getElementById('result-panel');
+  submitBtn.disabled = true;
+  submitBtn.textContent = 'Calculating…';
+
+  const payload = {
+    location: document.getElementById('location').value,
+    total_sqft: document.getElementById('total_sqft').value,
+    bhk: document.getElementById('bhk').value,
+    bath: document.getElementById('bath').value,
+    balcony: document.getElementById('balcony').value,
+    age_years: document.getElementById('age_years').value,
+    furnishing: selectedFurnishing,
+    parking: selectedParking,
+  };
+
+  try {
+    const res = await fetch('/predict', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify(payload)
+    });
+    const data = await res.json();
+    if (data.success) {
+      resultPanel.innerHTML = `
+        <div class="stamp">
+          <div class="label">Estimated</div>
+          <div class="value">₹${data.price_lakhs}L</div>
+          <div class="unit">LAKHS INR</div>
+        </div>
+        <div class="result-sub">≈ <strong>₹${data.price_inr.toLocaleString('en-IN')}</strong> total value</div>
+      `;
+    } else {
+      resultPanel.innerHTML = `<div style="color:#D67A6B;font-family:monospace">Error: ${data.error}</div>`;
+    }
+  } catch(err) {
+    resultPanel.innerHTML = `<div style="color:#D67A6B;font-family:monospace">Request failed. Is the server running?</div>`;
+  }
+
+  submitBtn.disabled = false;
+  submitBtn.textContent = 'Estimate Price';
+});
+</script>
+</body>
+</html>

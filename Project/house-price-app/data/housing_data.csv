@@ -1,0 +1,4001 @@
+location,total_sqft,bhk,bath,balcony,age_years,furnishing,parking,price_lakhs
+HSR Layout,1644,3,4,0,4.0,Unfurnished,1,147.0
+Sarjapur Road,1669,3,3,2,18.8,Semi-Furnished,1,89.64
+Hebbal,1208,3,4,0,11.0,Unfurnished,1,76.66
+Marathahalli,1197,2,3,1,17.0,Semi-Furnished,1,65.27
+Indiranagar,928,2,1,3,9.8,Semi-Furnished,1,90.72
+Indiranagar,1179,2,3,3,2.6,Semi-Furnished,0,124.85
+Whitefield,1040,2,2,1,10.0,Semi-Furnished,1,65.14
+BTM Layout,1054,2,1,1,15.4,Unfurnished,1,59.88
+Marathahalli,1472,3,3,0,17.6,Unfurnished,0,69.43
+Hebbal,782,1,1,0,6.9,Semi-Furnished,1,60.38
+Whitefield,414,1,1,0,1.4,Unfurnished,1,22.42
+Sarjapur Road,1141,2,2,0,0.2,Unfurnished,1,64.31
+JP Nagar,1665,3,3,1,1.0,Semi-Furnished,0,126.9
+Indiranagar,1157,2,3,1,20.2,Unfurnished,1,93.88
+Indiranagar,1849,3,3,2,3.7,Semi-Furnished,1,212.78
+Indiranagar,971,2,1,1,11.6,Unfurnished,0,83.9
+Koramangala,2244,4,4,2,3.8,Furnished,1,301.16
+Jayanagar,2084,4,3,1,6.5,Semi-Furnished,1,182.03
+HSR Layout,1235,2,2,1,0.1,Unfurnished,1,116.58
+Koramangala,1049,2,3,1,1.7,Semi-Furnished,1,116.03
+Marathahalli,992,2,2,0,3.4,Semi-Furnished,1,58.29
+Indiranagar,1246,2,2,0,6.0,Semi-Furnished,0,125.19
+Koramangala,1426,3,3,0,1.1,Semi-Furnished,1,166.78
+HSR Layout,1288,3,3,1,8.7,Semi-Furnished,1,123.41
+HSR Layout,1422,3,3,1,2.7,Unfurnished,1,130.69
+JP Nagar,1593,3,3,0,10.2,Unfurnished,0,95.48
+Indiranagar,1259,2,3,2,0.6,Furnished,0,135.18
+Jayanagar,1067,2,3,2,6.8,Unfurnished,0,89.41
+Marathahalli,1698,3,3,2,2.1,Unfurnished,1,83.9
+Whitefield,846,2,3,1,9.5,Unfurnished,0,47.19
+Marathahalli,1434,3,3,0,3.1,Furnished,1,95.35
+Indiranagar,1007,2,2,3,6.6,Semi-Furnished,1,107.83
+Whitefield,583,1,2,1,16.3,Semi-Furnished,0,33.34
+Sarjapur Road,2813,5,4,0,0.1,Furnished,1,177.61
+Sarjapur Road,1154,2,1,3,0.1,Furnished,0,69.83
+JP Nagar,2733,5,5,0,8.8,Semi-Furnished,1,197.94
+Koramangala,2821,5,6,3,6.2,Unfurnished,1,301.88
+Electronic City,1493,3,3,2,2.1,Unfurnished,1,53.79
+Yelahanka,1361,3,3,2,4.1,Semi-Furnished,0,68.99
+HSR Layout,1483,3,2,1,0.3,Unfurnished,1,127.03
+Indiranagar,2078,4,5,2,1.3,Semi-Furnished,1,226.8
+Jayanagar,1025,2,3,0,3.3,Semi-Furnished,1,96.01
+Whitefield,1055,2,3,2,10.8,Semi-Furnished,0,54.42
+BTM Layout,1511,3,2,1,3.9,Unfurnished,1,103.38
+Koramangala,985,2,2,0,5.3,Unfurnished,0,97.26
+Yelahanka,1241,2,1,1,12.4,Semi-Furnished,1,60.64
+Koramangala,875,2,2,4,2.2,Unfurnished,1,90.41
+Jayanagar,1392,3,3,4,7.2,Semi-Furnished,1,110.5
+Jayanagar,2517,4,4,3,11.9,Semi-Furnished,1,194.06
+Indiranagar,894,2,2,2,1.4,Furnished,0,89.54
+Sarjapur Road,1897,4,4,1,2.6,Furnished,0,122.95
+JP Nagar,1610,3,3,1,23.4,Unfurnished,0,93.46
+Sarjapur Road,1188,3,4,1,24.5,Semi-Furnished,0,56.61
+BTM Layout,1465,3,4,1,1.5,Unfurnished,1,93.3
+Marathahalli,1822,3,2,0,0.4,Unfurnished,0,101.47
+BTM Layout,368,1,1,0,1.9,Semi-Furnished,1,29.33
+Electronic City,1203,3,2,0,3.0,Semi-Furnished,1,48.25
+Indiranagar,375,1,2,2,3.5,Semi-Furnished,1,38.18
+Whitefield,2235,4,3,0,5.8,Unfurnished,0,110.03
+Koramangala,2969,5,4,1,13.8,Furnished,0,308.55
+HSR Layout,973,2,3,2,2.4,Unfurnished,0,80.26
+Koramangala,1152,2,2,1,11.4,Furnished,1,134.54
+JP Nagar,1709,3,4,0,0.6,Semi-Furnished,1,141.96
+HSR Layout,1318,2,2,0,0.3,Unfurnished,1,131.21
+Koramangala,2063,4,5,0,4.2,Unfurnished,1,214.9
+Jayanagar,300,1,1,2,0.4,Unfurnished,1,26.11
+Indiranagar,927,2,2,2,3.0,Furnished,0,97.46
+JP Nagar,2736,5,5,0,13.6,Furnished,1,198.81
+Electronic City,1461,3,3,2,1.7,Semi-Furnished,1,71.96
+Sarjapur Road,2072,4,4,1,7.3,Semi-Furnished,0,123.68
+JP Nagar,1218,2,2,0,2.2,Semi-Furnished,1,101.55
+Indiranagar,1691,3,3,3,0.3,Semi-Furnished,1,181.66
+Whitefield,1474,3,3,2,4.9,Semi-Furnished,1,85.97
+JP Nagar,1665,3,4,1,10.8,Unfurnished,0,120.64
+Hebbal,1554,3,4,1,3.2,Furnished,1,132.14
+Hebbal,1510,3,3,2,5.8,Semi-Furnished,0,118.96
+JP Nagar,1186,2,3,0,13.8,Unfurnished,1,74.07
+Electronic City,1061,2,2,3,9.4,Furnished,0,51.57
+HSR Layout,1809,3,3,2,1.3,Semi-Furnished,0,176.68
+Electronic City,834,2,2,0,7.9,Unfurnished,1,33.31
+BTM Layout,1423,3,4,0,4.2,Unfurnished,1,110.27
+Marathahalli,1031,2,2,4,8.2,Semi-Furnished,1,62.3
+Koramangala,1566,3,3,0,4.1,Furnished,0,170.35
+Whitefield,1690,3,3,0,0.8,Furnished,1,118.53
+Koramangala,1046,2,3,2,5.1,Semi-Furnished,1,109.46
+Koramangala,387,1,1,0,4.1,Unfurnished,1,38.4
+Hebbal,1176,2,2,2,4.4,Unfurnished,0,79.76
+Yelahanka,1613,3,3,0,12.7,Unfurnished,0,74.37
+BTM Layout,1809,4,4,1,13.5,Furnished,1,138.75
+Jayanagar,599,1,1,1,3.6,Furnished,1,55.47
+Electronic City,1261,3,2,0,3.6,Unfurnished,1,54.92
+Hebbal,950,2,3,2,4.3,Semi-Furnished,1,73.98
+Hebbal,915,2,2,1,4.4,Semi-Furnished,1,57.26
+Marathahalli,2221,4,4,0,18.0,Unfurnished,1,111.63
+JP Nagar,1068,2,1,1,6.3,Semi-Furnished,1,80.92
+Jayanagar,857,2,2,1,1.9,Furnished,1,90.6
+Jayanagar,732,1,2,0,4.5,Unfurnished,0,60.61
+HSR Layout,385,1,1,1,5.9,Furnished,0,39.38
+Whitefield,1100,2,2,4,6.1,Unfurnished,1,60.98
+Electronic City,478,1,2,4,5.3,Unfurnished,1,20.4
+Whitefield,1445,3,2,2,1.2,Unfurnished,1,92.03
+Yelahanka,1126,2,2,0,0.2,Furnished,0,63.39
+Koramangala,1578,3,4,1,2.5,Unfurnished,0,162.86
+Jayanagar,1251,2,2,0,3.3,Semi-Furnished,1,100.12
+BTM Layout,1038,2,1,0,0.4,Semi-Furnished,0,76.73
+Koramangala,1546,3,2,1,10.1,Semi-Furnished,1,139.88
+HSR Layout,2734,5,6,2,2.5,Furnished,0,273.53
+Hebbal,627,1,1,1,14.7,Unfurnished,1,38.72
+Indiranagar,2166,4,3,3,1.0,Furnished,1,263.95
+Electronic City,1485,3,2,2,0.4,Unfurnished,0,57.82
+Koramangala,1229,3,4,4,4.0,Semi-Furnished,1,142.66
+Indiranagar,1550,3,4,3,1.3,Semi-Furnished,0,177.02
+BTM Layout,655,1,2,2,16.6,Furnished,0,45.06
+JP Nagar,498,1,1,1,0.1,Unfurnished,1,33.23
+Yelahanka,1307,3,3,2,3.2,Semi-Furnished,1,70.05
+BTM Layout,1271,2,1,1,15.7,Unfurnished,1,73.1
+JP Nagar,2174,4,5,0,2.9,Unfurnished,1,152.89
+Indiranagar,1016,2,2,3,0.6,Unfurnished,0,102.27
+BTM Layout,879,2,2,2,2.2,Unfurnished,0,67.41
+Jayanagar,1377,3,4,0,4.1,Furnished,1,127.13
+JP Nagar,1245,2,2,0,1.2,Semi-Furnished,1,94.57
+BTM Layout,1521,3,2,1,3.8,Unfurnished,1,102.57
+Koramangala,1417,3,3,0,10.9,Furnished,1,155.7
+Electronic City,2176,4,3,3,12.4,Unfurnished,1,97.21
+Indiranagar,1378,3,4,0,0.3,Semi-Furnished,1,144.06
+HSR Layout,1725,3,2,1,1.1,Furnished,0,172.73
+JP Nagar,1703,3,3,2,1.9,Furnished,1,164.95
+BTM Layout,2030,4,3,2,5.4,Unfurnished,1,145.01
+Whitefield,956,2,2,3,2.7,Semi-Furnished,1,65.14
+Jayanagar,300,1,1,1,11.1,Unfurnished,1,21.83
+HSR Layout,828,2,2,0,7.6,Furnished,1,80.87
+Indiranagar,849,2,2,1,0.6,Semi-Furnished,0,80.38
+Electronic City,1520,3,3,2,5.9,Semi-Furnished,1,72.15
+Koramangala,1451,3,2,0,0.7,Unfurnished,0,159.8
+Sarjapur Road,1298,3,2,2,1.8,Semi-Furnished,1,74.34
+Koramangala,558,1,1,1,1.2,Semi-Furnished,1,61.7
+Jayanagar,1576,3,2,1,1.1,Semi-Furnished,1,140.65
+Hebbal,1129,2,2,3,5.7,Semi-Furnished,1,72.31
+HSR Layout,1215,3,2,3,5.0,Furnished,0,115.41
+Sarjapur Road,1481,3,3,2,1.2,Semi-Furnished,1,93.78
+Sarjapur Road,842,2,2,0,27.7,Unfurnished,1,34.55
+Koramangala,1185,2,2,0,3.3,Furnished,1,145.36
+Jayanagar,718,1,2,1,0.6,Unfurnished,0,54.29
+Koramangala,1965,4,3,2,0.8,Semi-Furnished,0,212.91
+Koramangala,1985,4,5,1,5.3,Furnished,1,233.12
+Whitefield,1431,3,3,2,23.2,Unfurnished,1,64.29
+Marathahalli,300,1,1,0,5.1,Furnished,0,20.07
+Jayanagar,1100,2,3,4,17.9,Semi-Furnished,1,93.79
+Whitefield,1459,3,2,2,3.5,Semi-Furnished,1,86.12
+Koramangala,1646,3,3,3,3.4,Unfurnished,1,167.29
+BTM Layout,435,1,2,0,4.2,Unfurnished,1,30.87
+Koramangala,507,1,1,2,7.2,Furnished,1,52.21
+Indiranagar,1274,3,4,1,2.7,Unfurnished,0,108.97
+Jayanagar,899,2,2,3,12.0,Semi-Furnished,1,81.59
+Sarjapur Road,873,2,2,3,0.2,Unfurnished,0,43.56
+Koramangala,749,1,1,0,3.5,Unfurnished,1,84.03
+Yelahanka,1395,3,3,1,4.3,Semi-Furnished,1,65.78
+Hebbal,2119,4,4,1,5.6,Unfurnished,0,141.87
+Koramangala,2043,4,4,1,1.9,Furnished,1,246.36
+Hebbal,1310,3,3,1,3.3,Semi-Furnished,1,94.83
+HSR Layout,1475,3,3,3,4.0,Semi-Furnished,0,153.33
+Yelahanka,690,1,1,2,7.0,Unfurnished,1,29.66
+Yelahanka,1319,3,2,1,8.9,Furnished,1,75.17
+Jayanagar,1171,2,2,1,8.0,Unfurnished,1,97.09
+Electronic City,1373,3,2,1,2.5,Semi-Furnished,1,78.38
+JP Nagar,978,2,2,3,40.0,Unfurnished,1,46.04
+Koramangala,1130,2,2,0,11.3,Unfurnished,0,100.25
+Indiranagar,500,1,2,1,1.8,Semi-Furnished,0,54.52
+Whitefield,1056,2,2,3,1.3,Semi-Furnished,1,67.12
+Marathahalli,553,1,1,1,2.3,Unfurnished,1,30.59
+Yelahanka,1069,2,2,1,3.6,Semi-Furnished,0,57.43
+Whitefield,2443,5,6,1,11.4,Semi-Furnished,1,144.78
+Jayanagar,776,2,2,1,9.0,Unfurnished,1,57.58
+Indiranagar,1592,3,4,2,11.4,Unfurnished,1,153.22
+Yelahanka,2256,4,4,1,1.9,Unfurnished,1,113.82
+Indiranagar,2663,5,4,1,5.4,Unfurnished,1,246.23
+Hebbal,1463,3,3,1,2.0,Unfurnished,1,97.78
+HSR Layout,1544,3,4,0,0.7,Unfurnished,1,134.15
+Sarjapur Road,1154,2,2,2,6.9,Semi-Furnished,1,69.49
+Indiranagar,746,2,3,2,0.9,Unfurnished,1,72.76
+Koramangala,917,2,2,2,6.6,Semi-Furnished,0,90.53
+Electronic City,1450,3,3,2,6.3,Furnished,1,64.58
+BTM Layout,1605,3,3,4,10.0,Furnished,1,128.47
+BTM Layout,1425,2,1,1,0.9,Furnished,1,115.53
+Koramangala,1016,2,2,2,9.2,Unfurnished,1,85.78
+Yelahanka,1289,3,2,1,40.0,Unfurnished,1,40.07
+JP Nagar,1110,2,2,3,11.4,Furnished,1,87.68
+Jayanagar,1698,3,4,1,8.4,Unfurnished,1,135.79
+Jayanagar,1516,3,3,3,6.5,Unfurnished,0,115.84
+Koramangala,1364,3,3,1,3.3,Semi-Furnished,1,148.07
+Electronic City,1644,3,2,1,7.9,Unfurnished,1,60.32
+BTM Layout,2200,4,4,1,7.7,Furnished,1,164.11
+BTM Layout,896,2,3,1,6.0,Semi-Furnished,0,70.21
+Yelahanka,1557,3,3,2,9.5,Semi-Furnished,1,83.19
+Koramangala,1650,3,2,0,3.6,Furnished,1,208.7
+Koramangala,1227,2,3,0,0.8,Unfurnished,0,131.19
+Hebbal,590,1,1,3,4.9,Semi-Furnished,0,43.62
+BTM Layout,996,2,1,4,1.8,Unfurnished,0,62.42
+BTM Layout,1234,2,1,1,2.9,Semi-Furnished,1,93.63
+JP Nagar,1318,3,3,1,0.1,Unfurnished,1,90.88
+Yelahanka,2166,4,4,3,2.9,Semi-Furnished,0,101.21
+Electronic City,844,2,3,0,9.9,Furnished,1,41.91
+Indiranagar,1210,2,2,1,4.7,Unfurnished,0,117.96
+BTM Layout,2761,5,5,1,0.1,Unfurnished,1,195.28
+Marathahalli,790,1,1,3,3.8,Unfurnished,1,49.76
+Whitefield,1124,2,3,0,2.1,Unfurnished,1,69.0
+Electronic City,1317,3,3,3,3.9,Unfurnished,0,50.67
+Yelahanka,1714,3,3,0,3.1,Furnished,1,90.97
+Whitefield,833,1,2,2,16.1,Semi-Furnished,1,51.66
+Indiranagar,732,1,1,0,0.3,Semi-Furnished,1,78.62
+Jayanagar,486,1,1,1,6.9,Semi-Furnished,1,44.29
+Hebbal,1454,3,4,2,11.4,Unfurnished,1,76.44
+Yelahanka,1522,3,3,1,19.2,Unfurnished,0,62.89
+Indiranagar,944,2,3,0,1.2,Semi-Furnished,0,94.34
+Hebbal,1754,3,2,3,4.5,Semi-Furnished,0,110.41
+Koramangala,1522,3,4,0,0.3,Unfurnished,1,163.57
+Koramangala,300,1,1,0,4.1,Unfurnished,1,33.13
+Hebbal,1101,2,2,2,0.8,Unfurnished,1,88.32
+Yelahanka,1448,3,4,0,10.9,Unfurnished,1,68.44
+JP Nagar,1039,2,3,0,0.7,Unfurnished,1,74.99
+Yelahanka,995,2,1,2,4.3,Semi-Furnished,1,49.01
+Marathahalli,1621,3,2,4,4.4,Furnished,1,114.73
+Electronic City,2268,4,4,1,21.4,Unfurnished,1,76.38
+HSR Layout,1542,3,3,0,6.4,Semi-Furnished,0,145.11
+Koramangala,1449,3,3,0,2.0,Unfurnished,1,154.36
+Koramangala,1494,3,3,1,1.7,Semi-Furnished,0,164.42
+Sarjapur Road,1053,2,2,0,0.8,Semi-Furnished,1,56.49
+HSR Layout,1380,3,3,2,8.5,Furnished,1,135.43
+BTM Layout,1137,2,2,1,7.0,Unfurnished,0,66.5
+Yelahanka,1119,2,2,0,5.6,Unfurnished,1,51.16
+JP Nagar,1731,3,4,1,0.3,Semi-Furnished,0,145.76
+Jayanagar,1688,3,3,4,8.6,Unfurnished,1,145.6
+Marathahalli,947,2,3,0,6.2,Unfurnished,1,54.27
+Jayanagar,2223,4,4,1,19.9,Unfurnished,1,153.03
+Indiranagar,457,1,2,1,5.3,Semi-Furnished,1,52.92
+Hebbal,1154,2,1,1,2.2,Unfurnished,1,75.77
+Koramangala,523,1,2,0,2.9,Furnished,1,60.04
+Whitefield,1347,3,3,3,1.2,Unfurnished,1,84.39
+Yelahanka,1542,3,4,0,7.7,Unfurnished,1,76.04
+Indiranagar,649,2,3,1,7.4,Semi-Furnished,0,61.47
+Sarjapur Road,1237,3,3,2,1.3,Unfurnished,1,69.23
+Sarjapur Road,1023,2,2,2,1.0,Semi-Furnished,1,63.46
+BTM Layout,1512,3,3,1,0.5,Semi-Furnished,1,118.38
+HSR Layout,995,2,1,0,14.6,Semi-Furnished,1,89.65
+Whitefield,813,2,1,3,1.6,Semi-Furnished,0,48.49
+BTM Layout,1977,4,5,2,2.5,Unfurnished,1,147.04
+HSR Layout,1109,2,1,2,2.0,Furnished,0,113.46
+Sarjapur Road,1137,2,2,3,3.2,Semi-Furnished,1,64.98
+Sarjapur Road,1498,3,3,3,7.5,Unfurnished,1,77.72
+BTM Layout,2974,5,5,1,12.3,Unfurnished,0,183.75
+Koramangala,1110,2,2,3,1.2,Unfurnished,1,104.82
+HSR Layout,488,1,1,1,7.0,Unfurnished,1,40.28
+JP Nagar,1008,2,3,2,2.6,Semi-Furnished,1,81.79
+Koramangala,1290,3,3,0,23.6,Unfurnished,1,100.51
+Indiranagar,1034,2,1,1,2.1,Furnished,1,113.38
+Jayanagar,1667,3,3,3,0.0,Unfurnished,1,165.89
+Sarjapur Road,2903,5,5,1,4.3,Unfurnished,0,139.4
+Hebbal,1260,2,2,0,1.0,Unfurnished,1,84.75
+Marathahalli,1005,2,2,3,0.3,Unfurnished,1,54.98
+Electronic City,1252,2,1,0,7.2,Furnished,1,60.32
+Marathahalli,571,1,1,0,7.9,Semi-Furnished,1,31.73
+Sarjapur Road,2321,4,3,0,3.7,Unfurnished,1,124.34
+Indiranagar,1047,2,3,1,6.8,Furnished,1,111.81
+Jayanagar,1156,2,1,1,4.6,Furnished,1,120.32
+BTM Layout,1721,3,3,2,6.0,Semi-Furnished,1,127.7
+Hebbal,1021,2,1,1,5.4,Furnished,1,74.68
+Hebbal,1533,3,4,0,6.6,Semi-Furnished,1,118.02
+Hebbal,793,1,1,1,1.3,Semi-Furnished,1,55.09
+HSR Layout,1480,3,2,3,1.9,Unfurnished,1,118.79
+Koramangala,1902,4,4,1,3.5,Unfurnished,1,196.07
+JP Nagar,1821,3,3,2,3.5,Semi-Furnished,1,162.25
+JP Nagar,2030,4,4,3,8.9,Furnished,1,145.28
+BTM Layout,1074,2,1,2,2.7,Semi-Furnished,1,73.85
+BTM Layout,1223,2,1,1,1.1,Furnished,1,108.06
+Jayanagar,1409,3,4,0,1.7,Unfurnished,0,111.02
+Jayanagar,1349,3,3,4,1.5,Semi-Furnished,0,123.09
+JP Nagar,1088,2,2,0,7.9,Semi-Furnished,0,74.61
+Yelahanka,781,2,2,1,3.8,Semi-Furnished,1,41.23
+Hebbal,1007,2,2,2,7.4,Semi-Furnished,1,80.0
+JP Nagar,1087,2,1,1,3.2,Unfurnished,1,72.68
+BTM Layout,1010,2,1,3,13.2,Unfurnished,1,69.47
+Koramangala,1268,3,4,1,24.6,Furnished,1,136.22
+HSR Layout,1289,2,2,1,6.6,Unfurnished,1,100.09
+Electronic City,616,1,1,0,12.0,Semi-Furnished,0,26.25
+Marathahalli,1715,3,2,1,4.3,Unfurnished,1,96.94
+Whitefield,1461,3,2,0,16.4,Unfurnished,1,77.05
+Jayanagar,1968,4,3,2,10.7,Semi-Furnished,0,163.12
+Jayanagar,1540,3,3,1,28.8,Semi-Furnished,1,106.48
+Koramangala,1018,2,2,1,5.9,Furnished,0,117.32
+Marathahalli,1323,3,2,1,9.1,Unfurnished,0,69.86
+Whitefield,1720,3,3,2,4.7,Semi-Furnished,1,113.47
+Whitefield,507,1,2,1,1.8,Furnished,1,32.4
+JP Nagar,1224,3,3,1,2.6,Furnished,0,111.03
+HSR Layout,2299,4,4,1,13.5,Furnished,1,203.55
+Indiranagar,974,2,2,2,0.3,Semi-Furnished,0,105.01
+Jayanagar,959,2,2,0,5.4,Unfurnished,1,78.69
+JP Nagar,785,2,2,3,2.8,Unfurnished,1,52.31
+Indiranagar,1311,2,2,1,2.9,Furnished,1,154.82
+Marathahalli,857,2,1,0,13.0,Furnished,1,49.28
+Electronic City,1509,3,3,1,11.5,Semi-Furnished,0,66.8
+Whitefield,737,1,2,1,5.5,Unfurnished,0,39.61
+Jayanagar,2163,4,4,3,1.9,Semi-Furnished,0,168.9
+Jayanagar,1491,3,4,2,3.9,Unfurnished,1,139.14
+Yelahanka,1245,3,2,0,3.1,Semi-Furnished,1,66.29
+Hebbal,1379,3,3,0,2.6,Unfurnished,0,95.96
+Sarjapur Road,628,1,1,2,0.7,Furnished,0,37.42
+Jayanagar,932,2,1,3,4.7,Unfurnished,1,66.36
+Koramangala,1531,3,4,0,2.2,Semi-Furnished,0,188.82
+JP Nagar,1602,3,4,0,6.5,Unfurnished,1,115.94
+Koramangala,1644,3,3,0,2.3,Semi-Furnished,1,191.24
+HSR Layout,866,2,2,0,3.4,Semi-Furnished,1,87.1
+Electronic City,2429,4,3,1,0.3,Furnished,1,121.96
+Whitefield,1165,2,2,0,29.4,Unfurnished,0,52.5
+Sarjapur Road,2100,4,4,0,4.3,Unfurnished,1,126.59
+JP Nagar,2963,5,4,0,0.1,Semi-Furnished,1,238.88
+Hebbal,1405,2,1,2,4.7,Unfurnished,1,100.43
+HSR Layout,1284,3,3,0,12.3,Unfurnished,1,91.18
+Indiranagar,566,1,1,1,8.9,Semi-Furnished,1,60.51
+Indiranagar,693,2,1,0,7.2,Semi-Furnished,0,59.87
+Koramangala,1529,3,4,4,0.9,Unfurnished,1,175.85
+Jayanagar,1555,3,3,1,6.4,Unfurnished,1,129.26
+Hebbal,2094,4,4,1,8.7,Furnished,1,159.11
+Yelahanka,1402,3,2,1,5.1,Semi-Furnished,0,69.23
+Koramangala,743,2,2,1,13.4,Unfurnished,1,69.12
+Sarjapur Road,1556,3,3,1,1.9,Unfurnished,0,77.99
+Hebbal,2318,4,4,3,1.7,Semi-Furnished,0,163.06
+Jayanagar,511,1,1,1,12.2,Unfurnished,1,45.4
+Marathahalli,2866,5,5,0,5.9,Furnished,1,204.77
+HSR Layout,365,1,2,2,0.0,Semi-Furnished,1,34.56
+Koramangala,1569,3,3,0,2.6,Semi-Furnished,1,179.31
+Koramangala,991,2,2,1,11.7,Furnished,1,113.19
+Hebbal,936,2,2,1,0.2,Unfurnished,1,64.47
+Whitefield,936,2,2,1,0.0,Unfurnished,1,52.5
+Electronic City,1441,3,3,0,2.0,Semi-Furnished,0,66.33
+Whitefield,1107,2,1,2,14.7,Semi-Furnished,0,64.81
+Whitefield,403,1,2,0,13.9,Unfurnished,0,19.95
+BTM Layout,1440,3,3,0,4.4,Unfurnished,1,113.34
+Hebbal,2094,4,4,2,4.8,Unfurnished,1,155.26
+Jayanagar,885,2,1,3,2.4,Unfurnished,1,76.86
+Electronic City,1319,2,1,0,1.7,Semi-Furnished,1,56.08
+Jayanagar,922,2,1,0,10.1,Semi-Furnished,1,80.25
+Jayanagar,500,1,2,3,0.7,Unfurnished,1,44.1
+Indiranagar,1353,3,4,1,4.0,Unfurnished,0,131.47
+HSR Layout,1770,3,3,1,6.0,Unfurnished,1,171.38
+HSR Layout,1583,3,3,0,0.7,Unfurnished,1,142.29
+Marathahalli,910,2,2,1,4.4,Unfurnished,1,58.46
+Yelahanka,1666,3,3,1,5.2,Unfurnished,1,81.98
+Whitefield,1530,3,3,3,8.1,Unfurnished,0,81.3
+HSR Layout,1539,3,4,4,1.6,Semi-Furnished,1,178.9
+Marathahalli,1448,3,2,1,2.1,Semi-Furnished,1,94.75
+Jayanagar,1388,3,3,3,5.1,Unfurnished,1,109.93
+BTM Layout,1551,3,3,1,24.5,Furnished,1,106.21
+Yelahanka,968,2,2,1,1.5,Furnished,0,56.58
+Indiranagar,2373,4,4,1,25.6,Furnished,1,217.67
+Electronic City,1310,3,2,1,7.5,Furnished,0,61.6
+Yelahanka,1730,3,4,1,10.5,Semi-Furnished,1,82.16
+Whitefield,1033,2,3,1,0.6,Semi-Furnished,1,60.25
+Marathahalli,1545,3,2,2,2.1,Unfurnished,1,89.13
+Sarjapur Road,1625,3,4,1,0.4,Semi-Furnished,0,97.3
+Marathahalli,955,2,2,3,2.8,Semi-Furnished,1,60.89
+HSR Layout,730,1,1,1,23.9,Semi-Furnished,1,56.0
+Yelahanka,1094,3,3,2,0.7,Semi-Furnished,0,51.1
+HSR Layout,1392,3,3,1,5.0,Unfurnished,0,109.65
+Jayanagar,1361,3,2,0,0.0,Semi-Furnished,1,134.61
+Sarjapur Road,862,2,3,0,7.5,Unfurnished,0,42.55
+HSR Layout,1468,3,4,0,1.3,Semi-Furnished,0,136.47
+Sarjapur Road,658,1,1,0,0.8,Furnished,1,42.38
+BTM Layout,1155,2,1,1,2.5,Furnished,0,88.16
+Indiranagar,1086,2,3,0,8.8,Semi-Furnished,1,104.55
+Whitefield,950,2,3,1,0.7,Unfurnished,1,54.58
+Electronic City,1105,2,2,1,1.6,Furnished,1,61.74
+Whitefield,1069,2,2,2,0.1,Unfurnished,0,64.9
+Electronic City,740,1,2,2,20.7,Furnished,1,35.3
+Yelahanka,1167,2,2,1,5.4,Unfurnished,1,61.39
+Electronic City,1505,3,3,2,7.6,Unfurnished,1,51.59
+Koramangala,915,2,3,0,6.3,Semi-Furnished,1,103.98
+JP Nagar,952,2,2,1,0.9,Semi-Furnished,1,73.3
+Whitefield,2018,4,3,0,5.4,Unfurnished,1,125.57
+JP Nagar,1003,2,2,0,0.8,Semi-Furnished,0,73.47
+Koramangala,1540,3,3,0,3.1,Semi-Furnished,1,159.36
+Electronic City,707,1,1,0,5.0,Unfurnished,1,26.67
+Hebbal,592,1,1,1,4.9,Semi-Furnished,1,41.9
+Yelahanka,1502,3,2,0,0.8,Unfurnished,1,79.27
+BTM Layout,1521,3,3,0,0.2,Semi-Furnished,1,119.8
+Hebbal,2023,4,4,3,9.6,Unfurnished,1,119.18
+JP Nagar,1361,3,3,2,7.8,Semi-Furnished,1,118.75
+Koramangala,1837,4,5,4,0.5,Unfurnished,1,206.97
+Indiranagar,496,1,2,1,0.8,Unfurnished,0,50.35
+Hebbal,671,1,1,1,13.4,Semi-Furnished,1,49.14
+JP Nagar,495,1,1,2,8.8,Semi-Furnished,1,32.94
+Sarjapur Road,1014,2,1,0,33.4,Furnished,1,46.1
+HSR Layout,1570,3,4,2,1.8,Furnished,1,180.27
+HSR Layout,1578,3,3,1,4.0,Semi-Furnished,1,142.41
+JP Nagar,438,1,2,1,1.6,Semi-Furnished,1,34.98
+Koramangala,2250,4,4,0,5.8,Unfurnished,1,226.37
+BTM Layout,2269,4,3,2,0.7,Unfurnished,1,147.43
+BTM Layout,881,2,1,1,0.8,Unfurnished,1,61.23
+HSR Layout,476,1,1,0,0.4,Furnished,0,52.42
+Hebbal,1229,2,2,1,7.1,Unfurnished,0,81.63
+Hebbal,1028,2,2,2,4.1,Semi-Furnished,0,77.55
+Electronic City,717,2,2,1,5.8,Unfurnished,0,30.75
+BTM Layout,1290,3,3,1,12.7,Unfurnished,1,85.53
+Jayanagar,1013,2,1,0,8.1,Unfurnished,1,82.64
+JP Nagar,876,2,2,3,3.7,Semi-Furnished,0,67.27
+Koramangala,2738,5,6,0,24.9,Unfurnished,1,226.83
+BTM Layout,1505,3,2,2,3.7,Semi-Furnished,1,105.03
+HSR Layout,2319,4,4,0,0.7,Semi-Furnished,1,216.93
+Whitefield,1006,2,2,1,29.5,Semi-Furnished,0,47.05
+BTM Layout,1211,2,2,1,0.1,Semi-Furnished,0,86.03
+Electronic City,1714,3,2,2,4.8,Semi-Furnished,1,80.0
+Koramangala,815,1,2,0,2.2,Semi-Furnished,1,94.89
+Sarjapur Road,643,1,2,4,4.2,Unfurnished,0,34.97
+Sarjapur Road,1206,3,2,1,4.9,Furnished,1,78.68
+Marathahalli,1569,3,3,0,1.6,Unfurnished,1,97.76
+Yelahanka,1207,2,2,4,4.9,Unfurnished,1,57.86
+HSR Layout,1038,2,2,2,8.5,Unfurnished,1,94.79
+Koramangala,1312,2,3,2,1.9,Semi-Furnished,1,156.45
+Koramangala,729,1,2,2,2.9,Unfurnished,1,83.14
+Yelahanka,1135,2,3,1,1.9,Semi-Furnished,1,68.41
+Hebbal,1213,2,2,4,10.3,Semi-Furnished,1,87.14
+JP Nagar,650,1,2,0,7.7,Semi-Furnished,1,50.68
+JP Nagar,1726,4,4,1,12.3,Unfurnished,1,117.32
+Electronic City,1425,3,3,1,1.1,Semi-Furnished,1,64.44
+Jayanagar,1680,3,3,1,0.5,Unfurnished,1,137.67
+Whitefield,929,2,2,1,0.8,Unfurnished,1,59.19
+Jayanagar,1016,2,2,0,1.1,Unfurnished,1,80.09
+HSR Layout,893,2,3,1,4.6,Semi-Furnished,1,96.52
+BTM Layout,868,1,1,1,21.2,Semi-Furnished,1,55.27
+Koramangala,1302,2,3,4,2.7,Semi-Furnished,0,171.81
+Electronic City,1367,3,3,1,19.1,Semi-Furnished,1,51.98
+Indiranagar,1522,3,3,2,0.2,Semi-Furnished,1,164.98
+Hebbal,1398,3,3,2,15.7,Unfurnished,1,83.08
+Marathahalli,1142,2,3,2,1.2,Unfurnished,1,63.46
+Electronic City,2176,4,4,2,14.6,Furnished,0,102.34
+Electronic City,722,1,2,1,0.3,Semi-Furnished,1,31.98
+Hebbal,1100,2,1,2,17.8,Semi-Furnished,1,67.63
+Electronic City,1490,2,3,0,1.3,Semi-Furnished,1,73.86
+JP Nagar,1346,3,3,1,2.2,Semi-Furnished,0,108.18
+Hebbal,2543,5,5,2,4.1,Semi-Furnished,1,167.06
+Electronic City,991,2,2,1,2.9,Unfurnished,1,44.0
+Electronic City,1865,4,5,3,6.6,Furnished,1,93.71
+Sarjapur Road,1876,4,4,4,22.1,Unfurnished,1,81.16
+HSR Layout,900,2,1,2,5.6,Unfurnished,0,71.47
+HSR Layout,912,2,3,1,7.7,Unfurnished,1,68.52
+JP Nagar,907,2,2,0,0.6,Semi-Furnished,1,81.77
+Sarjapur Road,2878,5,5,1,5.9,Semi-Furnished,1,178.14
+Sarjapur Road,974,2,2,1,3.6,Semi-Furnished,1,52.2
+Hebbal,1473,3,3,0,13.0,Furnished,1,114.59
+HSR Layout,1184,2,2,0,2.9,Unfurnished,1,101.59
+Electronic City,1385,3,3,0,6.8,Semi-Furnished,1,65.74
+JP Nagar,1010,2,1,0,1.6,Semi-Furnished,1,77.83
+Jayanagar,1555,3,3,4,1.8,Furnished,1,150.3
+HSR Layout,1809,4,5,0,2.8,Unfurnished,1,161.76
+BTM Layout,1142,3,3,0,2.2,Furnished,1,90.63
+Electronic City,2152,4,4,1,1.8,Unfurnished,1,101.72
+Jayanagar,674,1,1,1,0.3,Semi-Furnished,1,65.82
+Whitefield,1810,3,4,0,10.9,Semi-Furnished,1,110.63
+Jayanagar,1074,2,2,4,0.4,Furnished,0,111.02
+Whitefield,1173,2,3,1,13.1,Unfurnished,1,57.25
+Electronic City,1471,3,4,2,0.8,Unfurnished,1,59.52
+Electronic City,1095,2,1,3,0.4,Unfurnished,0,47.37
+Yelahanka,1750,3,3,2,5.0,Semi-Furnished,1,95.24
+Hebbal,2481,5,6,0,4.2,Semi-Furnished,1,187.64
+Marathahalli,1112,2,2,1,4.1,Furnished,1,64.17
+Sarjapur Road,1820,3,3,1,5.1,Semi-Furnished,1,98.01
+HSR Layout,1092,2,2,2,2.0,Unfurnished,0,97.32
+Koramangala,1298,2,2,0,6.5,Unfurnished,1,152.7
+BTM Layout,956,2,2,1,4.2,Unfurnished,1,71.95
+Indiranagar,2095,4,4,3,2.4,Semi-Furnished,1,243.46
+Sarjapur Road,2105,4,4,2,10.5,Furnished,1,130.82
+Whitefield,1767,4,5,0,7.8,Furnished,1,123.08
+Sarjapur Road,2625,5,6,2,3.0,Unfurnished,1,136.14
+Whitefield,885,2,1,1,11.3,Unfurnished,0,49.8
+BTM Layout,1173,2,2,2,15.2,Unfurnished,0,70.73
+Jayanagar,1631,3,2,4,4.6,Semi-Furnished,1,151.71
+Sarjapur Road,1099,2,2,0,1.5,Furnished,1,72.11
+Electronic City,1174,2,2,0,14.8,Unfurnished,1,46.09
+Jayanagar,1025,2,1,1,1.3,Unfurnished,0,82.67
+Sarjapur Road,1680,3,2,2,0.3,Semi-Furnished,0,99.28
+Jayanagar,1501,3,2,1,2.4,Semi-Furnished,1,145.08
+Yelahanka,1059,2,2,3,7.8,Unfurnished,1,45.17
+Hebbal,1010,2,3,2,15.4,Furnished,0,63.95
+HSR Layout,1603,3,2,4,6.1,Unfurnished,1,143.71
+Marathahalli,1437,3,4,1,18.2,Furnished,0,91.1
+Marathahalli,1196,2,2,1,0.6,Unfurnished,1,77.53
+BTM Layout,1330,3,2,0,0.4,Unfurnished,1,86.98
+Whitefield,435,1,1,0,5.6,Unfurnished,1,24.36
+Koramangala,1153,2,3,2,20.3,Unfurnished,0,90.07
+Sarjapur Road,1487,3,4,1,4.2,Semi-Furnished,1,85.48
+BTM Layout,1432,3,2,3,0.3,Semi-Furnished,1,119.42
+HSR Layout,1184,2,3,1,1.5,Semi-Furnished,1,117.83
+Marathahalli,1409,3,3,4,1.7,Semi-Furnished,1,85.13
+Koramangala,1470,3,3,1,2.5,Unfurnished,1,158.65
+Indiranagar,1710,3,2,1,0.3,Unfurnished,0,153.04
+Jayanagar,1731,3,3,3,14.1,Furnished,1,171.78
+Koramangala,1736,3,3,0,4.3,Furnished,1,209.93
+Marathahalli,1008,2,2,1,6.7,Unfurnished,1,54.0
+Electronic City,1235,2,2,3,0.4,Unfurnished,1,55.98
+Sarjapur Road,908,2,3,0,0.3,Semi-Furnished,1,59.72
+Sarjapur Road,914,2,2,4,5.3,Unfurnished,1,54.65
+Hebbal,1147,3,4,0,13.1,Semi-Furnished,1,77.66
+Jayanagar,1751,3,3,4,4.5,Semi-Furnished,0,160.85
+Koramangala,920,2,2,2,12.6,Unfurnished,1,88.38
+JP Nagar,581,1,1,1,10.0,Unfurnished,1,38.31
+Yelahanka,913,2,2,1,0.5,Semi-Furnished,1,46.36
+Indiranagar,1154,2,1,1,1.4,Unfurnished,1,104.08
+BTM Layout,1444,3,2,1,6.4,Unfurnished,1,93.21
+JP Nagar,404,1,2,1,3.5,Semi-Furnished,0,33.58
+Sarjapur Road,1566,3,2,0,2.1,Semi-Furnished,0,94.24
+Hebbal,1885,4,4,4,3.3,Unfurnished,1,116.77
+Marathahalli,924,2,2,1,3.5,Furnished,1,54.18
+HSR Layout,734,2,3,0,14.5,Semi-Furnished,1,60.32
+BTM Layout,386,1,2,1,0.7,Unfurnished,1,26.57
+BTM Layout,1527,3,3,1,2.0,Unfurnished,1,105.54
+Whitefield,1205,3,2,1,4.6,Semi-Furnished,0,78.67
+Whitefield,828,2,2,0,7.2,Unfurnished,1,45.26
+HSR Layout,1500,3,2,1,6.0,Semi-Furnished,1,157.75
+JP Nagar,2018,4,3,2,17.0,Semi-Furnished,1,124.42
+Sarjapur Road,1349,2,3,3,9.5,Semi-Furnished,1,75.23
+Indiranagar,875,1,1,1,4.9,Semi-Furnished,1,94.64
+Marathahalli,1970,4,4,0,1.5,Semi-Furnished,1,129.68
+HSR Layout,1584,3,2,1,3.6,Unfurnished,1,137.48
+Sarjapur Road,2212,4,3,1,7.1,Unfurnished,1,125.39
+JP Nagar,1410,3,4,1,10.9,Semi-Furnished,0,107.89
+JP Nagar,1276,3,3,1,19.3,Semi-Furnished,1,83.09
+Jayanagar,1048,2,2,0,5.6,Semi-Furnished,0,90.61
+HSR Layout,1474,3,3,0,4.5,Unfurnished,1,136.45
+Koramangala,2035,4,5,0,0.1,Furnished,1,248.52
+Whitefield,1566,3,4,2,0.4,Unfurnished,1,107.43
+BTM Layout,937,2,2,0,1.0,Unfurnished,1,62.8
+JP Nagar,877,2,2,2,0.3,Unfurnished,1,66.17
+Sarjapur Road,1066,2,1,2,3.1,Unfurnished,1,53.27
+Sarjapur Road,1108,2,2,4,2.5,Semi-Furnished,1,66.34
+Jayanagar,874,2,2,2,6.1,Unfurnished,1,65.6
+JP Nagar,1639,3,4,2,4.6,Unfurnished,1,118.09
+Sarjapur Road,1234,3,2,0,5.4,Unfurnished,0,56.68
+JP Nagar,963,2,1,1,3.8,Semi-Furnished,1,79.74
+Koramangala,1461,3,4,1,2.0,Furnished,1,188.13
+HSR Layout,505,1,2,3,18.3,Semi-Furnished,1,46.77
+Indiranagar,515,1,1,3,0.5,Unfurnished,1,49.44
+Sarjapur Road,1331,2,3,0,16.8,Semi-Furnished,0,73.97
+Marathahalli,1372,3,2,1,2.2,Unfurnished,0,75.69
+Indiranagar,1416,2,3,2,4.3,Unfurnished,1,138.88
+Yelahanka,1116,2,1,1,0.7,Furnished,1,75.04
+Marathahalli,1064,2,2,3,0.4,Semi-Furnished,1,64.45
+HSR Layout,1571,3,3,1,3.4,Unfurnished,1,151.88
+Electronic City,979,1,2,1,8.1,Unfurnished,1,42.16
+Yelahanka,1351,3,3,1,1.9,Unfurnished,1,63.76
+Jayanagar,1332,3,3,0,5.0,Unfurnished,1,99.01
+JP Nagar,1387,3,2,1,2.0,Semi-Furnished,0,98.45
+Jayanagar,2105,4,4,2,3.0,Unfurnished,1,189.07
+JP Nagar,341,1,1,0,14.2,Furnished,1,29.95
+Jayanagar,1053,2,1,0,11.6,Semi-Furnished,0,85.14
+Marathahalli,2354,4,4,1,4.4,Furnished,1,157.65
+BTM Layout,1073,2,3,1,1.6,Semi-Furnished,1,88.29
+HSR Layout,1456,3,4,4,1.3,Semi-Furnished,0,140.39
+Indiranagar,1407,3,2,0,18.5,Semi-Furnished,1,137.76
+Whitefield,1635,3,3,0,1.4,Unfurnished,1,99.51
+Hebbal,1976,4,3,2,9.9,Semi-Furnished,0,132.91
+Marathahalli,3077,5,5,4,2.8,Unfurnished,1,166.62
+Hebbal,1790,3,2,1,25.5,Unfurnished,1,92.71
+Indiranagar,1089,2,2,1,2.8,Unfurnished,0,78.77
+Indiranagar,2098,4,3,3,2.6,Semi-Furnished,0,228.99
+Whitefield,755,1,1,1,6.1,Furnished,1,50.59
+Koramangala,1214,2,3,0,19.5,Unfurnished,1,107.76
+Marathahalli,1979,4,4,1,22.4,Semi-Furnished,1,88.21
+HSR Layout,971,2,2,0,7.4,Furnished,0,90.61
+HSR Layout,852,2,2,1,8.4,Unfurnished,0,66.16
+BTM Layout,1111,2,2,3,5.0,Unfurnished,0,69.5
+Koramangala,2200,4,4,1,8.5,Unfurnished,1,222.57
+Jayanagar,1298,3,2,2,11.8,Furnished,1,119.3
+JP Nagar,1432,3,3,2,4.0,Unfurnished,1,93.91
+HSR Layout,848,2,2,1,5.8,Unfurnished,1,67.28
+Marathahalli,1365,3,4,0,4.6,Semi-Furnished,1,76.68
+BTM Layout,1583,3,3,1,5.0,Furnished,1,144.99
+Sarjapur Road,940,2,3,2,13.2,Furnished,0,60.35
+Indiranagar,1005,2,2,1,2.6,Unfurnished,0,87.91
+BTM Layout,806,2,1,0,1.4,Furnished,0,55.91
+Jayanagar,2828,5,5,0,3.7,Unfurnished,0,227.05
+Koramangala,1493,3,3,1,1.4,Unfurnished,1,157.12
+HSR Layout,1991,4,5,1,4.1,Furnished,1,216.83
+Sarjapur Road,1022,2,2,2,14.0,Semi-Furnished,1,57.9
+Jayanagar,1527,3,2,1,5.8,Unfurnished,1,128.11
+Koramangala,1378,3,2,0,11.6,Semi-Furnished,0,126.95
+Yelahanka,1279,3,2,1,1.1,Semi-Furnished,0,67.07
+Koramangala,3071,5,4,0,13.9,Furnished,1,362.08
+Electronic City,955,2,2,0,5.5,Furnished,1,44.67
+Indiranagar,1035,2,1,1,0.2,Semi-Furnished,1,112.58
+Indiranagar,1652,3,4,0,6.0,Furnished,1,179.78
+Indiranagar,2029,3,4,1,18.1,Semi-Furnished,1,215.25
+Indiranagar,1313,3,2,2,0.5,Semi-Furnished,0,121.71
+Yelahanka,1117,2,1,3,5.2,Semi-Furnished,1,62.39
+Indiranagar,1394,3,3,3,14.8,Unfurnished,0,103.1
+Koramangala,969,2,2,0,0.1,Unfurnished,1,115.6
+BTM Layout,942,2,1,2,6.0,Unfurnished,1,59.21
+Jayanagar,1331,3,3,3,3.9,Semi-Furnished,0,115.71
+Yelahanka,1494,3,3,2,2.6,Unfurnished,1,64.7
+Indiranagar,829,2,1,1,5.9,Unfurnished,1,70.66
+Indiranagar,1192,2,2,1,0.3,Unfurnished,1,124.87
+Whitefield,1058,2,3,0,8.4,Unfurnished,0,62.59
+Indiranagar,1113,2,1,2,0.0,Semi-Furnished,0,116.11
+Koramangala,1430,3,2,0,2.2,Unfurnished,1,156.76
+Indiranagar,2045,4,5,1,4.2,Unfurnished,0,205.51
+Electronic City,1093,2,3,1,2.8,Semi-Furnished,1,48.95
+Indiranagar,1325,3,3,2,2.2,Furnished,1,136.89
+HSR Layout,2046,4,5,1,10.7,Unfurnished,1,174.48
+Indiranagar,1971,4,4,3,16.4,Unfurnished,0,156.11
+HSR Layout,916,2,1,1,12.4,Furnished,1,91.53
+Jayanagar,1784,4,4,0,4.4,Unfurnished,0,146.55
+Hebbal,1251,2,2,1,12.9,Furnished,1,87.84
+Whitefield,947,2,3,4,15.2,Unfurnished,1,53.7
+JP Nagar,775,1,1,1,3.2,Unfurnished,1,59.14
+Yelahanka,1210,2,3,0,2.0,Unfurnished,1,63.7
+Electronic City,407,1,2,1,0.6,Unfurnished,1,17.53
+BTM Layout,887,2,2,3,3.9,Furnished,0,73.79
+BTM Layout,1434,2,2,1,17.5,Furnished,1,108.23
+Whitefield,1763,3,3,1,4.9,Furnished,0,121.13
+Koramangala,2095,4,4,1,6.6,Furnished,1,277.57
+JP Nagar,1089,2,1,0,0.7,Furnished,0,94.11
+Hebbal,2005,4,4,1,0.9,Semi-Furnished,1,143.43
+Indiranagar,2165,4,4,1,3.7,Furnished,1,225.89
+Indiranagar,1392,3,2,1,18.1,Unfurnished,1,126.9
+HSR Layout,745,2,3,1,2.7,Unfurnished,1,69.75
+Jayanagar,1302,3,2,1,12.6,Semi-Furnished,1,120.44
+Marathahalli,2103,4,4,0,0.8,Furnished,1,123.2
+HSR Layout,1330,3,3,1,5.8,Semi-Furnished,0,128.22
+Jayanagar,1040,2,1,1,5.5,Furnished,1,98.22
+Hebbal,1339,3,3,1,11.8,Semi-Furnished,1,89.0
+Whitefield,1383,3,4,1,0.0,Semi-Furnished,1,86.98
+Koramangala,1628,3,2,4,1.3,Furnished,0,206.12
+Hebbal,637,1,1,0,1.5,Unfurnished,0,43.98
+BTM Layout,1049,2,2,0,18.0,Furnished,1,69.95
+Jayanagar,1632,3,4,1,1.0,Semi-Furnished,0,147.93
+Jayanagar,2172,4,4,0,0.2,Semi-Furnished,1,209.6
+Electronic City,1267,2,3,1,4.6,Furnished,0,62.46
+HSR Layout,2031,4,4,0,4.5,Unfurnished,0,185.65
+Jayanagar,986,2,2,1,11.1,Unfurnished,0,72.18
+Koramangala,1305,3,3,1,17.8,Semi-Furnished,1,107.99
+Koramangala,1436,3,2,1,4.6,Unfurnished,1,148.64
+HSR Layout,1645,3,2,0,16.0,Semi-Furnished,1,143.58
+Whitefield,2295,4,5,1,7.7,Unfurnished,1,135.39
+Koramangala,1194,2,2,1,1.8,Furnished,1,158.72
+Indiranagar,1831,4,4,0,15.8,Unfurnished,1,136.44
+Koramangala,1212,2,3,2,6.6,Semi-Furnished,1,131.91
+Electronic City,1224,3,4,2,3.2,Furnished,1,58.65
+BTM Layout,1635,3,4,3,6.8,Furnished,1,122.24
+Marathahalli,1445,3,2,0,3.1,Semi-Furnished,1,88.19
+Yelahanka,1155,2,3,3,0.7,Semi-Furnished,1,66.26
+JP Nagar,1900,4,3,2,7.6,Unfurnished,1,136.44
+Jayanagar,1226,2,3,0,10.4,Unfurnished,0,89.49
+Electronic City,380,1,1,3,7.8,Unfurnished,0,14.81
+Jayanagar,1400,3,3,0,1.6,Semi-Furnished,1,135.58
+Marathahalli,900,2,3,1,18.8,Unfurnished,1,47.6
+Hebbal,1837,4,5,1,0.2,Semi-Furnished,0,130.13
+HSR Layout,1064,2,1,2,2.4,Unfurnished,1,91.38
+Indiranagar,1321,2,2,2,1.8,Semi-Furnished,1,122.23
+Koramangala,2500,4,3,3,0.3,Semi-Furnished,1,277.14
+HSR Layout,1515,3,3,1,3.1,Furnished,0,134.78
+Yelahanka,1218,2,3,0,5.9,Unfurnished,1,67.64
+Marathahalli,1535,3,3,1,12.9,Unfurnished,0,72.47
+Koramangala,1575,3,3,3,27.4,Unfurnished,1,140.58
+Sarjapur Road,1449,3,2,3,9.9,Unfurnished,0,81.22
+Marathahalli,1079,2,2,3,3.8,Semi-Furnished,1,66.8
+Koramangala,1581,3,2,4,7.7,Unfurnished,0,150.27
+Electronic City,1413,3,4,1,11.1,Unfurnished,0,50.05
+Indiranagar,1488,3,3,2,3.8,Furnished,0,156.02
+Koramangala,591,1,1,3,9.2,Semi-Furnished,0,67.08
+Indiranagar,2224,4,3,2,4.0,Unfurnished,1,217.93
+Indiranagar,1340,3,2,2,2.9,Unfurnished,0,124.59
+Koramangala,1492,3,3,1,4.5,Unfurnished,1,166.59
+Indiranagar,1337,2,2,0,6.8,Semi-Furnished,1,141.48
+BTM Layout,2275,4,4,0,7.8,Semi-Furnished,1,163.6
+Electronic City,1702,3,2,1,2.6,Semi-Furnished,0,76.74
+Jayanagar,604,1,1,2,5.1,Unfurnished,1,46.75
+HSR Layout,1098,2,1,1,14.4,Semi-Furnished,0,88.71
+Sarjapur Road,2250,4,3,0,22.5,Unfurnished,1,102.12
+Electronic City,834,1,2,3,1.5,Semi-Furnished,1,41.2
+HSR Layout,2507,5,5,3,1.3,Furnished,1,244.53
+Sarjapur Road,1303,3,3,3,6.8,Unfurnished,1,69.56
+BTM Layout,1696,3,4,1,3.2,Unfurnished,1,117.66
+JP Nagar,1008,2,2,1,0.1,Furnished,0,80.17
+Koramangala,949,2,2,0,2.6,Unfurnished,0,92.23
+Indiranagar,1912,4,4,1,9.9,Unfurnished,1,145.68
+Yelahanka,967,2,2,0,9.6,Semi-Furnished,1,45.58
+BTM Layout,1290,3,4,1,4.1,Semi-Furnished,1,91.04
+Jayanagar,1364,2,1,3,3.8,Furnished,0,125.46
+Marathahalli,1047,2,2,2,5.2,Unfurnished,1,49.11
+Koramangala,591,1,1,2,1.5,Unfurnished,1,62.77
+JP Nagar,1588,3,4,0,4.5,Unfurnished,0,119.58
+Indiranagar,2944,5,6,0,0.1,Semi-Furnished,0,305.32
+Koramangala,1192,2,3,2,3.9,Unfurnished,1,129.32
+HSR Layout,1211,2,2,1,2.5,Semi-Furnished,1,113.09
+Jayanagar,955,2,2,1,6.7,Unfurnished,1,68.69
+Koramangala,1455,3,4,2,6.1,Unfurnished,1,149.77
+Electronic City,1165,2,1,1,2.9,Unfurnished,0,50.07
+Marathahalli,2021,4,4,1,0.0,Furnished,1,126.01
+Koramangala,1499,3,3,3,1.7,Furnished,1,179.06
+Marathahalli,1560,3,3,1,6.0,Furnished,1,100.3
+Indiranagar,1168,2,2,0,0.5,Unfurnished,1,137.88
+Jayanagar,2533,5,5,3,0.7,Unfurnished,1,218.16
+Jayanagar,1157,2,2,1,6.2,Unfurnished,1,81.27
+Whitefield,565,1,2,0,8.5,Semi-Furnished,0,28.57
+Koramangala,1606,3,2,0,2.3,Unfurnished,1,175.78
+Indiranagar,1617,3,4,1,4.0,Unfurnished,1,185.18
+Whitefield,1291,2,1,2,17.5,Unfurnished,0,63.13
+Sarjapur Road,1253,2,3,0,17.5,Semi-Furnished,1,65.07
+Koramangala,1702,3,3,3,2.2,Unfurnished,0,175.69
+JP Nagar,1267,2,1,1,10.0,Unfurnished,0,79.24
+Koramangala,1544,3,3,3,5.4,Unfurnished,1,128.8
+Yelahanka,1505,3,2,1,22.3,Unfurnished,1,66.21
+Hebbal,1181,2,2,0,3.9,Semi-Furnished,1,82.41
+Marathahalli,1160,2,3,2,8.9,Semi-Furnished,1,74.2
+Jayanagar,1004,2,2,0,8.8,Unfurnished,1,75.35
+HSR Layout,1561,3,2,1,4.1,Semi-Furnished,0,144.71
+Koramangala,1495,3,3,0,9.5,Unfurnished,0,149.33
+BTM Layout,922,2,3,1,1.8,Unfurnished,1,71.5
+JP Nagar,1694,3,3,1,0.8,Semi-Furnished,1,138.34
+Sarjapur Road,2808,5,5,1,3.3,Furnished,1,183.49
+Indiranagar,1357,2,2,1,17.3,Semi-Furnished,1,130.17
+Hebbal,1856,4,5,3,4.2,Unfurnished,1,131.62
+Sarjapur Road,966,2,3,1,6.1,Semi-Furnished,1,51.71
+Indiranagar,605,1,2,1,5.9,Unfurnished,0,50.88
+Whitefield,1221,2,2,0,0.9,Semi-Furnished,1,67.31
+Hebbal,1110,2,1,2,3.0,Unfurnished,1,79.54
+Marathahalli,1097,2,2,3,7.4,Semi-Furnished,1,63.12
+JP Nagar,431,1,2,1,21.5,Unfurnished,0,27.71
+Indiranagar,1926,4,3,4,1.1,Semi-Furnished,0,201.4
+JP Nagar,2148,4,4,0,3.2,Semi-Furnished,0,151.33
+Indiranagar,1295,3,3,1,0.6,Unfurnished,0,121.4
+Indiranagar,970,2,1,1,1.7,Furnished,1,108.0
+Indiranagar,1125,2,2,4,2.8,Semi-Furnished,1,112.35
+JP Nagar,453,1,1,0,4.7,Unfurnished,1,34.74
+Yelahanka,1741,3,4,2,1.6,Unfurnished,1,102.9
+Jayanagar,2284,4,4,0,1.5,Semi-Furnished,1,224.08
+HSR Layout,814,2,1,0,9.0,Unfurnished,0,66.35
+BTM Layout,460,1,2,3,19.7,Furnished,0,35.02
+HSR Layout,1157,3,2,2,2.3,Unfurnished,0,111.93
+JP Nagar,933,2,2,4,7.0,Unfurnished,1,59.52
+HSR Layout,1165,2,2,2,1.8,Furnished,1,134.63
+HSR Layout,1438,3,4,1,15.8,Furnished,1,145.83
+Jayanagar,1569,3,2,2,6.7,Unfurnished,1,137.16
+Koramangala,372,1,1,2,9.7,Semi-Furnished,1,41.55
+Hebbal,720,1,1,2,0.3,Unfurnished,1,49.25
+Jayanagar,2717,5,4,1,5.5,Semi-Furnished,1,273.27
+Indiranagar,1052,2,2,1,4.5,Furnished,0,116.39
+BTM Layout,586,1,1,2,2.1,Unfurnished,1,40.09
+HSR Layout,859,2,2,1,1.8,Unfurnished,0,77.14
+Jayanagar,427,1,1,4,5.2,Unfurnished,1,37.28
+BTM Layout,1195,2,1,2,7.4,Unfurnished,1,81.21
+Marathahalli,1560,3,3,2,0.2,Unfurnished,1,93.21
+Electronic City,1208,2,2,1,5.0,Furnished,1,60.14
+Sarjapur Road,1099,2,1,1,1.1,Unfurnished,1,58.35
+Marathahalli,1521,3,3,1,0.9,Semi-Furnished,0,86.07
+Koramangala,1241,3,2,1,5.9,Semi-Furnished,0,117.47
+Indiranagar,2059,4,4,4,2.2,Semi-Furnished,1,238.77
+JP Nagar,2096,4,3,2,3.5,Unfurnished,0,144.39
+Marathahalli,893,1,1,0,2.7,Unfurnished,1,38.68
+Jayanagar,1603,3,2,0,6.3,Semi-Furnished,1,144.09
+BTM Layout,1280,2,3,0,3.8,Unfurnished,1,93.23
+JP Nagar,2890,5,4,0,19.9,Semi-Furnished,1,170.83
+Indiranagar,943,2,2,4,2.6,Unfurnished,1,85.91
+Koramangala,2818,5,5,4,8.1,Semi-Furnished,1,283.41
+Koramangala,1535,3,4,0,1.8,Semi-Furnished,1,167.61
+Hebbal,909,2,2,3,4.3,Semi-Furnished,0,68.9
+Whitefield,1442,3,3,1,4.8,Unfurnished,1,82.77
+Marathahalli,2769,5,5,1,2.4,Unfurnished,1,153.44
+Hebbal,2341,4,3,2,3.8,Furnished,1,201.29
+BTM Layout,300,1,1,1,2.0,Unfurnished,1,21.92
+Koramangala,1681,3,2,0,0.0,Unfurnished,0,150.57
+JP Nagar,909,2,3,1,1.5,Semi-Furnished,1,70.88
+Electronic City,394,1,1,1,7.2,Furnished,1,19.57
+JP Nagar,1227,2,2,0,8.8,Unfurnished,0,76.76
+Indiranagar,1160,2,2,2,2.0,Semi-Furnished,0,133.75
+HSR Layout,1688,3,3,3,3.1,Semi-Furnished,0,157.69
+JP Nagar,1170,2,1,2,0.2,Unfurnished,1,82.86
+Indiranagar,1809,3,3,4,1.6,Semi-Furnished,1,175.58
+Indiranagar,684,1,1,3,9.1,Furnished,1,78.74
+Hebbal,1027,2,3,2,5.6,Furnished,1,78.54
+Hebbal,1101,2,1,4,1.4,Unfurnished,1,77.88
+Yelahanka,1237,2,2,1,1.8,Semi-Furnished,1,60.43
+Hebbal,483,1,1,1,10.2,Unfurnished,0,29.87
+Jayanagar,952,2,3,0,1.4,Unfurnished,0,75.23
+Koramangala,1454,3,2,1,2.4,Semi-Furnished,1,159.77
+Koramangala,734,2,1,2,6.6,Unfurnished,1,69.64
+Indiranagar,1071,2,2,0,4.9,Unfurnished,0,104.77
+BTM Layout,767,2,2,3,3.7,Unfurnished,0,49.59
+Marathahalli,2108,4,3,3,13.8,Unfurnished,0,103.96
+HSR Layout,2230,4,3,1,1.5,Semi-Furnished,1,216.32
+HSR Layout,978,2,2,0,8.1,Unfurnished,1,93.15
+Sarjapur Road,1302,2,3,3,1.0,Semi-Furnished,1,84.88
+Indiranagar,381,1,1,1,5.7,Unfurnished,1,37.91
+Marathahalli,2279,4,4,2,12.3,Semi-Furnished,1,114.97
+Jayanagar,701,1,1,0,3.7,Furnished,1,65.31
+Marathahalli,793,2,2,2,7.7,Unfurnished,1,46.95
+Whitefield,1457,2,1,3,10.3,Semi-Furnished,1,79.96
+BTM Layout,1040,2,1,3,0.9,Semi-Furnished,0,77.4
+BTM Layout,918,2,2,0,7.3,Semi-Furnished,1,62.0
+Marathahalli,1289,3,3,1,15.1,Unfurnished,1,61.54
+Hebbal,1017,2,2,2,5.2,Semi-Furnished,0,78.83
+BTM Layout,1481,3,2,0,1.2,Unfurnished,1,110.56
+Hebbal,1065,2,2,1,0.8,Unfurnished,1,78.81
+Indiranagar,555,1,1,3,1.8,Semi-Furnished,0,59.2
+Marathahalli,2195,4,4,0,0.7,Unfurnished,1,125.88
+Marathahalli,992,2,2,1,4.3,Semi-Furnished,1,57.33
+HSR Layout,1210,3,4,2,0.4,Semi-Furnished,1,118.18
+Hebbal,1478,3,4,1,1.5,Semi-Furnished,1,110.58
+BTM Layout,300,1,2,2,3.5,Unfurnished,0,23.07
+BTM Layout,2153,4,4,1,3.9,Furnished,0,153.94
+HSR Layout,903,2,1,0,5.0,Semi-Furnished,1,82.36
+Electronic City,2125,4,4,0,7.3,Unfurnished,1,81.81
+Sarjapur Road,1247,2,2,2,0.3,Unfurnished,1,75.03
+JP Nagar,1958,4,4,0,0.5,Semi-Furnished,1,178.18
+Indiranagar,759,1,1,0,0.4,Furnished,1,90.11
+BTM Layout,1435,3,3,0,3.3,Semi-Furnished,1,111.24
+BTM Layout,1763,3,2,1,0.3,Semi-Furnished,1,137.18
+Jayanagar,2045,4,5,0,8.2,Unfurnished,1,171.31
+Marathahalli,1974,4,5,3,1.5,Unfurnished,1,122.13
+HSR Layout,1603,3,3,1,16.8,Unfurnished,0,125.74
+Whitefield,2035,4,5,0,4.0,Semi-Furnished,1,135.47
+Koramangala,924,2,3,0,3.5,Unfurnished,0,98.51
+JP Nagar,978,2,2,2,9.1,Unfurnished,1,59.45
+Whitefield,1043,2,2,2,7.5,Unfurnished,1,59.15
+Koramangala,1251,2,3,4,5.6,Furnished,1,155.83
+HSR Layout,760,2,1,0,16.4,Semi-Furnished,0,64.58
+Jayanagar,1503,3,3,4,3.3,Unfurnished,0,118.56
+BTM Layout,1144,2,2,3,9.9,Furnished,1,90.2
+Koramangala,1529,3,3,2,2.9,Unfurnished,0,144.66
+Koramangala,1246,2,2,3,10.9,Unfurnished,1,105.66
+Hebbal,1039,2,2,1,1.8,Unfurnished,1,76.27
+HSR Layout,1472,3,3,1,2.0,Unfurnished,1,122.04
+Indiranagar,1589,3,4,2,6.8,Unfurnished,0,143.96
+HSR Layout,1515,3,4,2,1.4,Semi-Furnished,1,143.11
+Indiranagar,1441,3,4,0,1.6,Semi-Furnished,1,172.03
+Indiranagar,1127,2,1,1,2.2,Semi-Furnished,1,117.48
+Jayanagar,1402,3,4,2,6.8,Semi-Furnished,0,117.15
+HSR Layout,508,1,2,1,13.2,Semi-Furnished,1,48.21
+BTM Layout,971,2,2,0,6.7,Unfurnished,1,75.9
+HSR Layout,1253,2,2,1,10.6,Semi-Furnished,0,112.08
+Marathahalli,300,1,1,2,4.7,Semi-Furnished,1,17.68
+Yelahanka,1109,2,2,0,0.4,Furnished,1,68.29
+Whitefield,2105,4,4,3,0.6,Unfurnished,0,108.13
+Yelahanka,1848,4,4,3,4.8,Unfurnished,1,89.0
+Indiranagar,1096,2,2,4,2.4,Semi-Furnished,1,130.71
+Sarjapur Road,671,1,1,2,1.5,Semi-Furnished,0,39.09
+Indiranagar,1138,2,2,0,3.8,Unfurnished,1,109.84
+HSR Layout,652,2,3,2,6.6,Semi-Furnished,1,62.35
+Electronic City,2305,4,3,1,2.9,Unfurnished,1,95.62
+Sarjapur Road,939,2,2,0,9.7,Furnished,1,58.66
+Jayanagar,1603,3,3,1,8.0,Unfurnished,1,134.9
+Marathahalli,711,1,2,3,8.0,Unfurnished,0,37.13
+Whitefield,2668,5,6,1,25.3,Unfurnished,0,103.94
+Hebbal,1149,2,3,2,2.1,Unfurnished,1,82.91
+Indiranagar,1442,3,2,1,6.2,Unfurnished,1,155.62
+BTM Layout,739,2,2,0,11.6,Semi-Furnished,0,48.64
+Indiranagar,1675,3,4,3,5.2,Furnished,1,171.24
+Indiranagar,934,2,3,0,9.3,Unfurnished,1,91.25
+Whitefield,922,2,2,1,3.2,Semi-Furnished,1,65.67
+Jayanagar,2040,4,4,3,5.4,Unfurnished,0,165.98
+Marathahalli,2141,4,3,0,0.3,Unfurnished,0,134.05
+Whitefield,2091,4,4,1,25.5,Unfurnished,1,105.98
+JP Nagar,1582,3,4,0,9.7,Unfurnished,1,116.97
+HSR Layout,1299,3,2,0,12.2,Semi-Furnished,1,111.66
+Jayanagar,489,1,1,1,7.1,Unfurnished,1,40.12
+HSR Layout,1033,2,2,3,1.2,Furnished,0,106.02
+HSR Layout,1335,2,3,0,0.2,Semi-Furnished,0,128.63
+Jayanagar,1483,3,2,2,12.0,Semi-Furnished,0,116.62
+Indiranagar,1213,2,1,2,3.0,Furnished,0,134.81
+Indiranagar,1056,2,1,3,1.8,Furnished,1,110.33
+BTM Layout,1427,3,2,2,4.9,Semi-Furnished,1,112.3
+Sarjapur Road,1463,3,4,1,3.3,Semi-Furnished,0,79.52
+HSR Layout,1025,2,3,0,6.3,Unfurnished,1,89.27
+Koramangala,1141,2,2,2,4.0,Semi-Furnished,1,129.47
+Yelahanka,1256,2,2,2,7.2,Semi-Furnished,0,57.38
+HSR Layout,1104,2,2,4,11.5,Furnished,1,93.35
+Whitefield,1228,2,2,2,1.3,Unfurnished,1,71.34
+Indiranagar,1355,3,3,2,2.4,Unfurnished,1,118.15
+Hebbal,1438,3,4,3,3.4,Unfurnished,1,104.38
+Yelahanka,1391,3,3,1,19.6,Furnished,0,61.07
+Whitefield,1097,2,3,3,2.7,Unfurnished,1,72.9
+Indiranagar,1446,3,3,0,2.9,Semi-Furnished,1,150.65
+Indiranagar,1159,2,2,4,6.4,Unfurnished,1,109.1
+Yelahanka,910,2,2,1,3.3,Unfurnished,0,36.63
+Whitefield,1506,3,3,2,18.1,Unfurnished,0,75.46
+Electronic City,1153,2,2,0,13.5,Semi-Furnished,1,48.25
+JP Nagar,300,1,2,1,4.3,Unfurnished,1,20.11
+Indiranagar,2418,4,3,1,6.2,Semi-Furnished,1,246.71
+Yelahanka,1008,2,3,1,0.4,Furnished,1,58.69
+Koramangala,1196,3,3,2,7.1,Furnished,1,139.06
+Electronic City,624,1,1,0,7.4,Semi-Furnished,1,27.74
+Koramangala,1505,3,3,1,2.7,Semi-Furnished,1,163.13
+Hebbal,1038,2,2,2,1.5,Unfurnished,0,69.9
+BTM Layout,749,1,1,1,14.8,Furnished,1,55.57
+JP Nagar,1612,3,3,4,3.3,Unfurnished,1,121.41
+HSR Layout,1095,2,3,3,6.4,Semi-Furnished,1,100.87
+Yelahanka,1118,2,2,3,0.2,Unfurnished,1,51.57
+Indiranagar,584,1,1,1,3.2,Unfurnished,1,53.43
+Koramangala,1316,2,2,1,10.2,Unfurnished,0,135.73
+BTM Layout,828,2,2,3,2.9,Semi-Furnished,0,64.3
+Whitefield,621,1,1,3,5.5,Semi-Furnished,0,40.35
+Electronic City,2110,4,4,2,1.4,Semi-Furnished,1,107.26
+Indiranagar,722,1,1,4,3.2,Unfurnished,1,67.24
+Whitefield,923,2,1,1,15.8,Furnished,1,58.58
+Indiranagar,788,2,1,0,5.0,Unfurnished,1,75.14
+Marathahalli,1074,2,2,0,13.9,Unfurnished,1,58.16
+HSR Layout,2142,4,3,0,13.9,Semi-Furnished,1,184.37
+BTM Layout,1273,2,3,2,17.3,Furnished,0,91.68
+JP Nagar,2609,5,4,4,13.5,Unfurnished,1,175.14
+Koramangala,1223,2,1,1,0.0,Semi-Furnished,1,145.34
+Koramangala,1855,3,4,0,16.3,Semi-Furnished,0,189.57
+HSR Layout,1443,3,3,2,0.9,Furnished,1,155.73
+Marathahalli,1906,4,4,0,0.2,Unfurnished,1,111.79
+Koramangala,1439,3,4,0,0.3,Unfurnished,1,157.78
+Marathahalli,1502,3,2,1,2.6,Unfurnished,1,95.53
+HSR Layout,1135,2,2,1,5.8,Unfurnished,1,87.06
+Jayanagar,961,2,3,1,3.1,Unfurnished,0,73.06
+HSR Layout,2333,4,4,1,0.2,Furnished,1,263.41
+Koramangala,883,2,2,3,3.9,Unfurnished,1,92.46
+Sarjapur Road,789,2,3,1,3.5,Furnished,1,52.79
+Hebbal,1666,3,3,1,8.5,Unfurnished,1,113.25
+Indiranagar,709,2,1,3,2.0,Furnished,1,82.55
+BTM Layout,2069,4,5,0,1.5,Semi-Furnished,1,155.27
+Jayanagar,1968,3,3,1,1.8,Unfurnished,1,172.7
+BTM Layout,1498,3,4,1,2.2,Semi-Furnished,1,116.5
+JP Nagar,1932,4,5,0,5.5,Unfurnished,1,136.65
+HSR Layout,591,1,1,2,3.8,Unfurnished,1,54.98
+Whitefield,1042,2,2,0,2.5,Unfurnished,1,64.4
+Koramangala,1074,2,1,4,2.8,Unfurnished,0,108.7
+Jayanagar,1149,2,2,2,2.8,Semi-Furnished,1,115.89
+Yelahanka,1344,3,3,0,21.5,Semi-Furnished,1,65.57
+Koramangala,2353,4,4,2,1.6,Unfurnished,1,263.69
+Indiranagar,1087,2,2,3,10.2,Furnished,0,132.01
+JP Nagar,1159,2,3,3,7.4,Furnished,1,97.26
+Sarjapur Road,2706,5,5,1,0.0,Unfurnished,1,147.02
+Jayanagar,1243,2,2,0,29.9,Unfurnished,1,85.5
+Indiranagar,1011,2,3,2,8.5,Unfurnished,1,93.28
+Koramangala,1092,2,2,3,6.9,Semi-Furnished,1,118.3
+Whitefield,1960,4,4,1,3.1,Unfurnished,0,103.21
+BTM Layout,1350,3,4,1,4.9,Unfurnished,1,98.97
+Electronic City,1603,3,3,1,1.8,Semi-Furnished,0,64.29
+Marathahalli,1433,3,3,4,0.2,Semi-Furnished,0,85.95
+Koramangala,922,2,1,2,10.8,Unfurnished,0,85.83
+Jayanagar,954,2,3,0,13.6,Furnished,1,84.6
+Yelahanka,2205,4,3,1,1.1,Semi-Furnished,0,99.36
+JP Nagar,956,2,2,1,9.3,Unfurnished,0,55.84
+Indiranagar,1482,3,3,2,8.1,Semi-Furnished,0,134.77
+Whitefield,2102,4,3,1,1.2,Unfurnished,1,130.31
+Indiranagar,1212,3,3,1,3.3,Semi-Furnished,1,128.46
+BTM Layout,1279,3,3,1,3.3,Unfurnished,1,89.26
+BTM Layout,1550,3,3,0,8.6,Unfurnished,1,97.16
+Marathahalli,1989,4,5,1,10.9,Unfurnished,0,106.18
+Marathahalli,1209,2,2,2,0.6,Unfurnished,0,58.89
+Yelahanka,745,1,1,2,5.0,Semi-Furnished,0,30.86
+Indiranagar,1158,2,2,2,8.6,Semi-Furnished,1,113.1
+BTM Layout,1773,3,4,1,9.3,Unfurnished,1,115.53
+HSR Layout,1038,2,3,3,1.0,Unfurnished,0,98.98
+HSR Layout,1597,3,4,3,4.5,Semi-Furnished,1,156.93
+Jayanagar,962,2,2,1,11.7,Unfurnished,1,82.95
+Whitefield,1868,3,4,0,2.3,Unfurnished,0,104.31
+Indiranagar,1348,2,2,1,3.3,Semi-Furnished,0,139.24
+Hebbal,1502,3,3,0,9.8,Furnished,1,111.81
+Electronic City,1558,3,3,1,0.6,Furnished,0,84.28
+Marathahalli,1254,2,3,1,11.8,Semi-Furnished,1,71.82
+Koramangala,1028,2,2,2,2.2,Unfurnished,1,113.54
+HSR Layout,1402,3,2,2,0.0,Semi-Furnished,1,128.12
+Koramangala,1181,2,1,2,1.6,Unfurnished,1,120.08
+Koramangala,1062,2,2,1,0.6,Unfurnished,0,107.17
+Hebbal,2827,5,6,1,0.6,Semi-Furnished,0,226.02
+Koramangala,1375,3,3,2,7.1,Semi-Furnished,0,120.89
+Marathahalli,1842,4,4,0,1.4,Unfurnished,1,103.61
+Jayanagar,1085,2,3,1,16.4,Unfurnished,1,79.89
+Yelahanka,1186,2,2,2,4.4,Semi-Furnished,1,52.72
+Sarjapur Road,2066,4,5,1,3.7,Furnished,1,131.11
+Hebbal,1715,3,4,1,3.4,Semi-Furnished,1,114.25
+Indiranagar,1394,3,3,0,7.1,Unfurnished,1,108.71
+Whitefield,892,2,3,0,3.6,Furnished,0,59.37
+Koramangala,1040,2,2,0,0.8,Semi-Furnished,1,115.93
+Marathahalli,1038,2,1,3,12.7,Semi-Furnished,0,55.43
+Whitefield,1165,2,1,2,3.4,Unfurnished,0,66.9
+Jayanagar,484,1,2,2,0.5,Unfurnished,0,37.84
+Marathahalli,805,1,1,3,4.5,Unfurnished,1,50.86
+Koramangala,3095,5,6,0,6.3,Unfurnished,1,317.26
+JP Nagar,1044,2,2,1,1.9,Unfurnished,0,80.69
+Electronic City,1687,3,3,0,9.7,Semi-Furnished,1,64.78
+Electronic City,1942,4,3,3,6.6,Unfurnished,0,72.74
+Hebbal,1661,3,3,1,6.3,Furnished,1,135.92
+Jayanagar,1207,2,2,4,3.3,Unfurnished,1,98.63
+Hebbal,1630,3,2,0,19.6,Semi-Furnished,1,95.66
+HSR Layout,1498,3,2,1,1.9,Semi-Furnished,1,127.05
+Koramangala,1057,3,3,1,5.2,Semi-Furnished,1,122.02
+JP Nagar,1404,3,3,2,2.2,Unfurnished,1,107.99
+JP Nagar,2706,5,5,1,8.2,Semi-Furnished,1,207.96
+Hebbal,1353,3,2,2,0.3,Furnished,1,107.13
+Koramangala,1068,2,2,1,0.3,Furnished,1,122.97
+Marathahalli,1437,3,3,2,10.0,Semi-Furnished,0,79.66
+HSR Layout,476,1,1,1,3.4,Semi-Furnished,1,41.55
+Electronic City,1941,4,4,4,2.5,Unfurnished,0,75.69
+BTM Layout,493,1,1,2,5.6,Furnished,1,43.4
+Indiranagar,1218,2,2,0,7.3,Furnished,1,116.38
+Sarjapur Road,1401,3,3,3,1.3,Semi-Furnished,0,84.69
+HSR Layout,1423,3,4,3,1.2,Semi-Furnished,1,156.95
+Indiranagar,981,2,2,1,19.0,Semi-Furnished,1,93.84
+Jayanagar,1101,2,2,1,5.3,Unfurnished,1,92.42
+BTM Layout,2168,4,3,1,3.0,Furnished,0,166.69
+Hebbal,593,2,1,0,9.7,Semi-Furnished,1,39.3
+JP Nagar,2253,4,4,0,4.5,Semi-Furnished,1,148.0
+Yelahanka,815,1,1,2,1.7,Semi-Furnished,0,41.78
+Hebbal,1342,3,3,3,1.4,Furnished,1,106.03
+JP Nagar,1954,4,5,2,3.0,Semi-Furnished,1,149.63
+Koramangala,982,2,1,0,11.8,Unfurnished,1,94.2
+Jayanagar,937,2,3,0,0.4,Semi-Furnished,1,88.13
+Indiranagar,1084,2,2,0,1.5,Furnished,1,119.31
+Sarjapur Road,1208,3,2,2,13.4,Semi-Furnished,1,72.8
+Sarjapur Road,1332,3,3,2,0.8,Furnished,1,92.19
+Whitefield,1731,3,3,0,6.0,Furnished,1,124.65
+Hebbal,911,2,2,1,1.4,Semi-Furnished,1,67.3
+BTM Layout,1237,2,2,1,5.6,Unfurnished,1,87.82
+Indiranagar,653,1,2,4,2.9,Unfurnished,1,60.25
+Marathahalli,779,2,1,0,0.6,Semi-Furnished,0,49.07
+BTM Layout,1595,3,2,0,5.2,Unfurnished,0,103.97
+Whitefield,2082,4,5,0,6.9,Semi-Furnished,1,121.36
+Hebbal,1432,3,3,1,6.8,Semi-Furnished,0,97.83
+Koramangala,1087,2,1,2,6.1,Unfurnished,0,103.31
+BTM Layout,2171,4,4,1,4.2,Semi-Furnished,1,189.04
+Sarjapur Road,1606,3,3,1,4.4,Semi-Furnished,1,96.84
+Sarjapur Road,2277,4,3,2,6.1,Unfurnished,1,135.09
+Jayanagar,1561,3,3,1,7.0,Unfurnished,0,130.4
+BTM Layout,844,2,2,0,6.4,Furnished,0,65.37
+JP Nagar,529,1,1,1,5.3,Unfurnished,1,36.75
+Koramangala,1941,3,4,2,1.0,Unfurnished,1,182.96
+JP Nagar,1159,2,3,0,1.4,Unfurnished,1,82.19
+Whitefield,1405,2,1,3,1.8,Unfurnished,1,87.4
+Marathahalli,1709,3,3,1,15.1,Semi-Furnished,1,92.51
+Indiranagar,1536,3,4,1,8.5,Unfurnished,0,142.37
+Indiranagar,1545,3,4,2,4.8,Furnished,1,151.56
+Electronic City,1045,2,3,0,1.7,Unfurnished,0,45.56
+Hebbal,789,2,2,3,0.7,Semi-Furnished,0,61.13
+Koramangala,1503,3,4,1,13.7,Unfurnished,1,126.8
+Hebbal,2982,5,4,1,13.4,Furnished,0,215.96
+Whitefield,1410,3,2,3,0.7,Semi-Furnished,1,99.93
+Koramangala,2162,4,4,1,9.6,Furnished,1,279.23
+Jayanagar,1628,3,3,0,3.6,Semi-Furnished,1,140.49
+JP Nagar,1364,3,2,1,2.3,Semi-Furnished,1,114.19
+Koramangala,982,2,2,2,8.1,Furnished,1,126.46
+Marathahalli,1347,3,4,0,5.7,Unfurnished,1,78.52
+BTM Layout,1377,3,3,1,9.1,Semi-Furnished,1,107.85
+Marathahalli,1307,3,3,0,0.5,Unfurnished,1,75.62
+Indiranagar,915,2,2,2,2.3,Semi-Furnished,1,98.48
+Whitefield,1713,3,2,1,2.3,Furnished,1,114.48
+BTM Layout,913,2,2,1,2.4,Furnished,1,74.95
+Whitefield,1519,3,3,1,4.2,Unfurnished,1,91.24
+BTM Layout,975,2,3,3,2.0,Unfurnished,1,66.8
+Jayanagar,1677,3,4,2,3.5,Unfurnished,0,134.2
+Sarjapur Road,1247,2,3,2,2.8,Unfurnished,1,73.55
+JP Nagar,730,1,1,1,8.0,Unfurnished,1,58.52
+Sarjapur Road,1096,2,2,4,5.6,Unfurnished,1,50.36
+Koramangala,1465,3,4,1,6.4,Furnished,0,194.26
+JP Nagar,871,2,2,4,1.4,Semi-Furnished,1,68.38
+HSR Layout,1342,2,3,3,2.4,Semi-Furnished,0,136.22
+Jayanagar,1386,3,3,3,0.1,Semi-Furnished,1,137.92
+Marathahalli,1150,2,2,3,0.7,Semi-Furnished,1,79.81
+BTM Layout,2259,4,4,1,1.8,Furnished,1,178.92
+Sarjapur Road,2017,4,4,0,0.4,Semi-Furnished,1,120.02
+JP Nagar,1656,3,3,2,5.5,Unfurnished,0,113.56
+HSR Layout,1165,2,3,0,37.7,Semi-Furnished,1,79.98
+HSR Layout,1759,3,3,1,0.6,Furnished,0,198.56
+Hebbal,530,1,2,3,10.3,Unfurnished,1,34.38
+Koramangala,857,2,2,1,0.8,Semi-Furnished,1,86.5
+Electronic City,974,2,3,3,6.7,Unfurnished,0,37.74
+Koramangala,2131,4,4,4,6.2,Unfurnished,1,191.11
+Koramangala,609,1,2,2,14.0,Furnished,1,67.94
+Koramangala,1441,3,3,0,0.7,Unfurnished,0,153.04
+Indiranagar,1214,3,3,0,2.3,Unfurnished,1,112.34
+Whitefield,1121,2,3,2,0.6,Unfurnished,1,66.7
+Whitefield,896,1,1,0,3.1,Furnished,0,58.65
+Sarjapur Road,2870,5,6,1,14.6,Unfurnished,0,140.99
+HSR Layout,1591,3,4,0,9.1,Furnished,1,168.37
+HSR Layout,1586,3,4,2,7.7,Unfurnished,1,146.78
+Yelahanka,1110,2,1,1,4.6,Furnished,0,70.12
+Indiranagar,1190,2,2,1,12.9,Furnished,0,120.67
+Sarjapur Road,1109,2,2,0,3.6,Unfurnished,1,63.6
+JP Nagar,553,1,1,2,1.0,Unfurnished,1,36.51
+Electronic City,481,1,2,0,10.9,Unfurnished,0,18.31
+HSR Layout,2063,4,4,2,2.0,Semi-Furnished,1,196.85
+BTM Layout,1097,2,2,1,0.3,Unfurnished,1,72.94
+Sarjapur Road,1003,2,2,1,0.8,Unfurnished,1,53.87
+Jayanagar,1547,3,3,1,5.6,Unfurnished,1,125.07
+Marathahalli,1566,3,2,1,5.6,Unfurnished,1,84.04
+Indiranagar,725,1,2,1,1.8,Unfurnished,0,81.85
+Sarjapur Road,1692,3,3,2,7.8,Furnished,0,104.71
+Indiranagar,612,1,1,1,8.9,Furnished,1,75.55
+Sarjapur Road,404,1,1,1,15.2,Unfurnished,1,22.01
+Yelahanka,548,1,2,1,5.3,Semi-Furnished,1,27.57
+Marathahalli,2107,4,4,0,9.1,Semi-Furnished,0,118.47
+Jayanagar,325,1,1,4,8.4,Semi-Furnished,1,27.07
+Indiranagar,808,1,1,2,1.8,Semi-Furnished,1,84.01
+Indiranagar,1071,2,2,3,2.2,Semi-Furnished,1,104.6
+Indiranagar,2157,4,5,2,3.9,Semi-Furnished,1,220.41
+Indiranagar,1255,2,2,0,0.1,Semi-Furnished,0,131.9
+JP Nagar,955,2,2,0,2.1,Unfurnished,1,71.95
+Koramangala,686,1,2,2,3.9,Unfurnished,1,73.19
+Whitefield,1034,2,2,1,0.7,Unfurnished,1,61.76
+Sarjapur Road,1472,3,3,0,0.8,Semi-Furnished,0,90.44
+BTM Layout,1384,3,3,2,3.7,Unfurnished,1,94.64
+BTM Layout,1300,2,1,1,7.9,Semi-Furnished,0,99.59
+Sarjapur Road,994,2,1,2,10.8,Unfurnished,0,42.7
+Indiranagar,705,1,2,2,4.7,Furnished,0,81.15
+HSR Layout,769,2,2,1,3.9,Unfurnished,0,67.8
+Hebbal,777,1,1,1,2.9,Semi-Furnished,1,54.42
+Hebbal,1658,3,3,2,1.3,Semi-Furnished,1,120.4
+Indiranagar,2815,5,5,3,1.0,Unfurnished,1,284.87
+JP Nagar,2766,5,6,1,9.4,Unfurnished,0,199.9
+Indiranagar,2160,4,3,2,3.8,Furnished,0,206.02
+Indiranagar,1843,3,3,2,9.4,Unfurnished,1,175.8
+Jayanagar,1236,3,3,2,7.3,Furnished,0,109.0
+Marathahalli,1167,2,2,0,1.3,Furnished,0,82.32
+Marathahalli,1363,3,2,1,4.3,Semi-Furnished,0,69.35
+Electronic City,1047,2,2,3,3.5,Semi-Furnished,1,56.23
+BTM Layout,1013,2,1,2,3.3,Semi-Furnished,1,71.69
+Koramangala,1436,3,4,3,4.7,Semi-Furnished,1,177.66
+Indiranagar,1048,2,3,1,24.1,Furnished,1,100.11
+BTM Layout,880,2,1,1,10.1,Unfurnished,1,54.72
+Sarjapur Road,2254,4,4,1,14.0,Unfurnished,1,114.49
+BTM Layout,331,1,1,4,0.2,Unfurnished,0,24.45
+JP Nagar,1131,2,2,2,0.9,Semi-Furnished,1,80.94
+Yelahanka,2051,4,4,2,0.5,Unfurnished,0,102.87
+Jayanagar,1324,3,2,1,1.8,Furnished,1,131.2
+Electronic City,1530,3,3,0,3.5,Unfurnished,0,64.98
+HSR Layout,816,2,1,3,6.2,Furnished,1,83.82
+HSR Layout,1056,2,2,1,4.2,Unfurnished,1,89.66
+Koramangala,1887,4,3,1,14.0,Unfurnished,1,163.9
+Hebbal,1569,3,3,2,16.9,Unfurnished,1,99.0
+Jayanagar,1361,3,3,0,1.1,Unfurnished,1,120.42
+Electronic City,532,1,1,3,11.5,Semi-Furnished,1,23.84
+Indiranagar,644,1,1,0,3.9,Furnished,0,72.03
+Yelahanka,2684,5,4,2,3.6,Unfurnished,1,138.73
+Electronic City,1041,2,2,1,9.2,Semi-Furnished,0,48.05
+JP Nagar,1273,3,4,2,0.6,Unfurnished,1,84.05
+Jayanagar,695,1,2,2,12.8,Unfurnished,1,45.37
+Jayanagar,1765,3,2,1,6.7,Semi-Furnished,1,172.35
+Marathahalli,2519,4,4,0,12.5,Unfurnished,1,119.64
+JP Nagar,1514,3,3,2,31.2,Furnished,1,92.75
+Koramangala,1168,2,2,0,4.4,Semi-Furnished,1,126.5
+Yelahanka,1233,3,2,1,0.6,Unfurnished,1,54.16
+Marathahalli,1725,3,4,0,1.1,Semi-Furnished,1,106.77
+Koramangala,1166,2,3,2,2.3,Unfurnished,1,115.62
+BTM Layout,2027,4,3,1,0.7,Semi-Furnished,1,153.66
+JP Nagar,1686,3,4,0,10.1,Furnished,1,142.41
+Yelahanka,2062,4,3,1,2.1,Furnished,1,116.55
+JP Nagar,1431,3,4,1,22.3,Unfurnished,1,87.32
+BTM Layout,1121,2,3,0,7.3,Unfurnished,1,78.66
+Hebbal,890,2,1,2,1.1,Semi-Furnished,1,71.24
+JP Nagar,1203,2,1,1,3.9,Furnished,1,114.53
+Hebbal,1942,4,5,1,3.8,Furnished,1,155.5
+Yelahanka,1342,3,4,2,4.1,Unfurnished,1,74.53
+Marathahalli,1364,3,3,2,4.6,Semi-Furnished,0,84.34
+Hebbal,1164,2,2,0,0.2,Furnished,1,87.31
+Indiranagar,957,2,1,3,7.0,Unfurnished,1,81.38
+BTM Layout,1298,3,2,1,4.0,Furnished,0,98.17
+BTM Layout,959,2,2,0,9.4,Unfurnished,1,70.08
+Whitefield,1045,2,2,1,10.1,Unfurnished,1,55.91
+JP Nagar,1323,3,4,0,1.6,Unfurnished,1,86.54
+Indiranagar,427,1,2,0,0.3,Semi-Furnished,1,45.62
+Koramangala,1367,2,2,1,7.3,Furnished,0,133.44
+Hebbal,921,2,2,1,22.8,Semi-Furnished,0,50.46
+Indiranagar,1002,2,2,1,3.6,Unfurnished,1,92.2
+JP Nagar,2745,5,5,1,1.8,Unfurnished,0,196.83
+JP Nagar,987,2,3,2,1.0,Semi-Furnished,0,83.23
+Jayanagar,1143,2,2,2,2.0,Semi-Furnished,1,108.62
+Whitefield,1192,2,2,3,2.4,Semi-Furnished,1,69.88
+Koramangala,1454,3,4,0,3.3,Unfurnished,1,149.19
+Marathahalli,865,2,3,2,6.4,Semi-Furnished,0,50.9
+Sarjapur Road,1691,3,4,1,1.9,Furnished,0,106.25
+Yelahanka,586,1,2,0,0.3,Semi-Furnished,1,31.54
+Koramangala,860,1,2,1,2.8,Semi-Furnished,1,86.4
+Yelahanka,713,2,2,0,11.6,Furnished,1,35.03
+Jayanagar,1529,3,4,0,4.1,Semi-Furnished,1,135.01
+JP Nagar,2388,4,4,1,20.1,Semi-Furnished,1,126.97
+Electronic City,547,1,1,2,4.2,Semi-Furnished,1,26.06
+Hebbal,1466,3,3,0,1.9,Unfurnished,1,90.93
+Jayanagar,2144,4,4,1,1.3,Semi-Furnished,1,204.81
+Sarjapur Road,966,2,1,2,7.1,Furnished,1,62.91
+Koramangala,1453,3,3,1,4.6,Unfurnished,1,142.81
+Yelahanka,999,2,3,0,5.6,Furnished,1,61.35
+BTM Layout,2006,4,4,1,8.4,Semi-Furnished,0,146.7
+Electronic City,1684,3,4,0,7.8,Unfurnished,1,68.83
+Sarjapur Road,2169,4,5,0,0.3,Semi-Furnished,0,124.92
+Hebbal,1538,3,4,0,9.7,Unfurnished,1,108.57
+Whitefield,1171,2,1,1,4.6,Furnished,1,81.59
+Koramangala,2060,4,4,0,3.0,Semi-Furnished,0,237.68
+Hebbal,934,2,3,0,4.6,Furnished,1,62.83
+Whitefield,960,2,2,2,5.7,Semi-Furnished,0,57.79
+Marathahalli,1500,3,3,1,1.0,Semi-Furnished,1,83.26
+Koramangala,1341,3,3,3,3.2,Furnished,1,163.27
+Marathahalli,2025,4,3,1,2.5,Unfurnished,1,121.35
+Whitefield,973,2,1,2,2.6,Semi-Furnished,1,69.62
+BTM Layout,1819,3,3,3,0.6,Unfurnished,1,121.37
+Sarjapur Road,1084,3,2,3,1.0,Furnished,0,66.0
+Sarjapur Road,573,1,1,2,1.1,Semi-Furnished,1,34.22
+Hebbal,1309,2,2,1,2.8,Furnished,1,98.04
+Indiranagar,1068,2,2,1,13.5,Furnished,1,118.67
+Hebbal,1163,2,3,0,1.4,Unfurnished,1,81.33
+Whitefield,2815,5,5,1,3.2,Unfurnished,0,160.45
+Whitefield,1400,3,3,1,2.2,Semi-Furnished,0,89.89
+Koramangala,1164,3,4,2,9.3,Semi-Furnished,1,125.27
+Jayanagar,2831,5,5,2,0.3,Unfurnished,0,218.33
+JP Nagar,934,2,3,0,1.3,Unfurnished,1,70.28
+Yelahanka,1380,3,4,1,1.4,Semi-Furnished,1,70.54
+HSR Layout,975,2,2,1,29.7,Unfurnished,1,68.54
+Koramangala,2362,4,4,2,5.1,Furnished,0,291.72
+Sarjapur Road,1411,2,3,1,0.9,Furnished,1,86.9
+HSR Layout,2133,4,5,3,1.9,Semi-Furnished,0,181.79
+HSR Layout,980,2,2,3,1.1,Unfurnished,1,89.21
+Indiranagar,873,2,2,1,0.8,Unfurnished,1,81.09
+JP Nagar,1570,3,2,2,9.6,Semi-Furnished,0,112.96
+Hebbal,1317,2,2,0,4.1,Furnished,0,102.97
+Indiranagar,1463,3,4,2,6.0,Unfurnished,0,114.71
+Electronic City,693,2,3,2,2.4,Unfurnished,1,31.75
+Yelahanka,1601,3,4,1,4.8,Unfurnished,1,71.97
+Yelahanka,1198,2,3,1,1.8,Semi-Furnished,1,64.83
+Koramangala,362,1,1,0,2.2,Semi-Furnished,1,38.86
+Sarjapur Road,1076,2,2,2,6.3,Unfurnished,1,55.17
+Indiranagar,1118,2,1,0,1.0,Semi-Furnished,0,127.28
+HSR Layout,1039,2,1,2,5.8,Semi-Furnished,0,96.27
+Sarjapur Road,931,2,3,1,11.5,Semi-Furnished,1,55.61
+HSR Layout,1202,2,1,3,0.8,Semi-Furnished,0,114.71
+Yelahanka,539,1,2,1,13.7,Furnished,1,30.09
+HSR Layout,1277,3,4,0,0.5,Semi-Furnished,0,126.9
+Koramangala,1793,4,5,2,2.6,Semi-Furnished,1,208.82
+Sarjapur Road,1239,2,1,2,5.7,Furnished,1,84.44
+HSR Layout,1592,3,4,3,4.9,Furnished,1,170.34
+BTM Layout,1513,3,2,3,0.6,Unfurnished,1,125.34
+Indiranagar,984,2,2,2,9.6,Unfurnished,1,95.79
+Indiranagar,1421,3,4,1,21.7,Furnished,1,128.51
+Whitefield,889,2,2,1,1.2,Unfurnished,0,50.44
+Yelahanka,1435,3,3,0,13.5,Furnished,1,77.5
+HSR Layout,300,1,1,2,4.9,Unfurnished,0,25.44
+BTM Layout,1390,3,3,2,16.5,Furnished,0,102.96
+Jayanagar,1453,3,3,2,1.2,Semi-Furnished,1,139.93
+Sarjapur Road,691,1,1,1,9.4,Semi-Furnished,1,35.07
+Indiranagar,1044,2,2,0,0.4,Unfurnished,1,112.04
+BTM Layout,2919,5,4,1,12.9,Furnished,1,213.95
+JP Nagar,1252,2,3,3,6.7,Unfurnished,1,86.72
+JP Nagar,1659,3,3,1,2.8,Unfurnished,1,116.35
+JP Nagar,2171,4,4,0,1.3,Unfurnished,1,169.98
+Hebbal,1502,3,3,1,10.2,Furnished,1,111.3
+Marathahalli,1353,3,3,2,5.5,Semi-Furnished,0,74.6
+Indiranagar,1611,3,3,1,2.7,Semi-Furnished,1,163.2
+Whitefield,2352,4,5,2,3.5,Semi-Furnished,1,132.83
+BTM Layout,1101,2,2,0,10.5,Furnished,0,77.27
+Marathahalli,1338,2,2,1,2.5,Semi-Furnished,1,75.32
+JP Nagar,821,2,2,2,0.6,Semi-Furnished,1,64.83
+Jayanagar,2627,5,4,2,14.5,Semi-Furnished,0,215.22
+Electronic City,1628,3,2,1,2.9,Semi-Furnished,1,77.93
+Indiranagar,640,1,1,0,2.6,Unfurnished,0,64.77
+Hebbal,2297,4,5,2,1.4,Unfurnished,1,173.11
+HSR Layout,1048,2,1,4,13.7,Unfurnished,1,82.24
+Indiranagar,470,1,1,1,1.5,Unfurnished,0,44.17
+Jayanagar,1468,3,3,2,6.1,Semi-Furnished,0,123.38
+Whitefield,820,2,2,2,12.8,Semi-Furnished,0,39.16
+Marathahalli,1931,4,3,0,0.2,Furnished,0,116.54
+Koramangala,1196,2,2,4,10.6,Unfurnished,1,114.75
+JP Nagar,1631,3,3,3,3.2,Semi-Furnished,1,126.97
+Koramangala,1554,3,2,0,6.4,Semi-Furnished,0,168.25
+HSR Layout,342,1,1,1,2.8,Unfurnished,1,31.59
+Whitefield,2746,5,6,4,7.1,Semi-Furnished,1,150.77
+Electronic City,1316,3,3,3,1.8,Furnished,0,66.62
+HSR Layout,1226,2,2,2,0.1,Unfurnished,1,113.52
+Jayanagar,962,2,2,3,17.7,Semi-Furnished,1,79.38
+Marathahalli,1937,4,4,2,0.1,Unfurnished,0,116.48
+Koramangala,1054,2,3,2,10.4,Unfurnished,1,103.51
+Hebbal,954,2,1,3,1.1,Semi-Furnished,1,77.37
+BTM Layout,1273,2,2,0,3.0,Furnished,0,94.86
+JP Nagar,940,2,1,1,10.4,Semi-Furnished,1,65.08
+Whitefield,1290,3,3,3,1.4,Semi-Furnished,1,85.59
+Jayanagar,727,2,2,2,12.0,Furnished,0,61.95
+Electronic City,1045,2,2,1,4.1,Unfurnished,1,44.96
+Koramangala,966,2,2,0,2.7,Semi-Furnished,0,118.64
+Sarjapur Road,836,2,1,4,6.5,Semi-Furnished,1,49.39
+Indiranagar,2278,4,5,4,2.5,Furnished,0,259.05
+Jayanagar,1150,2,2,1,2.6,Semi-Furnished,1,97.4
+Marathahalli,2796,5,5,2,7.9,Furnished,1,158.59
+Hebbal,1255,2,2,0,2.2,Unfurnished,1,85.47
+Jayanagar,1149,2,2,1,1.3,Semi-Furnished,0,108.22
+Whitefield,1977,4,3,3,9.9,Semi-Furnished,1,115.91
+Koramangala,894,2,1,1,9.8,Semi-Furnished,0,93.31
+Jayanagar,1623,3,3,0,4.1,Semi-Furnished,1,159.02
+Electronic City,2859,5,5,1,4.5,Unfurnished,0,127.11
+Koramangala,625,1,1,2,7.1,Unfurnished,1,64.41
+Whitefield,473,1,2,1,4.3,Unfurnished,0,27.34
+Electronic City,1591,3,4,1,3.2,Furnished,1,72.84
+HSR Layout,937,2,1,1,31.7,Furnished,1,72.2
+Indiranagar,1035,2,3,0,1.0,Unfurnished,1,101.44
+Marathahalli,817,1,1,0,5.4,Furnished,1,50.52
+Hebbal,501,1,2,1,13.0,Unfurnished,1,32.46
+JP Nagar,1264,3,3,0,7.0,Unfurnished,1,101.3
+Indiranagar,892,2,2,1,12.8,Unfurnished,1,87.51
+Indiranagar,1199,2,1,0,2.5,Furnished,1,139.33
+Electronic City,1538,3,2,1,1.9,Semi-Furnished,1,75.35
+Yelahanka,1031,2,3,0,11.4,Unfurnished,1,45.28
+Hebbal,524,1,1,1,3.0,Semi-Furnished,1,42.43
+Whitefield,1573,3,3,0,7.4,Unfurnished,0,76.45
+Sarjapur Road,473,1,1,1,1.0,Unfurnished,1,28.03
+Whitefield,1546,3,3,0,8.5,Unfurnished,1,89.93
+Jayanagar,1990,4,4,3,4.8,Unfurnished,1,154.56
+Hebbal,915,2,2,4,1.9,Furnished,1,73.01
+BTM Layout,1404,3,3,0,4.1,Semi-Furnished,1,96.89
+Hebbal,994,2,2,3,7.2,Unfurnished,1,60.28
+JP Nagar,1043,2,2,1,0.1,Unfurnished,1,69.35
+Koramangala,2135,4,4,1,6.1,Unfurnished,0,218.27
+JP Nagar,1547,4,4,2,4.7,Unfurnished,0,116.24
+Electronic City,929,2,1,1,1.5,Semi-Furnished,1,36.75
+BTM Layout,1441,3,2,2,8.4,Unfurnished,1,108.87
+Jayanagar,2326,4,4,1,2.2,Semi-Furnished,1,210.28
+JP Nagar,2638,5,4,0,1.9,Unfurnished,0,190.84
+HSR Layout,1524,3,3,1,3.8,Unfurnished,0,116.63
+Yelahanka,1274,2,2,1,6.8,Furnished,1,77.52
+Jayanagar,853,2,3,3,15.9,Unfurnished,1,65.67
+Hebbal,2159,4,4,0,0.9,Unfurnished,0,155.06
+Electronic City,930,2,1,1,3.0,Unfurnished,1,43.04
+Whitefield,1424,3,4,1,0.4,Unfurnished,0,91.82
+Koramangala,930,2,1,1,8.5,Unfurnished,0,84.4
+Indiranagar,940,2,2,4,3.6,Unfurnished,0,85.47
+BTM Layout,1458,2,2,2,7.4,Furnished,1,111.18
+Indiranagar,2927,5,5,0,2.3,Semi-Furnished,1,325.78
+Sarjapur Road,765,1,1,1,11.2,Semi-Furnished,0,41.56
+Koramangala,1574,3,4,1,4.6,Semi-Furnished,0,183.1
+Indiranagar,359,1,1,0,17.3,Semi-Furnished,1,35.58
+JP Nagar,1109,2,2,2,0.5,Unfurnished,1,72.71
+Yelahanka,1211,2,2,1,4.3,Unfurnished,0,61.44
+Jayanagar,1372,3,3,2,8.7,Unfurnished,1,116.11
+Jayanagar,1195,2,2,0,5.5,Semi-Furnished,0,98.56
+Hebbal,1156,2,2,0,0.1,Unfurnished,0,79.28
+Indiranagar,878,1,1,1,21.5,Unfurnished,1,71.2
+Sarjapur Road,987,2,2,0,2.1,Unfurnished,1,56.85
+Sarjapur Road,2635,5,6,1,1.7,Unfurnished,1,145.02
+Yelahanka,2046,4,4,2,4.0,Unfurnished,1,102.18
+Indiranagar,1265,2,3,0,4.7,Unfurnished,1,123.27
+Yelahanka,1226,3,3,0,8.7,Unfurnished,1,55.22
+Electronic City,1790,4,4,2,3.0,Unfurnished,0,74.35
+Whitefield,613,1,1,2,3.5,Unfurnished,0,41.11
+Koramangala,1434,3,4,4,4.6,Unfurnished,1,142.28
+Jayanagar,2101,4,4,1,3.0,Unfurnished,1,171.81
+BTM Layout,742,1,1,3,14.8,Semi-Furnished,1,48.33
+Hebbal,967,2,1,0,11.4,Unfurnished,1,58.82
+Hebbal,2519,5,4,0,3.6,Unfurnished,1,180.2
+HSR Layout,1807,3,3,2,0.0,Unfurnished,1,173.66
+Koramangala,450,1,1,1,13.9,Unfurnished,0,40.78
+HSR Layout,891,2,3,0,0.8,Unfurnished,1,88.58
+Sarjapur Road,1216,2,3,1,1.7,Furnished,1,85.58
+Whitefield,1442,3,3,3,1.0,Furnished,1,100.66
+BTM Layout,1490,3,3,3,1.2,Unfurnished,0,90.89
+Marathahalli,2872,5,6,0,9.7,Semi-Furnished,1,179.83
+HSR Layout,1213,2,2,0,5.2,Unfurnished,1,107.66
+Hebbal,1450,3,3,2,18.8,Unfurnished,0,82.67
+Jayanagar,1728,3,3,0,1.6,Semi-Furnished,0,146.14
+BTM Layout,730,2,3,1,4.0,Unfurnished,0,52.33
+BTM Layout,1164,2,2,0,22.7,Unfurnished,1,70.03
+HSR Layout,2674,5,4,0,10.5,Semi-Furnished,1,238.09
+Koramangala,2306,4,5,1,7.8,Semi-Furnished,0,222.1
+Marathahalli,1071,2,1,1,1.3,Furnished,1,78.28
+BTM Layout,1399,3,4,0,8.8,Semi-Furnished,1,107.16
+Indiranagar,1149,2,1,1,2.6,Semi-Furnished,0,117.5
+Marathahalli,1634,3,3,0,4.5,Unfurnished,1,74.68
+Yelahanka,1596,3,4,1,5.6,Unfurnished,1,77.42
+Hebbal,1346,3,4,0,5.6,Semi-Furnished,1,97.02
+Indiranagar,2727,5,4,0,7.8,Furnished,0,274.21
+Hebbal,1499,3,3,0,6.5,Unfurnished,0,100.24
+BTM Layout,1044,2,3,2,0.4,Furnished,0,90.75
+Indiranagar,1612,3,3,0,3.7,Unfurnished,1,159.28
+Koramangala,748,2,1,0,6.5,Unfurnished,1,80.69
+Sarjapur Road,1100,2,3,1,2.1,Unfurnished,0,55.31
+Indiranagar,1007,2,2,1,2.3,Semi-Furnished,1,102.12
+BTM Layout,924,2,2,1,0.8,Semi-Furnished,1,71.52
+Jayanagar,1389,3,3,3,3.3,Unfurnished,1,110.31
+Koramangala,1018,2,2,1,26.0,Furnished,0,101.98
+BTM Layout,960,3,2,1,2.0,Semi-Furnished,1,70.53
+HSR Layout,1395,3,4,1,4.5,Semi-Furnished,1,147.9
+Jayanagar,919,2,1,3,8.2,Semi-Furnished,1,73.93
+HSR Layout,1580,3,2,1,0.1,Unfurnished,1,166.05
+Marathahalli,929,2,2,2,13.8,Semi-Furnished,0,57.08
+Indiranagar,1018,2,2,0,2.9,Unfurnished,1,97.59
+HSR Layout,1731,3,3,2,12.2,Unfurnished,1,154.43
+Sarjapur Road,1199,2,2,0,0.2,Semi-Furnished,1,70.57
+Koramangala,735,1,1,2,0.9,Furnished,0,94.06
+Yelahanka,1425,3,3,2,2.3,Semi-Furnished,0,71.62
+Koramangala,1581,3,3,2,2.5,Semi-Furnished,1,161.53
+JP Nagar,1015,2,1,0,11.3,Semi-Furnished,1,56.2
+Indiranagar,2771,5,5,1,0.1,Unfurnished,1,268.41
+Sarjapur Road,1561,3,4,2,6.1,Furnished,1,102.33
+HSR Layout,2010,4,4,0,0.8,Unfurnished,1,199.8
+Koramangala,1274,2,2,2,10.4,Unfurnished,1,124.22
+Electronic City,1476,3,3,2,9.0,Unfurnished,1,64.03
+Indiranagar,2193,4,4,1,4.2,Unfurnished,1,202.73
+Jayanagar,1718,3,4,2,1.4,Unfurnished,1,144.28
+Koramangala,1655,3,3,2,6.0,Unfurnished,1,179.47
+JP Nagar,839,2,2,2,1.0,Unfurnished,1,51.57
+HSR Layout,667,1,1,0,1.3,Semi-Furnished,0,62.79
+Koramangala,1178,2,2,2,5.9,Semi-Furnished,1,124.99
+Marathahalli,1184,2,1,0,28.4,Semi-Furnished,0,60.61
+Hebbal,1933,4,4,1,13.3,Unfurnished,1,115.91
+Indiranagar,951,2,1,0,5.4,Semi-Furnished,1,100.6
+Indiranagar,2949,5,4,0,4.6,Unfurnished,1,298.74
+Whitefield,1986,4,3,2,38.6,Semi-Furnished,1,80.08
+Hebbal,1005,2,2,1,4.8,Unfurnished,1,66.68
+Yelahanka,1286,2,3,3,3.3,Semi-Furnished,1,66.77
+Jayanagar,2093,4,4,1,14.4,Unfurnished,0,161.91
+JP Nagar,2691,5,5,2,1.6,Semi-Furnished,1,224.99
+JP Nagar,918,2,2,3,0.6,Furnished,1,79.41
+Marathahalli,1100,2,3,2,6.0,Semi-Furnished,1,62.26
+BTM Layout,1300,3,4,0,0.6,Unfurnished,1,101.58
+Indiranagar,1463,3,4,3,2.8,Unfurnished,1,143.45
+Electronic City,1100,2,1,1,3.3,Furnished,1,48.95
+Koramangala,1695,3,4,1,4.8,Unfurnished,1,157.44
+Whitefield,700,1,2,0,28.7,Furnished,1,40.35
+Jayanagar,493,1,2,0,1.5,Unfurnished,1,38.59
+Sarjapur Road,1227,2,2,1,2.8,Furnished,0,86.38
+Whitefield,1005,2,2,0,0.9,Furnished,1,66.36
+Indiranagar,865,2,2,1,5.6,Semi-Furnished,0,84.77
+HSR Layout,1024,2,3,2,7.8,Unfurnished,1,90.62
+BTM Layout,1266,2,2,3,3.9,Unfurnished,0,80.31
+Koramangala,1075,2,2,1,1.7,Furnished,1,111.92
+Jayanagar,1052,2,2,4,5.8,Furnished,1,102.3
+Whitefield,3046,5,4,0,4.6,Unfurnished,1,167.64
+Indiranagar,835,2,2,0,1.1,Unfurnished,1,82.44
+Sarjapur Road,857,2,2,2,3.1,Furnished,1,54.91
+Sarjapur Road,1258,3,3,2,3.4,Semi-Furnished,1,75.59
+Whitefield,2856,5,5,2,24.3,Furnished,1,181.67
+Sarjapur Road,1075,2,2,1,11.4,Furnished,1,62.27
+Yelahanka,1731,3,3,1,8.0,Furnished,1,92.31
+BTM Layout,1537,3,4,1,13.2,Unfurnished,1,88.89
+HSR Layout,1439,3,2,2,8.0,Unfurnished,0,116.91
+Jayanagar,600,1,1,3,14.0,Unfurnished,0,44.94
+Jayanagar,1518,3,4,0,0.3,Furnished,0,144.4
+Yelahanka,349,1,1,0,3.7,Semi-Furnished,1,18.79
+Indiranagar,1907,3,3,2,8.2,Unfurnished,1,173.86
+Whitefield,1578,3,3,4,5.3,Unfurnished,1,82.84
+Koramangala,1082,2,1,1,1.2,Unfurnished,1,116.16
+Hebbal,2192,4,3,4,2.5,Furnished,1,174.08
+Indiranagar,706,1,1,2,2.3,Semi-Furnished,1,74.58
+Yelahanka,2079,4,3,1,1.8,Semi-Furnished,1,106.09
+Sarjapur Road,955,2,1,1,2.5,Unfurnished,0,48.22
+Electronic City,1140,2,2,0,4.3,Furnished,1,57.36
+Yelahanka,1108,2,1,2,11.6,Unfurnished,1,49.37
+HSR Layout,1979,4,3,2,8.1,Semi-Furnished,0,197.13
+BTM Layout,813,1,2,1,10.8,Unfurnished,0,55.2
+Indiranagar,1094,2,2,2,12.9,Unfurnished,1,100.63
+Hebbal,1159,2,2,0,3.2,Unfurnished,1,77.71
+JP Nagar,1709,3,3,1,2.5,Semi-Furnished,1,116.23
+Sarjapur Road,1503,3,2,1,0.4,Semi-Furnished,1,85.73
+Yelahanka,1098,2,3,1,16.0,Unfurnished,1,46.54
+Jayanagar,1172,2,3,0,0.4,Unfurnished,0,95.83
+Marathahalli,941,2,2,1,8.1,Furnished,0,58.02
+BTM Layout,1058,2,1,2,2.8,Unfurnished,1,77.63
+Marathahalli,1069,2,3,1,17.8,Unfurnished,1,55.5
+Whitefield,1357,3,3,0,3.3,Unfurnished,1,86.16
+BTM Layout,1398,2,1,2,10.2,Furnished,0,102.25
+Hebbal,839,2,1,0,2.0,Unfurnished,0,56.31
+Yelahanka,855,2,1,2,2.1,Furnished,0,48.76
+Indiranagar,2997,5,6,2,5.4,Unfurnished,1,293.95
+Yelahanka,2207,4,4,0,37.2,Unfurnished,1,84.33
+HSR Layout,1346,3,3,1,4.4,Unfurnished,0,120.71
+Yelahanka,1141,2,2,2,16.5,Semi-Furnished,0,46.6
+Electronic City,820,1,2,2,9.3,Unfurnished,0,32.25
+Yelahanka,1045,2,1,1,9.5,Semi-Furnished,1,52.01
+Sarjapur Road,1440,2,2,2,3.4,Unfurnished,1,90.52
+Whitefield,1241,3,3,4,2.9,Unfurnished,0,68.69
+Sarjapur Road,1604,3,3,0,1.3,Furnished,1,97.96
+HSR Layout,2275,4,3,1,19.9,Semi-Furnished,1,194.87
+BTM Layout,2234,4,3,2,19.2,Unfurnished,1,140.41
+JP Nagar,1019,2,3,2,8.2,Semi-Furnished,1,78.14
+Marathahalli,1456,3,4,2,2.1,Semi-Furnished,1,90.43
+Hebbal,1117,2,3,0,1.7,Unfurnished,1,83.51
+BTM Layout,722,1,1,0,26.9,Semi-Furnished,0,39.7
+HSR Layout,1590,3,2,1,0.4,Unfurnished,1,141.59
+Koramangala,756,1,1,2,11.1,Semi-Furnished,1,76.04
+Yelahanka,897,2,2,2,2.6,Semi-Furnished,1,50.98
+JP Nagar,1016,2,2,0,3.3,Unfurnished,1,75.55
+Hebbal,1359,3,3,1,10.7,Unfurnished,1,80.13
+JP Nagar,1442,3,3,4,0.6,Unfurnished,1,100.2
+HSR Layout,1202,2,3,2,2.6,Furnished,1,146.65
+JP Nagar,1516,3,3,1,18.2,Semi-Furnished,1,112.69
+Indiranagar,1441,2,2,1,7.2,Unfurnished,1,142.07
+Jayanagar,1079,2,2,2,8.4,Unfurnished,1,85.91
+Whitefield,1509,3,3,0,8.5,Unfurnished,1,93.79
+Koramangala,1516,3,4,0,0.4,Semi-Furnished,1,162.95
+HSR Layout,2704,5,5,2,1.4,Semi-Furnished,1,278.2
+HSR Layout,1041,2,1,0,4.1,Furnished,1,105.36
+Hebbal,1669,3,2,1,2.8,Unfurnished,1,111.71
+HSR Layout,1517,3,3,2,3.2,Semi-Furnished,1,153.53
+HSR Layout,1981,4,3,1,9.1,Semi-Furnished,1,179.73
+Koramangala,911,2,1,4,0.1,Furnished,1,110.48
+HSR Layout,1432,3,3,1,6.5,Unfurnished,0,115.32
+Indiranagar,1511,3,2,1,0.0,Semi-Furnished,1,138.81
+Electronic City,1229,2,1,1,0.4,Unfurnished,0,54.2
+Marathahalli,849,2,2,3,3.1,Unfurnished,0,43.1
+Yelahanka,1002,2,1,2,11.0,Furnished,1,60.83
+Marathahalli,1522,3,3,4,0.9,Furnished,1,101.75
+Jayanagar,1825,4,4,0,4.9,Semi-Furnished,0,169.52
+HSR Layout,1375,3,4,1,6.8,Unfurnished,1,106.0
+BTM Layout,1398,3,2,4,1.6,Furnished,1,122.85
+Jayanagar,1381,3,4,0,4.3,Unfurnished,1,124.02
+Jayanagar,629,1,1,1,14.5,Unfurnished,1,51.75
+Whitefield,1026,2,2,1,4.3,Semi-Furnished,1,57.64
+Koramangala,967,2,2,2,1.0,Unfurnished,1,96.75
+HSR Layout,1114,2,3,0,5.9,Furnished,1,121.64
+HSR Layout,1308,2,2,1,5.4,Unfurnished,0,111.28
+Marathahalli,1746,3,4,1,0.2,Unfurnished,1,105.68
+Jayanagar,762,2,1,2,0.6,Semi-Furnished,0,65.47
+Marathahalli,1137,2,2,3,1.0,Semi-Furnished,1,78.65
+Hebbal,1023,2,3,0,0.9,Semi-Furnished,0,88.65
+JP Nagar,1073,2,3,0,1.8,Unfurnished,0,78.23
+Hebbal,2040,4,4,2,3.6,Semi-Furnished,1,153.83
+Sarjapur Road,2118,4,4,1,2.8,Unfurnished,1,116.74
+Whitefield,1523,3,3,0,13.3,Unfurnished,1,89.47
+Indiranagar,513,1,1,1,5.7,Semi-Furnished,0,53.15
+Whitefield,1366,3,3,1,12.5,Unfurnished,1,68.62
+Yelahanka,1433,3,3,0,4.5,Furnished,0,74.89
+BTM Layout,1535,3,2,1,0.6,Semi-Furnished,0,105.8
+Koramangala,690,1,1,2,3.7,Furnished,0,95.79
+BTM Layout,1628,3,4,3,10.4,Unfurnished,1,114.11
+Whitefield,2026,4,4,1,1.3,Furnished,0,131.5
+BTM Layout,1543,3,3,2,0.6,Unfurnished,1,104.98
+Koramangala,1644,3,3,2,2.4,Unfurnished,1,180.69
+Electronic City,1225,2,3,2,3.0,Unfurnished,0,54.46
+Jayanagar,1491,3,3,3,2.2,Semi-Furnished,1,142.44
+Koramangala,567,1,1,0,0.9,Unfurnished,1,57.94
+Koramangala,1529,3,3,3,1.7,Semi-Furnished,1,176.49
+Koramangala,428,1,1,2,6.9,Unfurnished,1,43.23
+JP Nagar,1021,2,2,2,2.9,Unfurnished,1,69.78
+Jayanagar,1162,2,1,4,6.0,Semi-Furnished,1,95.28
+Koramangala,1596,3,2,2,4.6,Unfurnished,1,167.78
+Marathahalli,1009,2,3,0,4.8,Semi-Furnished,1,63.1
+Hebbal,1533,3,3,1,1.7,Semi-Furnished,0,113.66
+Koramangala,1376,3,3,1,4.4,Furnished,1,175.38
+HSR Layout,1156,2,2,0,0.1,Unfurnished,1,116.81
+Indiranagar,588,1,2,4,3.4,Furnished,1,64.33
+Indiranagar,1009,2,3,2,5.1,Semi-Furnished,1,109.98
+Yelahanka,2046,4,5,2,1.2,Furnished,1,128.14
+Indiranagar,1491,3,3,0,1.8,Unfurnished,1,142.02
+Jayanagar,983,2,2,4,1.5,Semi-Furnished,1,90.21
+Hebbal,699,1,2,3,0.4,Furnished,1,57.26
+Electronic City,1441,3,3,4,2.6,Unfurnished,0,68.01
+Marathahalli,2339,4,4,0,23.2,Semi-Furnished,1,120.69
+Koramangala,1720,3,2,2,2.6,Furnished,1,217.48
+Sarjapur Road,1366,3,4,0,3.7,Semi-Furnished,0,77.4
+Jayanagar,610,1,1,0,6.4,Unfurnished,1,47.7
+JP Nagar,502,1,1,1,6.3,Semi-Furnished,1,35.04
+Jayanagar,551,1,1,1,18.0,Unfurnished,0,41.65
+Whitefield,1350,2,3,2,11.7,Furnished,1,93.62
+Yelahanka,1004,2,3,1,9.5,Unfurnished,1,46.24
+Sarjapur Road,1104,2,2,2,18.2,Unfurnished,1,49.63
+Marathahalli,1131,2,2,0,1.6,Unfurnished,1,65.85
+JP Nagar,1950,4,3,1,5.8,Semi-Furnished,0,139.56
+BTM Layout,1372,3,3,2,13.1,Furnished,1,102.38
+Indiranagar,1919,4,4,0,5.9,Unfurnished,1,164.67
+Indiranagar,1367,3,4,1,22.7,Unfurnished,1,114.46
+Marathahalli,300,1,1,4,0.6,Unfurnished,1,17.68
+HSR Layout,1582,3,4,2,3.5,Furnished,1,182.36
+JP Nagar,1358,2,1,2,22.7,Semi-Furnished,1,88.93
+BTM Layout,1522,3,4,0,2.9,Unfurnished,0,102.19
+Koramangala,838,2,1,4,8.1,Semi-Furnished,1,80.0
+Koramangala,2704,5,6,1,0.2,Unfurnished,0,302.52
+JP Nagar,981,2,3,0,7.1,Unfurnished,1,75.09
+Koramangala,897,2,1,0,16.4,Unfurnished,1,82.84
+JP Nagar,2229,4,5,3,2.9,Furnished,1,177.97
+HSR Layout,722,1,1,3,0.1,Furnished,1,71.29
+Yelahanka,1327,3,4,1,0.2,Semi-Furnished,1,70.07
+Electronic City,1609,3,3,1,13.4,Unfurnished,1,66.99
+Marathahalli,2329,4,5,1,7.7,Semi-Furnished,1,143.07
+HSR Layout,3085,5,5,1,0.7,Unfurnished,1,251.41
+Marathahalli,3230,5,5,1,0.3,Semi-Furnished,1,208.41
+Indiranagar,465,1,1,1,9.8,Semi-Furnished,1,43.04
+Hebbal,1924,3,3,1,10.0,Furnished,0,134.83
+BTM Layout,1447,3,4,1,0.8,Unfurnished,1,112.39
+Indiranagar,1411,3,3,0,2.2,Semi-Furnished,1,155.84
+Electronic City,1099,2,3,1,9.1,Semi-Furnished,0,50.75
+Whitefield,1413,3,3,0,4.5,Unfurnished,1,82.03
+Yelahanka,2860,5,5,1,18.8,Semi-Furnished,1,139.1
+Marathahalli,1902,4,3,1,3.9,Furnished,1,121.44
+Jayanagar,1014,2,2,0,6.8,Furnished,0,91.1
+Indiranagar,793,1,2,1,4.3,Semi-Furnished,1,81.44
+HSR Layout,1041,2,1,3,17.2,Unfurnished,1,82.3
+Marathahalli,1521,3,2,4,3.1,Furnished,1,92.76
+Jayanagar,1571,3,3,1,1.6,Semi-Furnished,1,140.59
+Sarjapur Road,1226,2,1,1,2.4,Unfurnished,1,74.39
+Indiranagar,352,1,1,3,11.5,Unfurnished,1,29.16
+Hebbal,1138,2,2,0,4.1,Unfurnished,1,69.56
+HSR Layout,1010,2,2,0,2.6,Unfurnished,1,82.6
+HSR Layout,2125,4,5,3,4.7,Semi-Furnished,0,235.19
+Hebbal,1659,3,3,3,0.9,Unfurnished,1,118.5
+Hebbal,871,2,1,3,0.0,Unfurnished,1,59.54
+Sarjapur Road,1348,3,4,4,2.0,Unfurnished,1,76.35
+Indiranagar,310,1,1,2,5.6,Semi-Furnished,0,30.87
+Electronic City,2718,5,6,0,7.5,Unfurnished,1,108.73
+Hebbal,1250,2,1,2,10.5,Unfurnished,1,76.9
+Marathahalli,1032,2,2,0,15.7,Unfurnished,1,51.97
+Koramangala,849,2,3,3,3.2,Semi-Furnished,1,91.77
+Electronic City,1427,3,4,0,8.1,Unfurnished,0,55.58
+Electronic City,1277,3,3,1,0.5,Semi-Furnished,1,61.48
+BTM Layout,1331,3,3,0,0.4,Unfurnished,1,88.56
+Indiranagar,1108,2,1,0,0.8,Unfurnished,1,128.64
+Koramangala,874,2,2,0,3.6,Unfurnished,0,91.15
+Indiranagar,1217,2,3,0,1.4,Unfurnished,0,106.24
+Koramangala,1489,3,3,1,2.0,Unfurnished,1,128.47
+Whitefield,613,1,1,2,6.3,Unfurnished,0,32.14
+Jayanagar,1458,3,3,4,2.7,Unfurnished,1,127.48
+Whitefield,2216,4,5,2,4.9,Semi-Furnished,1,146.34
+JP Nagar,2217,4,3,3,3.2,Unfurnished,1,160.5
+Indiranagar,1100,2,2,2,1.1,Furnished,1,121.76
+Jayanagar,1135,2,3,4,0.5,Furnished,1,108.69
+BTM Layout,568,1,1,4,1.6,Semi-Furnished,1,42.23
+Yelahanka,1581,3,4,0,0.4,Unfurnished,0,71.69
+Jayanagar,1449,3,4,1,5.8,Furnished,1,137.87
+Koramangala,1050,2,2,1,9.5,Unfurnished,1,112.51
+Koramangala,1009,2,1,2,2.5,Unfurnished,1,99.23
+Yelahanka,2031,4,4,1,2.9,Unfurnished,1,103.27
+Sarjapur Road,1997,4,4,0,10.2,Furnished,0,123.11
+Yelahanka,1120,2,1,0,1.5,Unfurnished,1,51.06
+Jayanagar,1697,3,3,1,0.8,Furnished,1,159.66
+Hebbal,1226,2,2,0,4.2,Unfurnished,1,88.73
+Jayanagar,412,1,1,1,6.2,Furnished,1,36.85
+Whitefield,2293,4,3,1,5.5,Furnished,0,149.42
+Marathahalli,1452,3,2,1,7.5,Furnished,0,103.07
+Sarjapur Road,1590,3,3,0,0.4,Semi-Furnished,0,98.77
+Indiranagar,464,1,1,2,3.4,Furnished,0,50.9
+Hebbal,2121,4,3,2,1.6,Furnished,0,175.28
+Indiranagar,1097,2,1,0,8.5,Unfurnished,1,100.62
+Jayanagar,827,2,3,1,12.4,Unfurnished,1,69.42
+Electronic City,1591,3,2,2,2.0,Semi-Furnished,1,63.27
+HSR Layout,802,1,2,1,0.6,Unfurnished,0,70.94
+Hebbal,1474,3,3,1,1.8,Semi-Furnished,1,93.36
+Koramangala,1704,3,3,1,0.7,Unfurnished,1,181.78
+Yelahanka,1022,2,2,1,2.3,Semi-Furnished,1,53.19
+JP Nagar,1177,2,3,1,4.6,Unfurnished,1,94.84
+BTM Layout,717,2,2,2,21.8,Unfurnished,1,44.6
+Koramangala,963,1,1,1,3.1,Unfurnished,0,92.26
+HSR Layout,1724,3,3,2,1.5,Furnished,1,178.72
+Indiranagar,2057,4,3,0,1.1,Unfurnished,0,198.86
+Sarjapur Road,304,1,1,3,1.1,Furnished,1,19.17
+BTM Layout,643,1,1,0,1.3,Semi-Furnished,1,49.2
+Jayanagar,1283,3,4,1,8.6,Semi-Furnished,1,122.58
+JP Nagar,1567,3,3,3,0.4,Unfurnished,1,110.17
+Jayanagar,1112,2,3,2,35.7,Unfurnished,0,64.36
+Marathahalli,909,2,2,2,4.4,Semi-Furnished,1,53.98
+Electronic City,1668,3,3,1,4.7,Unfurnished,1,85.62
+Hebbal,1171,2,3,0,2.7,Semi-Furnished,1,91.69
+Indiranagar,746,1,1,1,7.0,Furnished,1,88.61
+JP Nagar,1501,3,2,1,3.8,Unfurnished,1,114.84
+JP Nagar,1288,3,2,1,2.4,Semi-Furnished,0,103.98
+Hebbal,1647,3,3,3,1.8,Furnished,0,132.59
+Whitefield,1459,3,3,3,15.6,Furnished,0,89.63
+Koramangala,1292,3,3,2,2.1,Furnished,1,142.86
+Koramangala,1253,2,3,2,3.4,Furnished,1,159.53
+HSR Layout,1365,2,3,1,2.6,Unfurnished,1,123.83
+Electronic City,1044,2,2,2,0.5,Furnished,0,53.5
+Sarjapur Road,1374,2,1,1,1.2,Furnished,1,89.73
+Jayanagar,1514,3,3,2,1.3,Semi-Furnished,0,139.77
+Koramangala,2043,4,5,3,7.1,Unfurnished,1,222.22
+HSR Layout,2705,5,5,2,3.1,Unfurnished,0,184.82
+HSR Layout,1746,3,2,1,9.1,Unfurnished,1,143.66
+Marathahalli,933,2,1,1,7.4,Unfurnished,1,44.47
+Jayanagar,710,1,1,0,1.3,Semi-Furnished,0,63.26
+BTM Layout,1416,3,3,0,5.0,Semi-Furnished,0,99.17
+Jayanagar,1431,3,3,1,8.1,Semi-Furnished,1,134.96
+Sarjapur Road,1655,3,3,1,6.0,Unfurnished,0,86.31
+JP Nagar,1443,3,2,2,5.5,Semi-Furnished,1,107.77
+Indiranagar,1439,3,2,3,8.1,Unfurnished,1,141.7
+BTM Layout,2270,4,5,0,0.4,Unfurnished,1,161.93
+Electronic City,840,1,1,2,7.9,Semi-Furnished,1,35.83
+JP Nagar,1597,3,3,1,1.9,Unfurnished,1,121.01
+HSR Layout,2002,4,4,2,5.1,Unfurnished,1,195.59
+BTM Layout,973,2,2,1,1.7,Unfurnished,1,72.99
+BTM Layout,1512,3,4,1,11.0,Semi-Furnished,0,108.97
+JP Nagar,1098,2,3,3,3.9,Semi-Furnished,1,104.64
+JP Nagar,1952,4,4,0,6.2,Unfurnished,1,131.79
+Koramangala,708,1,1,0,9.5,Unfurnished,1,65.73
+Electronic City,1513,3,4,2,13.5,Semi-Furnished,0,63.08
+HSR Layout,793,2,2,0,7.9,Furnished,0,85.32
+Indiranagar,1361,3,4,0,1.0,Semi-Furnished,0,131.98
+Hebbal,974,2,2,0,11.6,Furnished,1,81.58
+Koramangala,1039,2,3,2,5.8,Semi-Furnished,1,104.12
+Sarjapur Road,1333,2,2,1,5.6,Semi-Furnished,1,76.57
+Yelahanka,2136,4,4,0,15.3,Furnished,0,107.46
+JP Nagar,924,2,3,2,1.7,Semi-Furnished,0,67.82
+Indiranagar,1083,2,1,0,1.6,Furnished,0,114.64
+BTM Layout,1447,3,3,0,4.3,Unfurnished,1,105.86
+BTM Layout,1549,3,3,1,8.3,Furnished,1,134.81
+Jayanagar,2187,4,5,0,3.6,Semi-Furnished,1,170.0
+Marathahalli,1231,2,3,1,6.0,Furnished,1,83.18
+Hebbal,1496,3,2,0,3.6,Unfurnished,0,96.57
+Indiranagar,1296,2,2,3,5.7,Semi-Furnished,1,132.97
+Jayanagar,1186,2,1,1,10.4,Furnished,1,106.99
+HSR Layout,1394,3,3,1,1.2,Unfurnished,0,110.52
+Indiranagar,1831,3,4,0,7.1,Semi-Furnished,0,200.25
+HSR Layout,1549,3,3,3,9.3,Furnished,1,167.4
+Whitefield,925,2,2,1,3.6,Unfurnished,0,51.73
+Whitefield,1298,2,2,3,2.3,Unfurnished,1,74.23
+Indiranagar,1362,2,1,1,0.1,Semi-Furnished,1,139.02
+Sarjapur Road,2795,5,4,0,9.6,Semi-Furnished,1,128.18
+Jayanagar,974,2,2,1,2.4,Unfurnished,1,83.49
+Sarjapur Road,1024,2,2,0,2.7,Unfurnished,0,57.06
+HSR Layout,1157,2,1,0,2.5,Unfurnished,0,100.74
+Koramangala,1692,3,4,1,4.1,Unfurnished,1,176.0
+Jayanagar,1136,2,3,1,7.3,Unfurnished,1,93.91
+HSR Layout,2115,4,4,0,8.9,Semi-Furnished,1,182.57
+Electronic City,1275,2,3,4,3.0,Semi-Furnished,1,57.78
+Yelahanka,2053,4,3,0,6.5,Semi-Furnished,1,103.71
+Indiranagar,755,1,1,4,7.7,Unfurnished,0,70.59
+Marathahalli,1457,3,3,0,2.1,Semi-Furnished,1,98.8
+Yelahanka,2165,4,4,0,0.6,Unfurnished,1,105.83
+Indiranagar,1033,2,3,0,13.5,Furnished,1,101.56
+Whitefield,2792,5,5,0,6.8,Semi-Furnished,1,172.42
+JP Nagar,993,2,3,1,6.3,Furnished,0,93.22
+HSR Layout,2302,4,4,0,0.4,Unfurnished,0,188.39
+Whitefield,1390,3,3,1,10.2,Semi-Furnished,1,88.32
+Sarjapur Road,939,2,1,1,5.0,Semi-Furnished,1,59.79
+Whitefield,1368,2,3,2,11.3,Furnished,1,88.06
+Hebbal,1197,2,1,0,22.0,Semi-Furnished,1,70.58
+Sarjapur Road,300,1,1,3,18.9,Semi-Furnished,1,16.07
+Koramangala,965,2,2,3,11.6,Unfurnished,0,91.5
+Indiranagar,328,1,1,3,0.1,Semi-Furnished,1,36.67
+Indiranagar,907,2,3,1,13.0,Unfurnished,0,90.18
+Koramangala,1029,3,2,0,0.5,Unfurnished,1,109.99
+Electronic City,1029,2,1,1,11.4,Unfurnished,1,37.44
+Hebbal,879,2,3,2,2.0,Furnished,0,70.07
+Whitefield,1509,3,3,2,5.7,Unfurnished,1,88.34
+Jayanagar,806,2,3,1,0.2,Furnished,1,89.92
+Sarjapur Road,612,1,1,1,8.8,Furnished,0,35.75
+JP Nagar,988,2,2,1,0.7,Furnished,1,84.32
+Marathahalli,2325,4,3,3,3.2,Furnished,0,135.33
+Koramangala,1712,3,4,1,10.2,Furnished,1,208.44
+Marathahalli,1168,2,2,1,7.1,Unfurnished,0,76.15
+Jayanagar,1451,3,4,1,0.0,Unfurnished,1,124.25
+HSR Layout,1798,3,3,2,3.1,Semi-Furnished,1,178.79
+Indiranagar,1267,3,3,0,0.3,Semi-Furnished,1,129.7
+BTM Layout,1289,3,2,0,6.7,Unfurnished,1,79.69
+HSR Layout,1487,3,3,4,20.8,Semi-Furnished,0,121.39
+Indiranagar,1388,2,2,2,6.4,Semi-Furnished,0,135.38
+HSR Layout,570,1,1,1,1.5,Furnished,1,50.66
+HSR Layout,1023,2,1,1,2.6,Semi-Furnished,1,110.17
+JP Nagar,1884,4,4,1,22.5,Semi-Furnished,1,128.57
+Hebbal,1642,3,4,0,1.5,Unfurnished,1,115.9
+JP Nagar,2243,4,5,4,4.9,Semi-Furnished,1,172.52
+Whitefield,2918,5,4,0,3.1,Furnished,1,208.29
+HSR Layout,956,2,2,0,8.8,Unfurnished,0,80.68
+Jayanagar,1394,3,2,1,12.1,Unfurnished,0,106.14
+Whitefield,1306,3,2,0,2.5,Semi-Furnished,1,89.61
+Koramangala,2813,5,5,3,6.5,Unfurnished,1,308.54
+Hebbal,2638,5,6,0,4.8,Unfurnished,0,197.7
+Indiranagar,1323,3,2,1,2.0,Unfurnished,0,116.43
+Jayanagar,986,2,2,1,1.9,Unfurnished,1,79.48
+Indiranagar,1427,3,2,0,4.6,Unfurnished,0,133.88
+Whitefield,519,1,1,0,1.0,Furnished,1,34.65
+Koramangala,1570,3,2,2,10.0,Semi-Furnished,0,152.23
+Sarjapur Road,2112,4,5,0,0.4,Unfurnished,0,119.81
+JP Nagar,1007,2,2,2,0.6,Unfurnished,1,79.77
+Sarjapur Road,1527,3,4,1,2.5,Unfurnished,1,93.38
+Jayanagar,901,2,2,3,0.8,Furnished,1,88.87
+Electronic City,1066,2,2,1,3.9,Unfurnished,1,46.57
+Jayanagar,1073,2,2,1,3.1,Furnished,0,102.97
+HSR Layout,1275,3,2,0,7.7,Unfurnished,1,109.64
+JP Nagar,2249,4,4,3,18.3,Furnished,0,153.79
+Electronic City,1968,4,4,4,8.4,Unfurnished,1,74.89
+Jayanagar,1064,2,1,3,1.2,Unfurnished,1,94.06
+Indiranagar,2275,4,4,0,16.4,Unfurnished,0,176.82
+Koramangala,1639,3,3,2,3.0,Semi-Furnished,0,154.3
+Hebbal,1055,2,3,1,3.9,Unfurnished,1,72.48
+Jayanagar,546,1,1,0,3.3,Unfurnished,1,49.95
+HSR Layout,1192,2,3,0,2.0,Furnished,1,103.93
+HSR Layout,2201,4,4,2,13.5,Unfurnished,0,169.28
+HSR Layout,1407,3,2,4,2.4,Unfurnished,1,132.27
+JP Nagar,1381,3,4,1,5.2,Furnished,0,100.06
+BTM Layout,739,2,3,2,1.6,Semi-Furnished,0,54.62
+Sarjapur Road,1523,3,3,1,9.6,Furnished,1,85.74
+JP Nagar,588,1,1,2,8.9,Unfurnished,1,38.01
+Koramangala,1220,2,2,0,2.1,Unfurnished,1,123.66
+Hebbal,1554,3,3,0,6.9,Unfurnished,1,94.26
+HSR Layout,1250,2,2,3,7.3,Furnished,1,116.38
+Koramangala,1395,3,4,0,5.0,Furnished,1,170.28
+JP Nagar,1221,2,1,1,5.5,Furnished,1,119.22
+Whitefield,1421,3,3,0,5.1,Unfurnished,1,86.58
+BTM Layout,1167,2,2,1,0.5,Furnished,1,105.38
+HSR Layout,1281,3,3,0,6.7,Unfurnished,1,117.15
+Yelahanka,635,1,1,1,3.8,Semi-Furnished,1,31.57
+Yelahanka,302,1,1,2,3.5,Furnished,1,17.67
+BTM Layout,2060,4,4,0,11.8,Unfurnished,0,138.61
+Yelahanka,1116,2,2,3,0.1,Unfurnished,0,56.63
+Marathahalli,1422,3,4,4,1.7,Unfurnished,1,84.46
+Whitefield,2642,5,5,3,0.8,Semi-Furnished,1,177.24
+Jayanagar,1177,2,3,1,0.2,Unfurnished,1,119.84
+Indiranagar,1034,2,1,0,1.9,Unfurnished,0,102.42
+Hebbal,1427,3,4,2,26.8,Furnished,1,91.94
+Jayanagar,2806,5,6,0,1.9,Unfurnished,0,229.93
+Yelahanka,2496,4,3,0,6.5,Unfurnished,1,109.4
+Whitefield,1673,3,3,2,0.8,Semi-Furnished,0,121.23
+Electronic City,1674,3,2,0,5.5,Furnished,1,91.75
+Hebbal,1115,2,2,2,25.0,Unfurnished,0,60.11
+Electronic City,2825,5,4,3,2.1,Semi-Furnished,1,151.03
+Electronic City,2441,5,5,1,11.3,Unfurnished,1,101.28
+Whitefield,948,2,2,0,36.1,Semi-Furnished,1,42.6
+Sarjapur Road,978,2,2,1,5.3,Unfurnished,0,53.78
+Hebbal,319,1,1,2,2.2,Unfurnished,0,21.58
+Koramangala,876,2,1,1,6.7,Semi-Furnished,1,100.55
+Koramangala,1203,3,3,3,11.2,Furnished,1,123.95
+Koramangala,1044,2,1,2,1.1,Semi-Furnished,1,111.83
+JP Nagar,723,1,1,4,3.6,Furnished,0,65.87
+Yelahanka,1216,2,2,2,2.3,Semi-Furnished,1,71.98
+Indiranagar,2862,5,4,4,2.0,Unfurnished,1,305.8
+Indiranagar,1355,3,4,2,11.8,Unfurnished,1,142.87
+Electronic City,760,2,2,0,3.3,Furnished,1,39.68
+Yelahanka,786,2,3,3,2.5,Semi-Furnished,1,43.86
+Hebbal,2610,5,5,0,5.6,Furnished,1,191.88
+Koramangala,1367,3,3,1,1.5,Unfurnished,1,137.45
+Whitefield,1026,2,3,1,1.6,Unfurnished,1,53.64
+Electronic City,448,1,1,4,4.4,Unfurnished,1,18.45
+Sarjapur Road,651,1,2,0,3.2,Unfurnished,0,29.9
+Koramangala,1015,2,2,0,2.1,Unfurnished,1,113.87
+JP Nagar,1502,3,3,1,0.3,Unfurnished,1,115.25
+Marathahalli,2271,4,4,1,4.4,Semi-Furnished,1,118.27
+HSR Layout,873,2,2,1,10.2,Unfurnished,1,72.4
+Indiranagar,2163,4,5,4,11.4,Unfurnished,0,216.72
+Indiranagar,1048,2,1,2,1.6,Semi-Furnished,1,109.42
+Marathahalli,1450,3,2,4,5.5,Semi-Furnished,1,81.1
+JP Nagar,1633,3,3,1,11.6,Semi-Furnished,1,104.83
+Yelahanka,1182,2,1,3,3.2,Semi-Furnished,0,52.37
+Jayanagar,908,2,3,0,16.1,Furnished,1,84.24
+Whitefield,1473,3,2,0,14.0,Semi-Furnished,1,82.62
+Sarjapur Road,642,1,1,3,1.4,Furnished,1,41.03
+JP Nagar,1009,2,1,2,1.8,Semi-Furnished,1,78.0
+Koramangala,1588,3,3,0,1.2,Unfurnished,0,158.85
+Sarjapur Road,2842,5,4,3,1.3,Unfurnished,0,138.83
+Marathahalli,1325,2,1,2,14.3,Semi-Furnished,1,75.44
+Marathahalli,1270,3,2,1,16.1,Semi-Furnished,1,62.66
+Hebbal,1032,2,1,0,0.3,Semi-Furnished,0,70.55
+JP Nagar,1364,3,3,1,5.4,Unfurnished,1,104.64
+Yelahanka,1591,3,4,3,5.0,Semi-Furnished,1,86.2
+Indiranagar,1857,4,4,1,3.0,Semi-Furnished,1,202.68
+Koramangala,1102,2,2,2,6.0,Semi-Furnished,0,132.97
+BTM Layout,1405,3,2,4,17.7,Semi-Furnished,1,93.08
+Indiranagar,1390,3,4,1,1.1,Furnished,1,164.08
+HSR Layout,833,2,1,3,0.8,Unfurnished,1,74.35
+HSR Layout,980,2,2,4,0.2,Unfurnished,1,86.77
+HSR Layout,763,1,2,1,2.7,Furnished,1,76.41
+Marathahalli,596,1,2,2,2.5,Unfurnished,1,34.9
+Sarjapur Road,2194,4,5,2,3.4,Semi-Furnished,0,130.12
+Koramangala,1300,2,3,0,4.2,Unfurnished,1,139.84
+Indiranagar,1090,2,1,1,8.5,Unfurnished,0,96.94
+Indiranagar,1416,3,3,1,3.0,Unfurnished,1,145.4
+BTM Layout,1120,2,3,0,2.4,Unfurnished,1,80.57
+Yelahanka,1418,3,3,1,10.5,Unfurnished,1,62.98
+Koramangala,974,2,2,1,11.4,Unfurnished,0,84.43
+JP Nagar,1872,4,4,1,1.6,Semi-Furnished,0,128.12
+BTM Layout,2239,4,4,0,2.3,Semi-Furnished,1,187.74
+JP Nagar,2042,4,3,4,10.5,Furnished,1,157.18
+BTM Layout,1077,2,1,1,0.5,Furnished,0,81.68
+Koramangala,1345,3,3,0,2.4,Unfurnished,1,135.85
+Hebbal,1115,2,3,1,3.6,Furnished,0,85.62
+HSR Layout,486,1,1,2,1.2,Semi-Furnished,0,50.99
+JP Nagar,579,1,1,1,1.2,Semi-Furnished,0,43.57
+Hebbal,1632,3,3,2,3.3,Semi-Furnished,1,141.61
+JP Nagar,1169,2,2,0,8.4,Unfurnished,0,78.86
+Yelahanka,1497,3,3,3,11.0,Semi-Furnished,0,80.97
+Indiranagar,335,1,2,0,23.2,Unfurnished,0,28.09
+Jayanagar,1499,2,2,0,0.5,Unfurnished,1,130.54
+Sarjapur Road,1762,3,2,0,1.5,Unfurnished,1,108.56
+Sarjapur Road,1158,2,2,2,8.5,Unfurnished,0,62.86
+Whitefield,1387,3,3,0,4.7,Furnished,1,99.23
+Indiranagar,1033,2,2,0,2.4,Furnished,0,132.0
+Indiranagar,1418,3,3,1,1.4,Unfurnished,1,133.7
+Hebbal,1690,3,3,1,2.0,Unfurnished,0,103.66
+JP Nagar,1089,2,1,1,3.4,Unfurnished,0,72.66
+Indiranagar,932,2,1,0,1.2,Furnished,0,116.17
+Jayanagar,1429,3,3,0,20.0,Unfurnished,0,108.43
+JP Nagar,1668,3,3,0,0.7,Furnished,1,141.17
+Hebbal,1290,2,2,0,25.4,Semi-Furnished,1,64.6
+Jayanagar,1279,2,2,1,11.1,Furnished,1,115.59
+Marathahalli,2214,4,4,3,3.3,Semi-Furnished,0,121.12
+Jayanagar,1462,3,3,2,8.1,Semi-Furnished,1,121.57
+Koramangala,564,2,3,1,6.7,Semi-Furnished,0,55.55
+Marathahalli,1095,2,1,1,1.4,Furnished,1,66.03
+Hebbal,1050,2,3,1,2.5,Furnished,1,97.68
+BTM Layout,1521,3,4,0,4.3,Semi-Furnished,1,110.54
+Yelahanka,1058,2,3,0,6.1,Semi-Furnished,0,58.48
+Hebbal,2601,5,5,0,4.7,Furnished,1,202.63
+Indiranagar,1134,2,2,1,3.8,Furnished,0,113.5
+HSR Layout,1145,2,2,1,3.5,Semi-Furnished,0,109.54
+Whitefield,1602,3,2,2,4.1,Unfurnished,0,87.41
+Koramangala,2242,4,4,1,3.4,Unfurnished,0,219.24
+Hebbal,1591,3,3,0,4.7,Furnished,1,127.17
+Sarjapur Road,988,2,2,1,13.1,Unfurnished,1,46.85
+Electronic City,1489,3,3,3,6.0,Unfurnished,1,54.89
+HSR Layout,1514,3,4,1,7.7,Unfurnished,1,132.15
+JP Nagar,1066,2,2,3,5.5,Semi-Furnished,0,84.59
+Indiranagar,1200,2,1,0,6.2,Semi-Furnished,0,109.63
+Jayanagar,1147,2,1,2,5.2,Unfurnished,1,94.76
+Hebbal,1362,2,1,1,0.2,Unfurnished,1,104.74
+Marathahalli,2431,4,4,4,40.0,Semi-Furnished,0,99.35
+Indiranagar,1062,2,1,4,0.2,Furnished,1,124.36
+Koramangala,1525,4,5,0,3.0,Unfurnished,1,161.67
+JP Nagar,1686,3,3,0,0.7,Unfurnished,1,119.54
+Jayanagar,1419,3,3,3,0.6,Semi-Furnished,1,121.02
+Whitefield,1380,3,3,1,9.5,Furnished,1,84.48
+Hebbal,990,2,3,2,3.3,Semi-Furnished,1,75.89
+Whitefield,983,2,1,3,9.7,Semi-Furnished,1,62.2
+Hebbal,692,1,1,2,1.9,Furnished,0,56.91
+Indiranagar,1266,3,3,1,1.8,Unfurnished,1,120.01
+Sarjapur Road,888,2,3,1,1.7,Unfurnished,1,54.02
+HSR Layout,1551,3,4,0,5.7,Semi-Furnished,1,152.45
+Koramangala,1143,2,1,2,10.1,Furnished,1,132.17
+Indiranagar,1146,2,2,0,3.6,Semi-Furnished,1,91.0
+Koramangala,932,2,2,1,2.9,Furnished,0,103.3
+BTM Layout,1953,4,3,1,21.8,Semi-Furnished,1,111.66
+Sarjapur Road,1424,3,3,3,0.7,Semi-Furnished,1,89.66
+HSR Layout,1086,2,3,3,4.0,Unfurnished,0,94.99
+HSR Layout,1723,3,4,1,3.2,Unfurnished,0,139.39
+Hebbal,300,1,2,1,0.6,Semi-Furnished,1,23.41
+BTM Layout,2767,5,5,1,1.9,Unfurnished,1,176.06
+Marathahalli,1300,3,3,0,0.2,Unfurnished,1,70.07
+HSR Layout,802,2,2,0,12.6,Furnished,1,74.01
+HSR Layout,1645,3,3,2,5.6,Furnished,1,176.11
+Hebbal,682,1,1,1,10.1,Unfurnished,0,46.12
+Whitefield,2867,5,5,3,4.4,Semi-Furnished,1,172.81
+Marathahalli,1188,2,2,2,5.5,Unfurnished,1,72.27
+Koramangala,1428,3,4,1,7.2,Unfurnished,1,146.1
+JP Nagar,985,2,2,1,14.3,Semi-Furnished,0,68.95
+Electronic City,1828,3,2,2,0.6,Semi-Furnished,1,85.44
+Marathahalli,1463,3,3,1,2.4,Unfurnished,1,82.41
+Jayanagar,1610,3,3,4,7.4,Unfurnished,1,133.14
+Yelahanka,1501,3,3,1,19.1,Unfurnished,1,66.77
+Whitefield,1823,4,4,0,23.7,Furnished,1,98.64
+Marathahalli,300,1,1,0,6.1,Semi-Furnished,1,17.71
+Marathahalli,963,2,1,1,1.3,Unfurnished,1,61.99
+Marathahalli,1208,2,1,3,0.8,Unfurnished,0,68.05
+Marathahalli,2918,5,6,0,17.5,Semi-Furnished,1,164.23
+Yelahanka,1187,2,2,0,3.4,Semi-Furnished,1,67.34
+JP Nagar,1352,3,3,3,1.3,Furnished,0,109.68
+Koramangala,1742,3,2,2,16.3,Unfurnished,1,160.31
+JP Nagar,905,2,1,1,0.7,Furnished,0,80.83
+Jayanagar,1082,2,2,0,7.8,Unfurnished,0,90.4
+Electronic City,1048,2,2,0,5.9,Unfurnished,1,36.39
+Whitefield,1024,2,1,2,0.6,Unfurnished,1,58.3
+Koramangala,1251,2,1,1,2.5,Semi-Furnished,1,130.64
+JP Nagar,494,1,1,3,1.0,Furnished,1,42.92
+Hebbal,1898,4,3,1,5.6,Semi-Furnished,0,122.71
+JP Nagar,2803,5,5,0,3.9,Semi-Furnished,0,220.98
+Jayanagar,990,2,2,1,0.0,Unfurnished,1,85.45
+HSR Layout,1557,2,1,3,22.3,Unfurnished,1,124.36
+Indiranagar,701,1,1,0,2.6,Semi-Furnished,0,75.12
+Koramangala,1439,3,3,2,1.8,Semi-Furnished,1,170.21
+HSR Layout,1342,3,3,1,1.5,Semi-Furnished,1,127.97
+Electronic City,768,2,2,0,1.0,Unfurnished,1,33.52
+Indiranagar,896,2,2,1,40.0,Unfurnished,1,58.25
+Marathahalli,1517,3,4,0,2.1,Unfurnished,0,77.06
+Hebbal,1714,3,3,2,3.1,Furnished,0,140.97
+Sarjapur Road,768,1,1,2,12.3,Semi-Furnished,1,41.75
+BTM Layout,1534,3,3,2,6.2,Unfurnished,1,93.62
+Yelahanka,1002,2,2,1,2.8,Unfurnished,0,48.79
+HSR Layout,1090,2,2,1,13.7,Unfurnished,1,87.43
+Yelahanka,1422,3,2,2,8.3,Semi-Furnished,1,61.25
+JP Nagar,1758,3,2,4,1.6,Semi-Furnished,0,121.98
+Electronic City,1022,2,1,0,6.2,Furnished,1,47.61
+HSR Layout,2087,4,4,1,15.3,Semi-Furnished,0,176.64
+JP Nagar,718,2,2,2,4.1,Unfurnished,1,54.87
+HSR Layout,1471,3,3,0,7.9,Semi-Furnished,1,143.39
+Marathahalli,1175,2,3,4,21.3,Semi-Furnished,0,62.67
+Marathahalli,1940,4,4,0,7.0,Unfurnished,0,102.31
+Indiranagar,1987,4,3,2,0.6,Furnished,1,258.33
+HSR Layout,719,1,1,0,1.7,Furnished,1,80.34
+Koramangala,1879,4,4,2,5.4,Semi-Furnished,1,209.17
+Whitefield,1659,3,3,2,1.9,Semi-Furnished,0,106.4
+Whitefield,1420,3,2,1,19.0,Semi-Furnished,1,76.25
+JP Nagar,992,2,2,2,3.1,Semi-Furnished,1,77.92
+Koramangala,1331,3,3,0,3.7,Unfurnished,0,112.54
+Jayanagar,2157,4,5,0,7.3,Unfurnished,1,171.89
+Koramangala,1419,2,1,0,4.5,Unfurnished,1,162.98
+Sarjapur Road,2217,4,4,2,2.9,Semi-Furnished,1,132.71
+Koramangala,470,1,1,2,0.5,Unfurnished,0,48.11
+HSR Layout,1220,2,1,2,5.4,Semi-Furnished,0,118.69
+BTM Layout,1452,3,2,1,12.1,Semi-Furnished,1,104.18
+JP Nagar,1706,3,3,2,6.9,Unfurnished,1,114.05
+Indiranagar,1621,3,3,1,2.9,Semi-Furnished,1,169.23
+JP Nagar,300,1,1,1,0.8,Unfurnished,1,20.55
+HSR Layout,2649,5,5,0,10.2,Unfurnished,1,225.52
+Jayanagar,742,1,1,1,17.1,Unfurnished,0,49.44
+Indiranagar,1073,2,3,1,2.9,Furnished,0,127.63
+Electronic City,446,1,1,0,7.8,Semi-Furnished,1,19.02
+Hebbal,1405,3,3,2,3.2,Unfurnished,1,89.89
+Jayanagar,1814,4,3,1,4.2,Furnished,1,175.02
+HSR Layout,1487,3,4,1,10.9,Semi-Furnished,1,140.34
+Hebbal,1832,3,2,0,0.5,Unfurnished,1,116.4
+Hebbal,721,1,1,1,4.5,Unfurnished,1,46.66
+Indiranagar,1829,3,3,0,1.4,Unfurnished,1,180.0
+Marathahalli,1182,2,2,2,2.5,Semi-Furnished,1,79.69
+Indiranagar,1204,2,2,1,6.2,Semi-Furnished,1,100.49
+Hebbal,896,1,1,1,0.2,Unfurnished,0,62.52
+Yelahanka,1557,3,2,1,5.4,Unfurnished,1,72.37
+Sarjapur Road,1472,3,2,2,2.0,Unfurnished,1,78.53
+Whitefield,1655,3,3,1,6.6,Unfurnished,1,90.05
+Whitefield,1268,2,1,1,0.9,Semi-Furnished,1,79.92
+Koramangala,978,2,2,4,8.0,Unfurnished,1,101.33
+Koramangala,1392,3,2,1,6.2,Semi-Furnished,1,145.87
+Koramangala,1071,2,2,0,21.3,Furnished,1,124.13
+BTM Layout,2225,4,4,2,14.5,Unfurnished,1,147.31
+Koramangala,1620,3,2,0,2.0,Unfurnished,0,164.85
+Koramangala,836,2,2,2,0.2,Unfurnished,0,84.15
+Hebbal,3087,5,5,3,6.4,Semi-Furnished,1,238.77
+HSR Layout,1404,3,3,1,5.5,Semi-Furnished,1,145.07
+JP Nagar,560,1,2,1,0.2,Semi-Furnished,1,42.37
+Whitefield,1365,3,2,2,0.8,Semi-Furnished,1,84.01
+Jayanagar,1455,2,2,1,5.3,Unfurnished,1,124.1
+Whitefield,1536,3,4,3,14.6,Unfurnished,1,88.94
+Whitefield,1372,3,2,1,14.2,Unfurnished,1,71.82
+BTM Layout,2930,5,5,1,1.0,Semi-Furnished,0,205.34
+Indiranagar,1615,3,2,1,2.9,Unfurnished,0,150.69
+Jayanagar,1022,2,2,0,0.3,Semi-Furnished,1,103.61
+HSR Layout,1626,3,3,2,3.8,Semi-Furnished,0,150.27
+Koramangala,926,2,3,0,8.4,Unfurnished,0,81.92
+BTM Layout,1426,3,2,2,9.4,Semi-Furnished,1,102.99
+Whitefield,1198,3,2,1,4.1,Furnished,0,83.65
+Yelahanka,401,1,2,0,0.6,Unfurnished,1,20.18
+Sarjapur Road,1321,2,1,3,2.9,Unfurnished,0,75.82
+Jayanagar,2346,4,3,3,16.1,Unfurnished,1,184.86
+Sarjapur Road,2110,4,3,2,1.6,Semi-Furnished,1,125.79
+Whitefield,849,1,1,2,2.3,Unfurnished,1,50.42
+HSR Layout,576,1,1,2,8.2,Furnished,1,50.63
+Koramangala,1013,2,2,2,7.9,Semi-Furnished,1,117.93
+Hebbal,2108,4,3,1,14.6,Furnished,1,149.55
+Sarjapur Road,1031,2,2,2,2.9,Unfurnished,0,52.86
+Koramangala,1468,3,3,2,4.3,Furnished,1,170.61
+Yelahanka,772,1,1,2,3.8,Unfurnished,1,38.56
+Indiranagar,1523,3,3,1,15.8,Unfurnished,1,121.07
+Marathahalli,1157,2,1,2,8.8,Furnished,1,68.82
+Jayanagar,1655,3,2,1,10.7,Unfurnished,0,123.64
+Sarjapur Road,1108,2,3,2,0.9,Furnished,0,68.36
+Marathahalli,1354,3,3,0,9.4,Semi-Furnished,0,77.51
+Koramangala,847,2,2,1,3.4,Furnished,1,98.88
+Electronic City,1522,3,3,0,0.1,Semi-Furnished,1,79.75
+Indiranagar,2074,4,4,4,0.4,Semi-Furnished,1,231.3
+Indiranagar,1063,2,2,0,6.8,Unfurnished,0,100.04
+Koramangala,2098,4,5,0,2.8,Semi-Furnished,0,220.7
+JP Nagar,1888,3,2,0,12.2,Semi-Furnished,1,160.98
+Marathahalli,850,2,2,0,8.0,Semi-Furnished,1,48.5
+Jayanagar,752,2,3,1,0.1,Unfurnished,1,62.09
+Electronic City,1100,2,2,0,7.0,Unfurnished,1,47.6
+BTM Layout,1444,3,4,0,1.3,Unfurnished,1,106.02
+Hebbal,1547,3,2,1,3.3,Unfurnished,1,98.94
+Whitefield,688,1,1,1,5.9,Unfurnished,1,45.62
+Hebbal,1693,3,3,4,12.4,Furnished,1,133.96
+Jayanagar,1274,3,4,3,3.7,Unfurnished,1,107.57
+Electronic City,2016,4,4,2,9.9,Unfurnished,1,94.71
+HSR Layout,1564,3,2,1,9.2,Furnished,0,158.99
+Jayanagar,2216,4,4,1,3.2,Unfurnished,1,183.99
+Indiranagar,1829,3,4,0,4.2,Semi-Furnished,1,223.1
+Sarjapur Road,1193,2,1,0,7.2,Semi-Furnished,1,71.34
+JP Nagar,2091,4,4,0,0.2,Semi-Furnished,1,176.1
+Yelahanka,916,2,3,1,13.3,Semi-Furnished,0,42.11
+Jayanagar,965,2,3,0,8.8,Semi-Furnished,1,84.57
+HSR Layout,961,2,1,3,1.7,Unfurnished,1,84.26
+Yelahanka,2198,4,5,3,23.8,Semi-Furnished,1,107.72
+Jayanagar,2139,4,4,2,1.2,Semi-Furnished,1,173.13
+Whitefield,851,2,2,0,14.7,Unfurnished,1,49.63
+Jayanagar,985,2,2,1,2.4,Unfurnished,0,74.35
+JP Nagar,1182,2,1,0,8.6,Furnished,0,93.13
+HSR Layout,1553,3,4,1,3.7,Semi-Furnished,1,148.8
+Whitefield,1135,2,2,2,8.0,Unfurnished,1,61.75
+JP Nagar,1557,3,2,0,1.0,Furnished,0,137.56
+Indiranagar,1294,2,2,0,1.9,Semi-Furnished,1,135.93
+Koramangala,1085,2,3,0,0.6,Furnished,1,131.42
+Indiranagar,542,1,2,0,12.0,Furnished,0,56.63
+Koramangala,913,2,1,0,2.1,Semi-Furnished,0,94.07
+Hebbal,2137,4,4,1,7.1,Semi-Furnished,1,145.97
+Jayanagar,684,2,3,3,10.3,Semi-Furnished,0,50.75
+Indiranagar,1022,2,2,0,13.9,Furnished,0,98.62
+BTM Layout,1019,2,2,1,0.7,Semi-Furnished,0,78.12
+BTM Layout,845,2,3,0,13.4,Unfurnished,0,53.23
+BTM Layout,461,1,1,2,1.3,Unfurnished,1,36.9
+Koramangala,1171,2,3,2,8.0,Unfurnished,1,140.29
+HSR Layout,1535,3,2,1,7.8,Furnished,1,150.38
+Sarjapur Road,1515,3,4,1,0.1,Furnished,1,96.35
+JP Nagar,1096,2,3,2,1.5,Semi-Furnished,1,96.39
+Whitefield,1064,2,2,2,4.1,Semi-Furnished,1,68.61
+Whitefield,2986,5,5,1,3.3,Furnished,1,223.38
+Jayanagar,1069,2,2,2,15.0,Unfurnished,1,82.46
+BTM Layout,831,2,2,2,2.7,Unfurnished,1,57.55
+Jayanagar,1295,2,2,0,16.6,Semi-Furnished,1,102.07
+Jayanagar,1106,2,3,0,3.7,Furnished,1,113.5
+Electronic City,1412,3,4,3,20.0,Semi-Furnished,0,54.07
+Yelahanka,862,2,2,1,8.0,Unfurnished,1,43.72
+JP Nagar,1559,3,2,0,10.6,Unfurnished,0,93.36
+HSR Layout,582,1,1,1,0.7,Semi-Furnished,0,59.68
+JP Nagar,1286,2,3,3,5.3,Furnished,1,96.43
+Sarjapur Road,1448,3,2,0,0.9,Semi-Furnished,1,88.08
+Indiranagar,924,2,1,4,2.1,Unfurnished,1,87.68
+Jayanagar,1634,3,3,1,5.9,Unfurnished,1,118.68
+Koramangala,1189,2,1,2,7.8,Furnished,1,119.42
+JP Nagar,1525,3,2,0,0.2,Unfurnished,1,105.25
+Marathahalli,701,1,2,1,4.5,Unfurnished,1,40.27
+Yelahanka,2094,4,5,2,5.0,Furnished,1,115.69
+JP Nagar,1085,2,3,4,0.5,Furnished,1,90.3
+HSR Layout,2275,4,3,0,4.2,Semi-Furnished,1,237.88
+BTM Layout,1144,2,2,0,7.5,Semi-Furnished,1,76.15
+Jayanagar,1475,3,3,0,0.3,Unfurnished,1,131.45
+Indiranagar,1253,2,3,2,8.6,Unfurnished,1,110.27
+Hebbal,1745,4,5,2,5.2,Unfurnished,1,109.52
+JP Nagar,1358,2,3,3,10.7,Semi-Furnished,1,98.1
+Koramangala,794,2,2,3,1.5,Unfurnished,1,86.83
+BTM Layout,956,2,2,3,10.7,Furnished,1,66.92
+BTM Layout,594,1,1,1,0.6,Unfurnished,1,43.27
+Koramangala,1028,2,3,0,3.1,Semi-Furnished,1,109.27
+Sarjapur Road,2251,4,3,1,1.3,Semi-Furnished,0,122.81
+Indiranagar,2641,5,6,1,12.5,Semi-Furnished,1,265.95
+Indiranagar,1089,2,3,3,7.3,Unfurnished,1,119.06
+Indiranagar,2013,4,3,1,0.2,Furnished,1,219.37
+BTM Layout,1544,3,2,1,0.1,Unfurnished,0,111.82
+Yelahanka,1040,2,3,0,2.1,Semi-Furnished,0,52.88
+Indiranagar,1514,3,3,1,0.9,Semi-Furnished,1,155.06
+HSR Layout,1418,3,3,4,6.0,Unfurnished,1,132.81
+Marathahalli,2723,5,4,1,6.5,Semi-Furnished,1,152.78
+Electronic City,1093,2,3,1,17.1,Semi-Furnished,1,41.73
+BTM Layout,1642,3,3,1,18.2,Furnished,1,122.62
+JP Nagar,510,1,2,0,6.5,Furnished,0,46.58
+Jayanagar,470,1,2,0,0.0,Unfurnished,1,43.03
+Sarjapur Road,692,1,2,0,2.7,Unfurnished,0,33.62
+HSR Layout,2795,5,5,0,4.3,Unfurnished,1,236.36
+Sarjapur Road,1625,3,3,1,4.1,Furnished,1,111.3
+Yelahanka,1364,3,4,2,5.5,Unfurnished,1,73.75
+Yelahanka,1233,3,3,2,19.4,Semi-Furnished,1,57.06
+Indiranagar,970,2,2,1,13.0,Semi-Furnished,1,88.98
+BTM Layout,935,2,1,0,0.7,Semi-Furnished,1,80.36
+HSR Layout,1038,2,2,2,1.9,Unfurnished,0,89.49
+Indiranagar,954,2,2,0,10.7,Unfurnished,1,82.53
+Whitefield,1611,3,3,1,10.4,Unfurnished,0,81.02
+Jayanagar,1457,3,3,0,1.9,Unfurnished,1,112.13
+Jayanagar,623,1,1,2,7.9,Unfurnished,0,57.35
+Hebbal,624,1,1,2,6.7,Unfurnished,0,43.5
+BTM Layout,629,1,1,2,3.8,Semi-Furnished,1,45.09
+Electronic City,1046,2,3,0,1.3,Unfurnished,0,49.72
+Hebbal,2177,4,4,2,13.2,Unfurnished,0,135.33
+Indiranagar,1381,3,4,4,6.8,Unfurnished,1,135.97
+BTM Layout,1710,3,2,1,1.1,Unfurnished,1,115.52
+JP Nagar,1015,2,3,1,7.3,Unfurnished,0,67.66
+Jayanagar,853,2,3,1,8.1,Unfurnished,1,69.18
+Hebbal,628,1,1,2,13.1,Semi-Furnished,1,36.49
+Koramangala,1972,4,4,1,1.5,Unfurnished,1,199.64
+Jayanagar,1600,3,2,2,26.9,Furnished,1,126.4
+JP Nagar,1381,2,2,2,1.0,Unfurnished,0,107.68
+HSR Layout,1382,3,3,1,5.5,Furnished,1,136.52
+HSR Layout,1100,2,1,1,6.4,Furnished,0,114.54
+Jayanagar,1237,3,3,0,3.3,Semi-Furnished,0,91.27
+JP Nagar,2168,4,4,1,3.9,Furnished,1,200.75
+Koramangala,1367,3,2,3,13.3,Unfurnished,1,121.42
+Indiranagar,1406,3,3,2,6.2,Unfurnished,1,133.23
+Hebbal,435,1,1,2,4.1,Unfurnished,1,30.15
+JP Nagar,710,1,1,1,0.8,Unfurnished,1,53.6
+Electronic City,1201,2,2,1,0.0,Unfurnished,0,50.06
+Koramangala,604,1,1,1,0.8,Semi-Furnished,0,60.37
+Indiranagar,1370,3,3,3,18.8,Unfurnished,1,107.84
+Koramangala,1738,3,3,3,8.7,Unfurnished,0,176.44
+HSR Layout,937,2,3,2,20.5,Unfurnished,1,70.07
+Hebbal,1776,4,4,1,0.2,Semi-Furnished,1,132.47
+Yelahanka,1119,2,1,1,6.8,Furnished,1,55.82
+Marathahalli,884,2,2,4,0.3,Semi-Furnished,1,58.8
+Koramangala,1198,2,2,1,9.1,Unfurnished,1,106.95
+JP Nagar,993,2,3,1,2.9,Unfurnished,1,78.83
+Jayanagar,1141,2,2,1,0.6,Semi-Furnished,0,93.08
+Sarjapur Road,1260,2,3,1,5.0,Unfurnished,0,71.36
+Yelahanka,869,2,3,0,2.0,Furnished,1,51.41
+Indiranagar,2715,5,5,0,6.5,Unfurnished,0,234.95
+Yelahanka,589,1,1,0,6.4,Unfurnished,1,31.02
+Koramangala,1281,2,1,0,7.3,Furnished,0,144.48
+Hebbal,501,1,1,1,29.3,Furnished,0,29.56
+Electronic City,1411,3,3,1,2.9,Semi-Furnished,0,66.5
+Indiranagar,672,1,1,2,3.8,Unfurnished,1,57.7
+BTM Layout,2013,4,3,2,9.8,Semi-Furnished,0,113.79
+Indiranagar,1523,3,4,2,5.2,Unfurnished,0,152.9
+JP Nagar,1267,3,3,0,0.2,Unfurnished,1,89.18
+Koramangala,1832,3,2,0,11.1,Unfurnished,1,187.8
+Yelahanka,848,2,2,1,0.3,Semi-Furnished,1,45.76
+Hebbal,1002,2,1,0,1.1,Semi-Furnished,1,68.65
+Jayanagar,1045,2,2,2,0.6,Unfurnished,0,88.9
+Koramangala,1787,3,3,1,0.5,Furnished,0,208.07
+Indiranagar,851,2,1,3,0.2,Unfurnished,1,77.61
+Whitefield,898,1,2,0,0.3,Unfurnished,1,51.06
+Koramangala,2914,5,5,2,3.5,Semi-Furnished,1,285.14
+Yelahanka,663,1,1,2,1.7,Furnished,0,38.09
+Sarjapur Road,1352,3,2,0,0.8,Furnished,1,83.19
+BTM Layout,1586,3,3,0,6.5,Semi-Furnished,1,116.24
+JP Nagar,941,2,2,1,1.5,Unfurnished,1,68.73
+JP Nagar,1240,2,3,1,0.1,Furnished,0,100.29
+Yelahanka,904,2,2,1,3.3,Furnished,1,46.32
+Koramangala,1483,3,4,4,2.2,Unfurnished,0,178.46
+BTM Layout,1417,3,3,0,2.3,Semi-Furnished,0,103.3
+Yelahanka,1352,3,3,0,3.5,Semi-Furnished,1,79.89
+Jayanagar,2211,4,5,1,6.6,Unfurnished,0,189.45
+Electronic City,1580,3,4,0,5.8,Furnished,1,77.43
+HSR Layout,1231,2,2,2,16.6,Unfurnished,1,98.94
+HSR Layout,783,2,2,2,4.4,Semi-Furnished,1,75.46
+BTM Layout,2260,4,5,0,3.8,Unfurnished,1,181.1
+Jayanagar,1426,2,2,2,1.4,Semi-Furnished,0,132.13
+HSR Layout,532,1,1,1,8.4,Semi-Furnished,0,44.5
+Sarjapur Road,1784,3,3,0,0.9,Unfurnished,1,101.92
+Electronic City,1011,2,1,1,4.1,Unfurnished,1,45.12
+HSR Layout,1894,4,4,3,3.3,Furnished,1,182.76
+Whitefield,1454,3,2,0,6.4,Semi-Furnished,1,92.98
+Hebbal,757,1,1,0,15.0,Semi-Furnished,1,54.85
+BTM Layout,1974,4,4,0,17.6,Unfurnished,0,110.0
+Koramangala,960,2,2,2,1.1,Unfurnished,1,95.86
+BTM Layout,1139,2,3,2,1.8,Semi-Furnished,1,95.95
+Koramangala,1050,2,2,1,10.0,Furnished,1,117.92
+BTM Layout,688,1,1,4,4.4,Unfurnished,1,44.36
+Hebbal,1086,2,1,0,3.6,Semi-Furnished,0,81.03
+JP Nagar,1122,2,2,0,7.4,Unfurnished,1,82.23
+Whitefield,985,2,2,3,5.5,Unfurnished,1,57.18
+Sarjapur Road,1085,2,3,2,21.2,Semi-Furnished,0,57.82
+Hebbal,1361,3,2,0,5.3,Unfurnished,1,98.41
+Koramangala,1693,3,4,0,3.8,Unfurnished,0,169.79
+JP Nagar,955,2,2,2,4.7,Semi-Furnished,1,84.6
+Koramangala,1219,2,2,1,9.9,Semi-Furnished,1,142.85
+BTM Layout,1015,2,1,3,5.7,Semi-Furnished,1,64.65
+Electronic City,1080,2,2,1,6.2,Semi-Furnished,1,44.93
+Hebbal,1426,3,4,2,21.3,Semi-Furnished,0,73.53
+Jayanagar,1348,3,3,2,5.8,Unfurnished,0,103.01
+Electronic City,788,2,1,1,2.9,Unfurnished,1,30.77
+Koramangala,892,2,2,0,7.1,Semi-Furnished,1,90.89
+Whitefield,551,1,2,3,6.5,Unfurnished,1,34.59
+Jayanagar,1532,3,3,3,0.1,Furnished,1,135.12
+Koramangala,1202,2,2,0,3.8,Semi-Furnished,1,134.74
+Marathahalli,2733,5,4,1,8.1,Unfurnished,1,150.14
+Koramangala,1368,3,3,1,4.1,Semi-Furnished,1,150.71
+Koramangala,834,2,2,2,9.1,Furnished,1,97.68
+Hebbal,1572,3,3,2,3.6,Unfurnished,1,89.76
+Whitefield,2307,4,4,0,24.6,Unfurnished,1,105.44
+BTM Layout,1690,3,3,2,2.1,Furnished,1,155.9
+JP Nagar,1156,2,2,0,0.6,Unfurnished,1,78.93
+Yelahanka,1146,2,2,2,3.4,Unfurnished,1,62.14
+Marathahalli,2355,4,3,0,4.7,Unfurnished,1,119.0
+BTM Layout,1550,3,3,2,2.6,Semi-Furnished,0,101.01
+Indiranagar,1597,3,4,2,1.7,Semi-Furnished,1,160.03
+Electronic City,2052,4,5,3,6.7,Semi-Furnished,1,100.83
+Koramangala,1896,4,3,0,2.8,Furnished,1,223.14
+JP Nagar,1997,4,4,3,6.0,Semi-Furnished,1,157.46
+Whitefield,599,1,1,1,9.1,Furnished,1,39.74
+Marathahalli,1509,3,2,1,8.6,Semi-Furnished,1,88.05
+Sarjapur Road,1789,3,3,2,2.8,Unfurnished,1,106.98
+BTM Layout,1512,3,2,0,5.0,Furnished,0,124.57
+Jayanagar,1677,3,3,2,3.6,Unfurnished,1,127.78
+Whitefield,985,2,2,0,12.3,Semi-Furnished,0,54.56
+JP Nagar,1453,3,2,1,12.7,Unfurnished,0,105.46
+Marathahalli,1301,3,3,1,2.5,Semi-Furnished,0,78.84
+Electronic City,489,1,1,2,0.6,Furnished,1,22.44
+Electronic City,1129,2,2,3,1.1,Unfurnished,0,42.27
+BTM Layout,1051,2,1,1,2.7,Unfurnished,1,78.39
+Yelahanka,1191,2,3,1,5.0,Unfurnished,1,61.08
+JP Nagar,627,1,2,3,6.4,Semi-Furnished,1,45.91
+BTM Layout,997,2,1,2,2.4,Unfurnished,0,71.0
+Marathahalli,1822,3,4,2,6.6,Semi-Furnished,0,118.38
+Jayanagar,1486,3,3,0,16.7,Unfurnished,1,121.0
+HSR Layout,1674,3,4,3,6.3,Unfurnished,1,165.06
+Koramangala,2040,4,5,1,1.0,Semi-Furnished,0,236.23
+HSR Layout,1156,2,2,2,5.2,Semi-Furnished,1,108.15
+JP Nagar,1189,2,2,0,4.7,Unfurnished,0,80.07
+Marathahalli,2131,4,4,2,12.3,Semi-Furnished,1,120.7
+BTM Layout,697,2,2,1,2.6,Furnished,0,52.16
+HSR Layout,2803,5,4,3,3.3,Unfurnished,1,243.48
+Marathahalli,2285,4,5,2,5.5,Unfurnished,1,141.35
+Yelahanka,1579,3,3,2,4.5,Semi-Furnished,1,72.82
+Marathahalli,2867,5,5,1,7.6,Unfurnished,1,139.91
+Hebbal,342,1,2,3,0.2,Unfurnished,0,24.69
+Koramangala,942,2,1,1,5.0,Semi-Furnished,1,101.07
+Jayanagar,1562,3,2,2,0.8,Unfurnished,1,114.51
+Electronic City,1112,2,2,1,2.3,Unfurnished,0,45.65
+HSR Layout,2282,4,3,2,6.5,Furnished,0,221.43
+Jayanagar,578,1,2,2,1.0,Unfurnished,1,48.37
+Yelahanka,1561,3,3,1,2.2,Furnished,0,91.03
+Sarjapur Road,1502,3,2,1,7.3,Unfurnished,1,72.01
+Marathahalli,1352,3,3,3,6.3,Furnished,1,88.31
+Hebbal,712,2,3,1,0.6,Semi-Furnished,1,53.59
+Jayanagar,1115,2,3,0,5.2,Unfurnished,0,89.62
+Yelahanka,2126,4,4,1,1.0,Semi-Furnished,1,99.92
+Electronic City,957,2,3,1,1.7,Furnished,0,45.97
+Koramangala,1257,3,3,2,3.7,Unfurnished,0,124.59
+HSR Layout,1594,3,2,1,0.7,Semi-Furnished,1,162.61
+Jayanagar,1460,3,3,3,30.4,Unfurnished,1,106.41
+Whitefield,1584,3,3,3,1.1,Semi-Furnished,0,103.9
+Indiranagar,1330,2,2,0,9.1,Semi-Furnished,0,130.61
+Koramangala,1179,3,3,2,10.6,Unfurnished,1,124.65
+Sarjapur Road,1995,4,4,1,31.2,Unfurnished,1,82.29
+Koramangala,1019,2,3,3,3.4,Semi-Furnished,1,128.44
+Jayanagar,3018,5,5,2,12.4,Furnished,1,295.01
+Indiranagar,805,2,3,2,19.0,Unfurnished,1,66.65
+Marathahalli,1340,2,2,1,1.1,Semi-Furnished,1,94.79
+Koramangala,1070,2,3,0,3.9,Unfurnished,1,115.67
+Indiranagar,2086,4,3,0,0.4,Semi-Furnished,1,255.93
+Jayanagar,1020,2,3,2,5.8,Semi-Furnished,0,89.73
+Whitefield,2035,4,3,3,5.2,Semi-Furnished,1,122.06
+Whitefield,2257,4,5,1,1.4,Furnished,1,153.32
+Indiranagar,890,2,2,0,9.6,Unfurnished,0,76.11
+Whitefield,652,1,1,0,0.2,Unfurnished,1,37.7
+Electronic City,1442,3,2,0,9.8,Furnished,1,74.59
+Koramangala,936,2,2,1,0.2,Unfurnished,1,98.93
+JP Nagar,1888,3,3,0,6.4,Semi-Furnished,1,128.5
+Marathahalli,1113,2,3,1,0.5,Semi-Furnished,1,72.18
+Jayanagar,1142,2,2,0,1.7,Semi-Furnished,1,104.66
+Koramangala,1671,3,3,4,7.7,Unfurnished,0,154.7
+BTM Layout,837,2,2,2,2.0,Unfurnished,0,57.89
+HSR Layout,1313,2,2,0,4.3,Semi-Furnished,0,120.12
+Electronic City,674,2,2,1,14.8,Unfurnished,1,27.11
+Marathahalli,935,2,3,1,0.3,Semi-Furnished,0,59.86
+Electronic City,1431,3,2,0,10.0,Semi-Furnished,0,61.24
+Koramangala,1587,3,4,1,0.4,Unfurnished,1,155.6
+Jayanagar,1083,2,2,1,0.8,Unfurnished,1,105.38
+BTM Layout,1475,3,2,0,0.8,Furnished,1,110.58
+Jayanagar,1498,3,3,2,30.8,Semi-Furnished,1,103.04
+Hebbal,903,2,1,1,1.2,Semi-Furnished,1,62.15
+Sarjapur Road,825,2,1,0,13.6,Furnished,1,50.08
+Indiranagar,2209,4,5,0,28.2,Semi-Furnished,1,187.99
+Koramangala,1604,3,3,2,2.9,Furnished,1,193.8
+HSR Layout,1738,3,3,1,6.0,Unfurnished,1,167.51
+HSR Layout,1381,3,2,2,9.1,Furnished,0,143.28
+HSR Layout,704,1,2,3,3.0,Unfurnished,1,62.67
+BTM Layout,1457,3,3,1,1.1,Furnished,1,129.17
+Hebbal,1679,3,3,1,3.4,Furnished,1,149.01
+Marathahalli,1653,3,3,1,8.9,Unfurnished,1,96.31
+Koramangala,1082,2,2,0,9.1,Unfurnished,1,105.41
+JP Nagar,549,1,1,3,1.6,Semi-Furnished,1,38.95
+Sarjapur Road,1194,2,2,0,1.2,Unfurnished,1,67.92
+JP Nagar,2197,4,5,1,15.2,Semi-Furnished,1,166.64
+Whitefield,947,2,2,1,0.3,Unfurnished,0,51.84
+Yelahanka,851,2,3,0,8.0,Furnished,1,47.93
+Whitefield,557,1,1,1,0.3,Unfurnished,1,33.32
+Koramangala,827,1,1,2,10.9,Semi-Furnished,1,94.89
+Whitefield,1672,3,3,0,14.1,Unfurnished,1,101.09
+Marathahalli,1333,3,2,0,2.1,Unfurnished,0,79.43
+Hebbal,1325,3,2,0,0.5,Unfurnished,1,91.41
+Electronic City,1241,2,1,3,3.9,Semi-Furnished,0,58.92
+HSR Layout,1330,3,3,1,2.1,Unfurnished,1,125.11
+HSR Layout,1126,2,2,3,3.2,Furnished,1,117.87
+HSR Layout,958,2,2,1,6.6,Unfurnished,1,95.21
+Indiranagar,1293,2,2,2,1.4,Semi-Furnished,0,124.4
+HSR Layout,934,2,3,4,2.6,Semi-Furnished,1,96.1
+Hebbal,1222,2,2,1,9.2,Semi-Furnished,1,90.2
+Electronic City,1528,3,2,0,6.2,Unfurnished,1,62.16
+Electronic City,1538,3,4,2,2.4,Semi-Furnished,1,75.43
+Koramangala,1204,3,3,1,6.5,Semi-Furnished,1,139.42
+Sarjapur Road,720,2,2,2,8.7,Unfurnished,1,38.27
+Yelahanka,567,1,1,1,5.4,Unfurnished,1,27.98
+Yelahanka,1087,2,2,3,1.6,Unfurnished,1,53.96
+HSR Layout,2631,5,5,3,0.0,Unfurnished,1,254.23
+Marathahalli,1337,3,3,0,9.7,Unfurnished,1,70.67
+Whitefield,1584,3,3,1,10.4,Unfurnished,0,82.39
+Yelahanka,684,1,1,2,7.2,Semi-Furnished,1,34.8
+BTM Layout,1479,3,4,0,0.5,Unfurnished,0,112.27
+Marathahalli,717,1,1,0,5.3,Unfurnished,0,33.75
+BTM Layout,1324,3,3,0,10.3,Unfurnished,1,81.63
+Hebbal,2047,4,3,0,3.0,Semi-Furnished,1,174.3
+Indiranagar,3047,5,6,2,1.3,Unfurnished,0,297.81
+BTM Layout,1510,3,2,2,5.3,Semi-Furnished,1,108.87
+Whitefield,1069,2,1,1,10.5,Semi-Furnished,1,67.34
+Jayanagar,2446,4,5,1,0.3,Semi-Furnished,1,216.64
+Indiranagar,1290,3,3,0,5.5,Unfurnished,1,103.91
+Whitefield,719,1,1,3,6.2,Semi-Furnished,0,43.87
+HSR Layout,1300,2,2,2,5.5,Unfurnished,0,103.77
+Koramangala,1001,2,2,1,6.3,Furnished,0,115.22
+Jayanagar,1179,2,2,1,6.0,Semi-Furnished,0,101.69
+Marathahalli,903,2,2,2,0.8,Semi-Furnished,1,57.0
+Whitefield,1397,3,3,2,1.6,Furnished,1,86.42
+Indiranagar,1108,2,1,2,5.8,Semi-Furnished,1,112.95
+Jayanagar,1170,2,2,1,0.1,Unfurnished,1,102.8
+Koramangala,1668,3,3,0,6.0,Unfurnished,1,151.94
+Hebbal,2335,4,4,1,6.6,Semi-Furnished,1,148.74
+Yelahanka,1490,3,3,3,1.6,Furnished,1,80.16
+JP Nagar,1229,2,1,2,5.5,Furnished,1,109.24
+Hebbal,2049,4,3,1,4.6,Semi-Furnished,0,122.83
+HSR Layout,2235,4,4,0,1.8,Unfurnished,0,205.11
+Yelahanka,1081,2,2,2,3.7,Semi-Furnished,1,58.11
+Koramangala,667,1,2,3,14.4,Semi-Furnished,1,67.72
+Koramangala,1564,3,3,0,3.3,Unfurnished,1,144.79
+JP Nagar,1259,3,2,2,6.0,Semi-Furnished,1,91.52
+HSR Layout,2631,5,4,1,0.2,Semi-Furnished,1,273.85
+JP Nagar,2115,4,4,3,0.5,Furnished,0,194.72
+JP Nagar,1247,3,3,0,0.5,Semi-Furnished,1,93.19
+BTM Layout,1625,3,2,4,9.0,Unfurnished,1,116.86
+BTM Layout,731,1,1,0,2.6,Unfurnished,1,53.83
+HSR Layout,1099,2,2,2,1.5,Furnished,1,117.2
+Koramangala,882,2,2,1,8.3,Furnished,1,97.75
+Marathahalli,1707,3,2,1,1.1,Unfurnished,1,94.53
+HSR Layout,1806,3,3,0,1.7,Semi-Furnished,1,198.55
+Marathahalli,1522,3,3,0,3.4,Furnished,1,103.02
+Hebbal,1127,2,3,0,2.4,Furnished,1,101.33
+Hebbal,1530,3,4,1,5.3,Semi-Furnished,0,109.97
+HSR Layout,680,1,1,1,2.5,Unfurnished,1,59.06
+Indiranagar,1032,2,2,3,3.0,Semi-Furnished,0,107.57
+HSR Layout,1495,3,4,0,11.9,Unfurnished,1,145.35
+Indiranagar,1636,3,3,2,13.0,Furnished,0,156.91
+BTM Layout,3152,5,4,1,10.6,Unfurnished,1,220.25
+Koramangala,840,2,2,0,12.0,Semi-Furnished,1,88.16
+Indiranagar,1034,2,2,2,5.1,Semi-Furnished,1,95.09
+Whitefield,873,2,3,2,6.2,Semi-Furnished,1,49.45
+Yelahanka,1289,2,2,2,4.9,Semi-Furnished,1,64.66
+Yelahanka,2012,4,5,1,9.2,Unfurnished,0,93.48
+Koramangala,1284,3,4,1,4.8,Semi-Furnished,1,153.16
+Electronic City,2196,4,4,1,0.7,Unfurnished,1,84.9
+HSR Layout,1312,2,3,0,10.0,Unfurnished,1,117.83
+Koramangala,2200,4,3,1,8.6,Furnished,1,254.31
+Yelahanka,631,1,1,1,10.3,Semi-Furnished,0,30.02
+Marathahalli,2161,4,5,1,1.3,Semi-Furnished,1,142.85
+HSR Layout,1262,2,2,1,1.9,Semi-Furnished,1,137.86
+Indiranagar,919,2,3,1,2.1,Semi-Furnished,0,96.57
+Sarjapur Road,1483,3,3,1,4.3,Semi-Furnished,1,78.61
+HSR Layout,2032,4,3,2,0.9,Semi-Furnished,1,196.79
+Hebbal,425,1,1,4,2.9,Furnished,0,34.78
+Indiranagar,1001,2,2,1,1.2,Semi-Furnished,1,112.34
+Jayanagar,2266,4,4,3,1.8,Semi-Furnished,1,215.29
+Whitefield,1135,2,2,4,7.4,Semi-Furnished,1,67.08
+Jayanagar,1147,2,1,1,11.6,Unfurnished,1,80.24
+Sarjapur Road,1072,2,3,2,0.1,Semi-Furnished,1,69.0
+HSR Layout,1128,2,2,1,5.0,Furnished,1,107.0
+Whitefield,1980,4,4,0,0.2,Unfurnished,1,125.03
+Whitefield,1454,3,3,1,0.5,Unfurnished,1,91.59
+HSR Layout,1529,3,3,2,7.3,Semi-Furnished,1,137.64
+Indiranagar,2842,5,4,3,8.0,Unfurnished,1,260.75
+Whitefield,1098,2,1,0,10.1,Furnished,1,72.84
+Hebbal,579,1,2,2,3.9,Unfurnished,0,36.68
+HSR Layout,993,2,3,3,11.8,Unfurnished,1,75.83
+Koramangala,1524,2,2,1,1.1,Furnished,1,188.57
+BTM Layout,1186,2,2,1,1.7,Unfurnished,1,84.33
+Electronic City,2162,4,5,1,0.9,Semi-Furnished,1,113.12
+Sarjapur Road,1465,3,4,0,9.6,Furnished,1,86.42
+Koramangala,982,2,3,0,1.6,Semi-Furnished,1,121.76
+BTM Layout,1480,3,3,4,1.0,Semi-Furnished,0,100.62
+Marathahalli,1544,3,4,2,5.9,Unfurnished,1,79.17
+JP Nagar,1818,4,4,1,0.5,Unfurnished,1,132.73
+Sarjapur Road,1865,4,4,2,0.3,Unfurnished,1,97.61
+Koramangala,1404,3,4,2,0.7,Unfurnished,1,136.7
+Sarjapur Road,1531,3,2,3,0.0,Semi-Furnished,0,101.44
+HSR Layout,1464,3,2,1,7.2,Unfurnished,1,122.28
+HSR Layout,1722,3,3,2,5.0,Semi-Furnished,1,189.83
+Koramangala,378,1,2,0,1.4,Unfurnished,1,37.63
+Jayanagar,937,2,2,3,1.6,Semi-Furnished,1,75.01
+Indiranagar,1728,3,4,0,10.0,Unfurnished,1,174.69
+Jayanagar,1070,2,2,0,4.2,Unfurnished,0,80.48
+Jayanagar,733,1,1,1,7.2,Semi-Furnished,0,61.77
+Hebbal,1808,3,4,3,3.6,Semi-Furnished,0,117.3
+JP Nagar,496,1,1,3,1.6,Furnished,1,43.15
+HSR Layout,1485,3,4,0,21.1,Furnished,0,118.18
+Koramangala,1459,3,3,2,5.0,Semi-Furnished,1,159.64
+Koramangala,2507,5,5,2,0.8,Semi-Furnished,1,275.91
+Indiranagar,1003,2,2,1,3.1,Unfurnished,1,98.2
+Whitefield,732,1,1,2,2.4,Unfurnished,1,45.2
+Koramangala,1581,3,3,3,1.4,Furnished,1,198.99
+Koramangala,2193,4,4,2,16.3,Unfurnished,1,208.69
+Sarjapur Road,2744,5,4,1,12.8,Unfurnished,1,137.27
+Jayanagar,952,2,2,1,1.3,Unfurnished,1,77.89
+Koramangala,1240,2,1,0,2.6,Unfurnished,1,133.04
+Marathahalli,2025,4,5,3,8.6,Semi-Furnished,1,120.04
+Indiranagar,1094,2,2,1,1.4,Unfurnished,1,106.33
+HSR Layout,1525,3,2,0,5.4,Unfurnished,1,137.26
+Marathahalli,1269,2,3,1,7.2,Unfurnished,1,65.9
+Jayanagar,746,1,1,2,6.4,Semi-Furnished,1,71.71
+HSR Layout,856,2,1,1,7.4,Semi-Furnished,1,78.21
+Sarjapur Road,872,2,1,1,7.4,Unfurnished,1,46.47
+BTM Layout,1587,3,4,3,20.1,Semi-Furnished,1,104.95
+Marathahalli,2090,4,4,1,2.6,Unfurnished,1,124.64
+Marathahalli,982,2,1,4,12.7,Semi-Furnished,1,56.81
+Marathahalli,1652,3,2,0,0.1,Semi-Furnished,0,99.48
+Indiranagar,628,1,2,1,2.0,Furnished,0,77.82
+HSR Layout,1508,3,3,1,0.3,Unfurnished,1,106.81
+Whitefield,717,1,1,1,6.3,Unfurnished,0,42.93
+Jayanagar,2044,4,4,1,0.6,Unfurnished,1,184.65
+Jayanagar,1735,3,3,4,11.2,Unfurnished,0,112.88
+Indiranagar,1382,3,4,1,6.2,Unfurnished,0,135.55
+Sarjapur Road,1599,3,3,0,0.2,Unfurnished,1,96.3
+BTM Layout,1715,3,4,1,7.5,Unfurnished,1,122.64
+Hebbal,2593,5,5,3,11.9,Furnished,1,171.85
+Jayanagar,1448,3,2,3,6.5,Unfurnished,0,117.94
+BTM Layout,2271,4,3,1,0.2,Furnished,1,205.53
+Indiranagar,1674,3,4,1,11.7,Furnished,1,173.21
+JP Nagar,574,1,2,0,7.9,Furnished,1,49.96
+Indiranagar,1390,3,3,4,2.9,Furnished,0,148.44
+JP Nagar,1193,2,2,1,2.4,Semi-Furnished,1,100.49
+Koramangala,1678,3,2,1,3.9,Semi-Furnished,1,182.16
+BTM Layout,875,2,1,2,12.1,Unfurnished,1,54.41
+Sarjapur Road,1319,3,2,1,1.7,Semi-Furnished,1,78.7
+Indiranagar,634,1,2,1,0.6,Furnished,1,67.98
+Jayanagar,1144,2,2,3,12.0,Unfurnished,1,87.34
+Sarjapur Road,1005,2,2,1,0.2,Unfurnished,0,55.56
+Jayanagar,2202,4,5,3,14.5,Semi-Furnished,1,194.01
+BTM Layout,943,2,2,0,2.2,Semi-Furnished,0,70.24
+Marathahalli,733,2,2,1,4.3,Furnished,1,43.76
+HSR Layout,1436,3,3,0,0.9,Unfurnished,1,142.83
+Koramangala,1509,3,2,1,14.0,Semi-Furnished,1,168.95
+Indiranagar,1009,2,1,0,8.3,Unfurnished,1,93.8
+Hebbal,876,2,2,2,15.5,Furnished,1,59.77
+HSR Layout,778,2,1,4,6.9,Unfurnished,1,64.77
+Jayanagar,2723,5,6,2,1.2,Furnished,1,272.87
+Jayanagar,1185,2,2,3,2.2,Unfurnished,0,97.32
+Marathahalli,1238,2,2,2,4.0,Unfurnished,1,68.31
+BTM Layout,778,1,1,2,5.6,Unfurnished,1,50.12
+Sarjapur Road,928,2,2,2,15.7,Unfurnished,0,46.96
+HSR Layout,1327,3,3,2,2.9,Semi-Furnished,1,130.43
+JP Nagar,1124,2,2,1,7.3,Unfurnished,0,70.59
+Hebbal,695,1,1,0,19.5,Unfurnished,0,40.1
+Marathahalli,1110,2,2,1,1.0,Unfurnished,1,64.86
+Sarjapur Road,300,1,1,2,11.9,Furnished,1,17.08
+Indiranagar,470,1,1,0,3.3,Unfurnished,1,48.99
+Electronic City,1496,3,4,0,7.9,Unfurnished,1,63.03
+BTM Layout,1573,3,3,1,2.1,Semi-Furnished,0,113.5
+HSR Layout,2215,4,5,0,2.4,Furnished,1,237.91
+JP Nagar,2122,4,4,4,0.2,Furnished,1,193.01
+BTM Layout,1550,3,2,1,21.3,Furnished,1,108.33
+Whitefield,613,1,1,1,10.1,Unfurnished,0,32.5
+BTM Layout,1603,3,3,0,0.6,Furnished,0,139.58
+HSR Layout,2147,4,3,3,40.0,Semi-Furnished,1,129.98
+Jayanagar,1510,3,3,3,5.6,Furnished,1,132.43
+Marathahalli,1460,3,3,2,11.5,Unfurnished,1,81.41
+BTM Layout,1062,2,1,1,0.4,Furnished,0,100.77
+Whitefield,2173,4,4,3,3.0,Unfurnished,1,135.78
+Jayanagar,1540,3,3,2,6.6,Semi-Furnished,1,151.88
+Hebbal,2857,5,5,3,0.7,Unfurnished,1,191.94
+Hebbal,1251,2,1,1,4.0,Unfurnished,0,77.52
+Hebbal,1090,2,2,1,3.5,Semi-Furnished,0,79.11
+Indiranagar,953,2,2,1,1.5,Unfurnished,1,99.24
+Koramangala,1633,3,4,0,2.1,Semi-Furnished,0,163.84
+HSR Layout,845,2,2,2,20.5,Semi-Furnished,1,68.78
+JP Nagar,438,1,1,2,2.0,Semi-Furnished,1,34.79
+Koramangala,2850,5,4,3,1.4,Unfurnished,1,284.74
+Indiranagar,677,1,1,1,4.6,Furnished,1,73.03
+Sarjapur Road,1913,4,5,1,6.7,Semi-Furnished,1,118.62
+Whitefield,993,2,3,1,7.7,Unfurnished,0,56.94
+Sarjapur Road,2009,4,4,1,8.4,Semi-Furnished,0,115.4
+Yelahanka,1427,3,4,1,0.2,Unfurnished,1,74.25
+JP Nagar,2242,4,4,3,3.0,Unfurnished,0,147.92
+Koramangala,2206,4,4,0,8.9,Semi-Furnished,0,232.4
+Whitefield,597,1,1,2,14.1,Semi-Furnished,1,32.21
+Hebbal,518,1,1,0,5.5,Unfurnished,1,33.75
+JP Nagar,848,2,2,0,0.3,Unfurnished,1,58.75
+Hebbal,1713,3,4,1,3.0,Furnished,1,134.22
+Indiranagar,2189,4,3,1,0.5,Unfurnished,0,208.43
+Hebbal,944,2,1,0,8.3,Unfurnished,0,57.16
+JP Nagar,1608,3,2,1,0.4,Furnished,1,132.87
+Yelahanka,1039,2,3,1,1.2,Unfurnished,0,54.39
+JP Nagar,1457,3,3,2,3.2,Semi-Furnished,0,109.47
+JP Nagar,2865,5,5,1,3.7,Unfurnished,1,200.49
+Marathahalli,939,2,3,3,3.1,Semi-Furnished,1,54.3
+Electronic City,998,2,3,0,3.7,Unfurnished,0,36.05
+Jayanagar,618,1,1,1,7.5,Furnished,1,57.55
+Electronic City,1425,3,3,1,2.8,Unfurnished,1,54.98
+HSR Layout,1600,3,3,0,4.8,Semi-Furnished,1,159.65
+HSR Layout,1330,2,3,0,2.2,Furnished,0,138.68
+Whitefield,937,2,2,0,2.6,Furnished,1,72.43
+Koramangala,800,2,3,1,5.7,Unfurnished,1,83.9
+Electronic City,1200,3,4,1,4.0,Furnished,0,55.73
+JP Nagar,1477,3,3,4,7.7,Unfurnished,1,90.13
+Sarjapur Road,501,1,1,3,4.9,Semi-Furnished,1,30.84
+Electronic City,1531,3,4,1,9.8,Unfurnished,1,57.15
+Sarjapur Road,1520,3,2,1,3.5,Unfurnished,1,80.6
+Jayanagar,810,2,1,3,4.1,Unfurnished,1,74.64
+Koramangala,328,1,2,1,6.7,Semi-Furnished,1,37.83
+Electronic City,1544,3,3,1,1.5,Semi-Furnished,1,73.93
+Jayanagar,2120,4,3,1,2.9,Unfurnished,0,181.03
+JP Nagar,986,2,2,2,5.9,Semi-Furnished,0,77.69
+Hebbal,801,2,1,1,0.2,Furnished,1,73.03
+Whitefield,1121,2,3,1,3.4,Semi-Furnished,1,69.41
+Electronic City,1691,3,3,0,5.5,Semi-Furnished,0,71.4
+HSR Layout,1092,2,2,0,20.5,Furnished,1,92.22
+Koramangala,923,2,2,0,12.6,Semi-Furnished,0,91.22
+Indiranagar,1507,3,3,0,2.0,Unfurnished,1,145.15
+Koramangala,1295,3,2,0,4.2,Semi-Furnished,1,125.76
+JP Nagar,1209,2,3,0,0.3,Unfurnished,0,84.52
+BTM Layout,1062,2,1,1,1.7,Semi-Furnished,1,89.37
+HSR Layout,1235,3,4,3,8.9,Furnished,1,128.51
+BTM Layout,555,1,2,2,0.8,Unfurnished,0,40.75
+Koramangala,669,1,1,3,1.8,Unfurnished,1,69.36
+Jayanagar,2050,4,4,1,17.3,Unfurnished,1,130.73
+Indiranagar,559,1,1,0,10.4,Unfurnished,1,50.18
+Yelahanka,1316,3,3,2,9.1,Semi-Furnished,0,67.87
+Sarjapur Road,2185,4,4,1,12.0,Semi-Furnished,1,109.86
+Marathahalli,953,2,2,2,8.3,Unfurnished,1,54.53
+HSR Layout,727,2,1,0,0.8,Furnished,1,68.72
+Yelahanka,1444,3,4,1,4.4,Unfurnished,1,71.04
+Indiranagar,2247,4,4,0,3.5,Furnished,1,264.33
+BTM Layout,2042,4,4,0,2.2,Unfurnished,0,135.39
+Jayanagar,1761,3,2,2,10.8,Semi-Furnished,0,167.14
+HSR Layout,664,1,1,2,3.7,Unfurnished,0,54.74
+Marathahalli,1551,3,3,1,0.4,Unfurnished,1,86.4
+Marathahalli,1031,2,2,0,1.9,Furnished,0,68.05
+Electronic City,1040,2,2,0,1.6,Semi-Furnished,1,45.87
+Yelahanka,560,1,1,2,13.1,Furnished,1,26.55
+Koramangala,1005,2,2,1,6.3,Semi-Furnished,1,100.94
+Hebbal,1580,3,3,0,4.9,Furnished,1,131.44
+JP Nagar,910,2,1,4,4.2,Furnished,1,76.05
+JP Nagar,889,2,3,1,6.3,Semi-Furnished,1,77.93
+Jayanagar,882,2,2,2,8.4,Semi-Furnished,1,73.43
+Jayanagar,2407,4,5,2,4.8,Furnished,0,239.8
+Indiranagar,1580,3,3,0,16.7,Unfurnished,0,134.7
+JP Nagar,1096,2,2,2,22.6,Furnished,0,73.85
+Koramangala,441,1,1,0,32.2,Semi-Furnished,1,35.2
+Jayanagar,1144,2,3,1,6.6,Semi-Furnished,1,89.46
+Koramangala,2083,4,5,0,16.2,Unfurnished,0,195.93
+Indiranagar,1532,3,3,2,3.1,Semi-Furnished,0,166.14
+Yelahanka,1354,3,4,3,11.8,Unfurnished,1,55.49
+Whitefield,1524,3,3,4,14.4,Furnished,0,89.89
+Hebbal,986,2,2,2,14.1,Semi-Furnished,1,62.76
+Koramangala,1385,3,4,1,10.7,Unfurnished,0,136.85
+Whitefield,1610,3,2,0,3.1,Furnished,1,109.18
+Jayanagar,369,1,2,0,1.0,Semi-Furnished,1,37.57
+Whitefield,1135,2,3,1,2.4,Furnished,1,78.65
+Koramangala,1603,3,3,1,8.7,Unfurnished,0,138.96
+Hebbal,1968,4,5,1,1.6,Semi-Furnished,0,138.69
+Whitefield,927,2,2,4,3.9,Semi-Furnished,1,57.04
+JP Nagar,2067,4,4,0,5.0,Semi-Furnished,1,166.38
+Whitefield,1542,3,4,2,5.6,Unfurnished,1,88.25
+Koramangala,1027,2,2,2,16.5,Unfurnished,1,97.48
+Hebbal,665,1,1,0,6.5,Furnished,0,47.08
+Koramangala,864,1,2,1,9.3,Unfurnished,1,84.75
+Electronic City,1424,3,4,1,5.2,Furnished,1,67.81
+HSR Layout,793,2,2,0,10.8,Unfurnished,1,62.38
+Koramangala,1174,2,2,1,1.8,Furnished,1,157.76
+JP Nagar,1752,3,3,2,1.4,Semi-Furnished,0,127.97
+Koramangala,1559,3,3,1,15.6,Semi-Furnished,1,152.52
+JP Nagar,437,1,1,2,7.1,Unfurnished,1,33.12
+BTM Layout,1031,2,3,3,6.7,Furnished,1,88.7
+HSR Layout,882,2,2,0,3.8,Semi-Furnished,0,90.61
+BTM Layout,1596,3,3,3,2.8,Semi-Furnished,1,125.01
+HSR Layout,1297,3,4,0,4.9,Unfurnished,0,107.15
+Sarjapur Road,1005,2,3,2,0.8,Semi-Furnished,1,70.67
+Electronic City,1349,3,2,0,3.6,Furnished,0,67.58
+Hebbal,1519,3,3,1,3.6,Unfurnished,1,101.68
+Jayanagar,1445,3,2,3,4.6,Semi-Furnished,1,128.71
+HSR Layout,1527,3,3,4,6.0,Unfurnished,0,129.53
+Yelahanka,1053,2,3,3,18.9,Furnished,1,52.81
+Hebbal,902,2,3,2,6.3,Furnished,1,64.92
+Whitefield,1594,3,2,0,12.9,Unfurnished,1,96.05
+Indiranagar,1493,3,3,2,4.9,Unfurnished,0,136.07
+Hebbal,1352,3,3,3,5.9,Semi-Furnished,1,98.19
+Yelahanka,1386,2,2,1,0.4,Unfurnished,1,79.0
+Sarjapur Road,2171,4,4,1,0.9,Semi-Furnished,1,124.48
+Hebbal,1477,3,2,2,5.2,Unfurnished,1,103.16
+Sarjapur Road,812,1,1,1,3.0,Semi-Furnished,0,43.66
+Hebbal,1326,2,1,2,9.6,Unfurnished,1,87.22
+Koramangala,1478,3,4,0,4.7,Unfurnished,1,156.08
+Electronic City,1552,3,4,0,12.8,Unfurnished,1,65.5
+JP Nagar,902,2,3,1,21.5,Semi-Furnished,1,66.82
+Yelahanka,2078,4,4,0,1.0,Semi-Furnished,1,106.63
+Whitefield,1020,2,2,1,3.0,Unfurnished,1,66.0
+HSR Layout,1078,2,2,0,6.6,Semi-Furnished,1,111.43
+Sarjapur Road,2150,4,3,1,2.2,Furnished,1,137.52
+Jayanagar,2184,4,4,2,1.9,Unfurnished,1,183.34
+HSR Layout,1536,3,4,3,10.1,Furnished,1,150.14
+HSR Layout,1918,4,4,1,23.6,Semi-Furnished,1,150.5
+Indiranagar,459,1,1,3,8.9,Unfurnished,0,37.09
+HSR Layout,2018,4,4,0,4.4,Unfurnished,1,187.88
+HSR Layout,1008,2,3,2,3.5,Semi-Furnished,1,84.6
+Whitefield,1208,2,1,0,4.7,Semi-Furnished,1,72.04
+JP Nagar,876,2,2,2,3.7,Unfurnished,0,61.01
+HSR Layout,996,2,3,0,4.2,Furnished,0,111.22
+JP Nagar,1193,2,2,1,1.4,Semi-Furnished,0,88.23
+JP Nagar,1005,2,1,2,14.0,Unfurnished,1,68.83
+Indiranagar,1119,2,3,2,8.4,Unfurnished,0,100.57
+Yelahanka,1029,2,2,0,6.9,Unfurnished,1,51.74
+Jayanagar,1539,3,4,0,18.0,Semi-Furnished,1,127.01
+BTM Layout,1016,2,1,2,2.0,Semi-Furnished,1,81.98
+Indiranagar,1150,2,2,0,0.5,Semi-Furnished,0,112.99
+Yelahanka,1268,3,3,1,10.5,Semi-Furnished,1,58.18
+Marathahalli,2046,4,4,1,38.7,Unfurnished,1,84.38
+Koramangala,1544,3,3,1,5.2,Semi-Furnished,0,157.45
+Indiranagar,1130,2,3,3,0.4,Unfurnished,1,113.75
+Yelahanka,1724,3,2,0,9.1,Unfurnished,1,81.57
+Hebbal,991,2,2,1,0.5,Semi-Furnished,1,80.74
+Koramangala,1272,2,2,0,4.7,Unfurnished,1,137.01
+Yelahanka,951,2,2,4,2.0,Furnished,0,50.48
+HSR Layout,1699,3,3,2,14.8,Furnished,1,148.79
+Hebbal,1173,2,3,0,3.6,Semi-Furnished,1,97.9
+Indiranagar,463,1,1,1,13.7,Unfurnished,1,36.22
+BTM Layout,1096,2,1,0,2.1,Unfurnished,1,74.88
+Koramangala,2092,4,4,1,2.9,Unfurnished,0,217.85
+HSR Layout,1594,3,2,4,17.6,Semi-Furnished,0,145.09
+Whitefield,1017,2,2,2,1.3,Furnished,0,67.97
+Electronic City,1454,3,3,0,5.2,Semi-Furnished,0,63.33
+Jayanagar,1705,3,4,2,3.0,Semi-Furnished,0,141.11
+Koramangala,1485,3,3,1,8.9,Semi-Furnished,1,159.42
+JP Nagar,1174,2,1,0,0.8,Furnished,1,94.77
+Whitefield,2066,4,4,1,3.4,Unfurnished,1,114.86
+HSR Layout,1300,2,2,2,7.2,Furnished,1,139.38
+Koramangala,1398,3,4,1,3.1,Semi-Furnished,1,154.48
+Whitefield,508,1,2,4,0.4,Unfurnished,1,33.16
+Indiranagar,1279,2,1,2,7.3,Furnished,0,133.55
+HSR Layout,983,2,2,0,4.2,Furnished,1,92.76
+Jayanagar,1740,3,3,0,0.1,Semi-Furnished,0,166.56
+HSR Layout,734,1,1,2,5.7,Furnished,0,66.05
+Jayanagar,1477,3,2,2,15.1,Unfurnished,1,106.08
+Marathahalli,778,2,2,1,0.7,Unfurnished,1,44.43
+Whitefield,1497,3,2,1,5.4,Unfurnished,1,92.48
+Jayanagar,1515,3,3,3,7.8,Semi-Furnished,1,126.01
+Sarjapur Road,1675,3,3,2,0.4,Semi-Furnished,0,91.06
+Jayanagar,1738,3,4,0,0.1,Unfurnished,1,152.78
+Yelahanka,1397,3,3,2,3.7,Semi-Furnished,0,69.22
+Koramangala,1170,2,3,3,9.4,Unfurnished,0,108.89
+JP Nagar,1615,3,4,1,1.1,Unfurnished,0,119.34
+JP Nagar,1211,2,3,2,10.9,Unfurnished,1,77.31
+Jayanagar,1575,3,3,1,6.4,Unfurnished,1,112.08
+Sarjapur Road,1209,3,4,1,2.4,Unfurnished,1,78.09
+Indiranagar,1027,2,2,1,4.4,Unfurnished,1,98.61
+Whitefield,877,2,3,3,20.2,Unfurnished,1,45.79
+JP Nagar,1020,2,1,1,1.5,Unfurnished,1,71.33
+JP Nagar,1647,3,2,3,4.2,Unfurnished,1,126.67
+Indiranagar,2146,4,4,0,5.9,Furnished,1,229.48
+Koramangala,1672,3,4,1,0.9,Unfurnished,1,144.58
+Whitefield,1551,3,4,4,0.3,Semi-Furnished,1,98.73
+Koramangala,1905,4,5,2,0.1,Unfurnished,1,201.9
+JP Nagar,300,1,1,1,2.4,Unfurnished,1,21.77
+Jayanagar,1072,2,3,1,0.5,Unfurnished,1,91.58
+Koramangala,1468,3,4,1,9.8,Furnished,1,164.94
+HSR Layout,1353,3,3,2,35.5,Unfurnished,1,84.06
+Whitefield,1845,4,5,2,0.4,Semi-Furnished,1,119.66
+Koramangala,940,2,1,1,3.4,Semi-Furnished,0,89.13
+Yelahanka,571,1,2,0,0.2,Unfurnished,1,25.05
+Sarjapur Road,1150,2,1,1,0.9,Furnished,1,76.18
+JP Nagar,1078,2,1,3,2.3,Unfurnished,0,76.8
+Whitefield,1291,2,2,1,3.0,Unfurnished,1,80.68
+BTM Layout,1345,3,2,2,16.9,Unfurnished,1,81.97
+JP Nagar,732,1,1,0,3.0,Unfurnished,0,47.14
+JP Nagar,1507,3,3,1,4.1,Unfurnished,0,90.7
+HSR Layout,1154,2,3,2,1.7,Semi-Furnished,1,107.61
+HSR Layout,1435,3,3,1,0.0,Unfurnished,1,135.22
+Koramangala,761,1,1,0,13.8,Semi-Furnished,0,82.1
+Whitefield,1094,2,1,3,0.5,Unfurnished,1,65.97
+Indiranagar,498,1,1,0,20.0,Furnished,1,44.63
+Koramangala,2798,5,5,2,0.8,Unfurnished,1,276.75
+Jayanagar,1464,3,4,0,5.6,Semi-Furnished,1,123.57
+Hebbal,1123,2,1,3,40.0,Semi-Furnished,0,53.69
+Jayanagar,873,2,2,3,0.9,Unfurnished,1,79.71
+Whitefield,2096,4,5,1,3.3,Unfurnished,1,136.09
+Sarjapur Road,1109,2,2,1,9.1,Unfurnished,1,57.05
+Sarjapur Road,1055,2,3,1,0.2,Unfurnished,1,61.11
+JP Nagar,1702,3,3,0,7.0,Unfurnished,0,109.22
+Sarjapur Road,2216,4,5,3,0.5,Semi-Furnished,0,115.58
+Jayanagar,599,1,1,1,1.6,Unfurnished,0,54.56
+Sarjapur Road,1083,2,3,0,1.0,Semi-Furnished,0,53.52
+Electronic City,2144,4,3,1,14.3,Unfurnished,1,72.28
+HSR Layout,1110,2,3,0,1.2,Furnished,1,136.32
+Indiranagar,326,1,1,0,0.2,Unfurnished,0,30.96
+Indiranagar,1455,3,3,4,5.3,Unfurnished,0,121.93
+Indiranagar,1877,4,3,1,2.5,Unfurnished,0,183.1
+Marathahalli,1242,2,3,4,3.1,Unfurnished,1,75.84
+JP Nagar,2791,5,4,1,0.8,Semi-Furnished,1,203.34
+Marathahalli,1471,3,3,1,8.3,Semi-Furnished,1,83.16
+Indiranagar,735,1,2,2,5.5,Semi-Furnished,1,81.17
+JP Nagar,2863,5,4,1,2.7,Semi-Furnished,1,213.58
+Yelahanka,881,2,1,1,1.1,Furnished,0,50.44
+HSR Layout,1039,2,2,3,5.4,Semi-Furnished,1,108.06
+Yelahanka,1450,3,2,0,9.0,Unfurnished,1,55.92
+Koramangala,788,2,2,1,2.2,Unfurnished,1,80.16
+Koramangala,496,1,1,1,0.2,Unfurnished,1,53.49
+BTM Layout,572,1,1,1,1.4,Semi-Furnished,1,38.34
+Koramangala,1033,2,2,0,6.9,Unfurnished,0,95.86
+Jayanagar,1878,4,3,0,27.1,Semi-Furnished,0,139.78
+BTM Layout,1673,3,2,1,0.1,Unfurnished,1,114.04
+Hebbal,2785,5,5,1,2.2,Furnished,0,193.83
+Whitefield,1056,2,2,0,0.4,Furnished,0,77.74
+Indiranagar,1110,2,1,1,2.3,Unfurnished,1,111.0
+Whitefield,932,2,2,2,3.1,Furnished,1,64.38
+Yelahanka,1118,2,2,2,15.2,Furnished,1,57.45
+HSR Layout,995,2,2,0,0.5,Furnished,0,110.31
+Indiranagar,1366,3,2,1,9.0,Unfurnished,0,122.91
+Sarjapur Road,2186,4,4,2,3.0,Semi-Furnished,1,135.25
+Jayanagar,3024,5,4,3,10.0,Unfurnished,1,225.75
+Koramangala,1159,2,3,1,4.3,Semi-Furnished,1,113.23
+Jayanagar,2238,4,5,4,0.2,Semi-Furnished,1,219.05
+Yelahanka,972,2,1,2,17.5,Semi-Furnished,1,48.54
+Electronic City,360,1,1,1,0.5,Unfurnished,0,14.82
+Koramangala,2324,4,4,1,5.5,Furnished,0,284.03
+JP Nagar,1808,3,4,0,12.6,Unfurnished,0,116.59
+HSR Layout,1281,2,3,2,0.5,Unfurnished,1,118.35
+Jayanagar,1000,2,1,1,4.8,Semi-Furnished,0,95.61
+HSR Layout,877,2,3,1,10.4,Furnished,1,86.76
+Whitefield,1340,3,4,0,25.8,Furnished,1,75.31
+Indiranagar,797,2,2,2,7.7,Semi-Furnished,0,66.69
+HSR Layout,2784,5,5,2,2.0,Unfurnished,1,262.83
+Indiranagar,841,1,1,0,7.2,Unfurnished,1,74.41
+Whitefield,1029,2,3,1,7.3,Unfurnished,1,60.23
+JP Nagar,1095,2,2,3,7.2,Unfurnished,1,75.57
+Sarjapur Road,1706,3,3,1,11.6,Unfurnished,0,80.97
+JP Nagar,989,2,2,2,0.5,Unfurnished,1,73.15
+BTM Layout,1805,3,3,1,0.7,Unfurnished,0,123.49
+Koramangala,2399,4,3,0,6.1,Furnished,1,309.15
+Sarjapur Road,2080,4,4,2,18.5,Semi-Furnished,1,118.92
+Indiranagar,1413,3,3,0,3.8,Semi-Furnished,1,152.85
+Sarjapur Road,2205,4,5,1,19.4,Unfurnished,0,111.73
+Sarjapur Road,1448,3,3,2,16.7,Unfurnished,1,74.67
+Hebbal,1327,3,3,4,14.0,Unfurnished,1,84.95
+Sarjapur Road,1242,2,2,0,14.4,Unfurnished,1,68.0
+Marathahalli,1232,2,2,3,13.7,Semi-Furnished,0,60.27
+Koramangala,1073,2,2,2,10.3,Semi-Furnished,1,107.4
+HSR Layout,861,2,1,0,7.1,Furnished,0,79.48
+Marathahalli,866,2,3,2,0.1,Furnished,0,57.09
+Electronic City,2816,5,5,1,0.9,Semi-Furnished,1,138.22
+Marathahalli,975,2,2,0,0.9,Unfurnished,0,49.98
+Sarjapur Road,549,1,1,1,0.1,Furnished,1,37.63
+Indiranagar,1653,3,4,0,0.7,Semi-Furnished,1,171.55
+JP Nagar,710,1,1,3,15.1,Semi-Furnished,1,49.26
+BTM Layout,807,1,2,4,6.5,Semi-Furnished,0,58.97
+Sarjapur Road,901,2,2,1,2.2,Unfurnished,0,53.42
+Sarjapur Road,999,2,2,0,9.5,Unfurnished,0,47.36
+Jayanagar,1164,2,1,0,4.0,Unfurnished,0,91.88
+Sarjapur Road,1567,3,3,0,0.9,Unfurnished,1,80.77
+Hebbal,1730,3,2,0,13.0,Unfurnished,1,102.55
+Indiranagar,1113,2,2,1,2.5,Unfurnished,1,99.56
+Jayanagar,1327,2,3,2,7.2,Furnished,1,130.56
+Hebbal,1131,2,2,1,2.1,Semi-Furnished,0,82.86
+Koramangala,1659,3,4,2,4.2,Unfurnished,0,174.83
+Yelahanka,551,1,2,2,10.2,Unfurnished,1,24.41
+Yelahanka,602,1,1,2,1.0,Semi-Furnished,1,33.34
+Indiranagar,1637,3,3,1,22.7,Unfurnished,1,133.41
+Marathahalli,1292,2,2,1,0.4,Semi-Furnished,0,77.58
+JP Nagar,1159,2,2,2,4.6,Furnished,0,86.6
+Jayanagar,1038,2,3,1,14.9,Semi-Furnished,0,83.47
+Whitefield,2307,4,3,1,17.5,Unfurnished,1,121.23
+Whitefield,1771,4,3,3,1.6,Semi-Furnished,0,110.3
+HSR Layout,1287,3,2,1,0.9,Unfurnished,1,120.21
+BTM Layout,1152,2,2,2,7.7,Unfurnished,1,81.35
+Indiranagar,1502,3,3,2,0.3,Semi-Furnished,1,147.6
+Yelahanka,2891,5,5,2,4.0,Furnished,0,156.1
+Indiranagar,2810,5,5,3,9.5,Unfurnished,1,265.79
+Koramangala,1136,2,2,0,4.9,Furnished,0,128.9
+JP Nagar,1378,3,4,1,1.2,Unfurnished,1,111.24
+Hebbal,1136,2,1,2,4.0,Unfurnished,0,74.14
+Electronic City,1199,2,3,2,15.3,Semi-Furnished,0,42.02
+HSR Layout,1683,3,3,1,5.8,Unfurnished,1,155.51
+Whitefield,1352,2,1,3,7.7,Unfurnished,1,75.9
+Jayanagar,2137,4,3,1,2.5,Unfurnished,0,150.46
+Yelahanka,641,1,2,3,1.3,Unfurnished,1,31.73
+Electronic City,1272,3,3,2,1.8,Unfurnished,0,47.98
+Koramangala,2020,4,4,3,4.6,Semi-Furnished,0,225.63
+HSR Layout,2071,4,3,1,2.0,Semi-Furnished,1,200.92
+BTM Layout,1208,2,2,1,4.7,Furnished,0,88.54
+Sarjapur Road,958,2,2,1,7.4,Semi-Furnished,1,57.77
+Whitefield,1619,3,4,1,8.0,Semi-Furnished,1,103.93
+Hebbal,1050,2,2,1,1.1,Semi-Furnished,1,77.03
+HSR Layout,2773,5,4,0,8.3,Furnished,0,245.39
+HSR Layout,2137,4,4,2,6.7,Unfurnished,1,174.18
+Hebbal,991,2,2,3,0.1,Unfurnished,1,64.86
+BTM Layout,986,2,1,4,0.4,Semi-Furnished,1,80.15
+Sarjapur Road,344,1,1,1,6.2,Unfurnished,0,15.58
+Marathahalli,2063,4,4,1,2.9,Furnished,1,138.03
+HSR Layout,978,2,3,0,0.9,Semi-Furnished,1,96.18
+JP Nagar,973,2,1,0,0.3,Unfurnished,1,77.95
+Koramangala,1113,2,1,1,1.0,Semi-Furnished,1,128.55
+Marathahalli,1599,3,3,1,19.0,Unfurnished,1,81.93
+HSR Layout,635,1,1,2,7.8,Furnished,0,59.55
+Yelahanka,1199,2,2,0,4.5,Furnished,0,59.83
+Koramangala,2186,4,3,0,17.0,Semi-Furnished,0,203.32
+Indiranagar,2056,4,4,0,5.8,Unfurnished,0,196.39
+BTM Layout,1431,3,3,2,7.8,Unfurnished,1,101.5
+Electronic City,647,1,1,1,2.0,Semi-Furnished,1,29.13
+Jayanagar,1136,2,2,2,5.3,Furnished,1,102.87
+Indiranagar,1710,3,2,2,0.9,Unfurnished,1,155.32
+Whitefield,1229,2,2,1,3.1,Unfurnished,1,71.6
+Whitefield,2019,4,4,4,0.2,Unfurnished,0,118.03
+Indiranagar,1485,3,4,1,1.5,Semi-Furnished,1,176.15
+BTM Layout,701,1,1,3,0.5,Furnished,1,59.63
+Koramangala,2260,4,5,2,2.9,Unfurnished,1,249.12
+Sarjapur Road,2241,4,4,0,11.1,Unfurnished,1,108.41
+Marathahalli,590,1,2,0,2.8,Semi-Furnished,1,37.11
+HSR Layout,1312,3,3,4,10.7,Furnished,1,130.83
+Marathahalli,900,2,2,2,6.4,Furnished,1,58.11
+Jayanagar,1091,2,2,2,4.3,Semi-Furnished,0,93.15
+Hebbal,1101,2,1,0,1.6,Unfurnished,0,73.47
+Koramangala,1335,3,3,0,15.3,Unfurnished,1,128.47
+Koramangala,2107,4,4,3,0.3,Furnished,1,284.64
+BTM Layout,1595,3,3,2,7.0,Furnished,0,103.15
+Sarjapur Road,427,1,1,1,5.8,Semi-Furnished,1,26.62
+BTM Layout,1666,3,3,2,3.5,Semi-Furnished,1,110.47
+HSR Layout,993,2,3,0,1.6,Furnished,1,110.32
+JP Nagar,2289,4,5,0,3.4,Unfurnished,1,198.12
+Jayanagar,970,2,1,1,12.4,Unfurnished,1,74.29
+Jayanagar,896,2,3,0,10.9,Semi-Furnished,1,77.8
+Indiranagar,981,2,1,0,17.0,Furnished,0,92.95
+Marathahalli,1486,3,3,0,2.2,Semi-Furnished,1,96.11
+Indiranagar,992,2,3,1,2.9,Furnished,0,113.6
+Koramangala,1468,3,3,2,0.1,Unfurnished,0,142.54
+BTM Layout,1100,2,2,3,17.2,Unfurnished,1,67.53
+Indiranagar,1024,2,3,2,2.4,Unfurnished,1,93.29
+Electronic City,1040,2,2,1,3.1,Furnished,1,51.84
+Whitefield,1844,4,4,2,14.3,Semi-Furnished,0,99.29
+Sarjapur Road,2159,4,3,0,4.5,Unfurnished,1,118.0
+Jayanagar,1037,2,2,1,5.0,Furnished,0,91.54
+HSR Layout,1292,2,1,4,1.2,Semi-Furnished,0,119.79
+JP Nagar,909,2,1,1,4.1,Furnished,1,77.73
+JP Nagar,1229,3,2,1,15.0,Semi-Furnished,1,87.94
+Koramangala,1143,2,1,2,4.9,Unfurnished,1,118.73
+Hebbal,2152,4,3,3,1.8,Semi-Furnished,1,157.67
+JP Nagar,1949,4,4,0,0.2,Furnished,1,162.47
+Yelahanka,821,2,1,1,2.5,Unfurnished,0,38.84
+Indiranagar,1281,2,3,0,5.1,Furnished,0,138.74
+BTM Layout,2312,4,3,1,0.3,Unfurnished,1,177.38
+Jayanagar,1127,3,3,2,5.6,Unfurnished,1,99.2
+Koramangala,531,1,2,2,4.4,Unfurnished,1,50.11
+HSR Layout,1300,2,3,2,9.2,Furnished,0,133.07
+Whitefield,979,2,2,3,0.2,Semi-Furnished,1,67.32
+Indiranagar,976,2,3,0,9.1,Unfurnished,0,79.43
+Hebbal,1008,2,2,1,4.4,Furnished,1,83.21
+Whitefield,432,1,1,2,2.8,Unfurnished,1,27.07
+HSR Layout,1244,3,3,0,20.2,Unfurnished,0,85.68
+Jayanagar,1208,2,1,1,1.0,Unfurnished,1,100.5
+Whitefield,324,1,1,3,4.7,Semi-Furnished,1,20.58
+Sarjapur Road,1087,2,1,3,2.3,Semi-Furnished,1,67.3
+Indiranagar,1633,3,2,0,4.5,Furnished,1,170.83
+Koramangala,1882,4,4,2,4.8,Semi-Furnished,1,224.13
+Koramangala,911,2,2,1,0.6,Unfurnished,1,82.51
+Indiranagar,1232,2,2,1,6.5,Furnished,1,148.78
+Whitefield,2880,5,6,4,6.0,Unfurnished,0,168.45
+Hebbal,957,2,3,0,8.8,Furnished,0,68.62
+Sarjapur Road,1230,2,3,0,0.6,Unfurnished,0,71.5
+Indiranagar,1231,2,3,0,2.1,Unfurnished,1,113.03
+Yelahanka,1090,2,3,1,6.3,Semi-Furnished,1,57.38
+Hebbal,915,2,2,2,0.9,Unfurnished,1,64.35
+JP Nagar,2038,4,4,1,6.8,Unfurnished,0,141.05
+HSR Layout,1543,3,4,0,0.4,Semi-Furnished,1,145.95
+Koramangala,1022,2,1,2,2.4,Unfurnished,1,102.64
+Koramangala,2241,4,4,0,11.3,Unfurnished,0,209.76
+Hebbal,371,1,1,1,8.9,Unfurnished,1,22.79
+JP Nagar,826,2,2,2,6.2,Semi-Furnished,1,64.69
+Indiranagar,1527,3,3,3,12.3,Unfurnished,1,130.17
+HSR Layout,1426,3,2,2,7.4,Unfurnished,1,131.38
+BTM Layout,506,1,1,1,4.4,Semi-Furnished,1,41.97
+JP Nagar,785,2,3,0,23.4,Semi-Furnished,1,51.54
+Sarjapur Road,1503,3,2,2,7.1,Semi-Furnished,0,88.0
+Hebbal,1492,3,3,2,5.5,Unfurnished,1,97.91
+HSR Layout,1598,3,3,2,3.2,Unfurnished,1,133.16
+Marathahalli,1060,2,2,1,14.0,Semi-Furnished,1,57.44
+Yelahanka,580,1,2,2,2.1,Furnished,0,33.14
+Electronic City,1227,2,2,2,0.1,Semi-Furnished,1,50.6
+Jayanagar,853,2,1,1,1.3,Unfurnished,1,75.14
+Hebbal,2180,4,4,3,0.7,Unfurnished,0,146.12
+Indiranagar,799,2,2,3,2.3,Furnished,1,97.84
+JP Nagar,924,2,1,1,10.5,Semi-Furnished,1,71.36
+Marathahalli,1318,3,2,4,6.3,Unfurnished,1,73.5
+Sarjapur Road,1167,2,2,1,1.1,Unfurnished,1,63.34
+Whitefield,1040,2,2,3,9.3,Furnished,0,72.91
+Koramangala,1498,3,2,3,4.2,Unfurnished,1,176.89
+Marathahalli,1934,4,4,4,4.3,Semi-Furnished,1,114.67
+Koramangala,1455,3,3,0,2.7,Semi-Furnished,1,174.99
+Hebbal,485,1,2,1,12.0,Unfurnished,0,28.48
+Hebbal,1558,3,3,0,2.3,Unfurnished,1,102.18
+Electronic City,1351,3,4,1,0.6,Unfurnished,1,58.28
+Jayanagar,1249,2,2,1,2.2,Furnished,1,129.39
+Jayanagar,799,2,3,3,7.5,Semi-Furnished,1,65.25
+HSR Layout,1979,4,3,2,6.4,Furnished,1,224.78
+BTM Layout,852,1,1,1,1.2,Semi-Furnished,1,69.69
+JP Nagar,1435,3,3,0,0.7,Furnished,1,131.92
+Hebbal,853,2,3,2,6.5,Furnished,0,63.87
+Hebbal,1083,2,1,2,6.8,Semi-Furnished,1,81.54
+HSR Layout,529,1,2,0,2.7,Unfurnished,1,38.45
+BTM Layout,1375,3,4,2,11.1,Semi-Furnished,1,102.1
+Hebbal,886,2,1,3,23.0,Semi-Furnished,1,55.02
+Hebbal,1915,3,3,4,1.4,Semi-Furnished,0,118.93
+BTM Layout,1462,3,3,1,5.2,Furnished,0,117.33
+Koramangala,1211,3,2,3,0.0,Unfurnished,1,133.78
+JP Nagar,2324,4,5,2,7.5,Unfurnished,0,139.62
+Indiranagar,1592,3,3,1,3.2,Semi-Furnished,0,145.94
+Koramangala,935,2,3,0,1.3,Unfurnished,1,114.58
+Koramangala,1960,4,4,2,8.4,Unfurnished,1,191.41
+Sarjapur Road,1601,3,2,1,10.0,Furnished,0,100.26
+BTM Layout,1013,2,1,4,0.7,Semi-Furnished,0,80.99
+Hebbal,761,2,1,1,0.3,Furnished,0,61.68
+Hebbal,2368,4,4,1,2.4,Semi-Furnished,1,187.23
+Marathahalli,985,2,3,3,5.9,Semi-Furnished,1,51.31
+Sarjapur Road,1724,3,2,1,9.5,Semi-Furnished,0,91.4
+Jayanagar,1242,2,2,0,4.7,Unfurnished,1,79.95
+HSR Layout,900,2,1,0,5.2,Semi-Furnished,0,71.96
+Indiranagar,1655,3,4,1,9.7,Unfurnished,0,142.27
+JP Nagar,502,1,1,1,4.5,Furnished,1,40.77
+Hebbal,770,2,2,2,5.7,Unfurnished,0,49.38
+HSR Layout,1436,3,3,0,4.4,Unfurnished,1,126.61
+Whitefield,1110,2,1,1,12.7,Semi-Furnished,1,65.57
+JP Nagar,1431,3,4,1,1.6,Semi-Furnished,0,113.42
+Whitefield,1454,3,2,1,1.8,Unfurnished,1,88.46
+Hebbal,1672,3,3,0,0.8,Unfurnished,1,107.99
+Sarjapur Road,616,1,1,2,10.3,Furnished,1,35.56
+HSR Layout,924,2,3,3,3.2,Semi-Furnished,1,90.54
+Koramangala,1605,3,3,1,2.6,Unfurnished,1,166.47
+Hebbal,2130,4,4,0,23.9,Semi-Furnished,0,115.22
+JP Nagar,1722,4,5,0,15.7,Unfurnished,1,123.71
+Jayanagar,2164,4,3,2,21.5,Unfurnished,0,154.38
+Sarjapur Road,1109,2,2,2,0.9,Furnished,0,65.93
+Whitefield,1053,2,1,3,13.3,Unfurnished,1,55.93
+Jayanagar,1184,2,1,0,2.4,Unfurnished,0,108.62
+Hebbal,949,2,2,2,0.1,Furnished,0,75.81
+BTM Layout,650,1,1,1,3.0,Semi-Furnished,1,50.53
+Indiranagar,1865,4,3,2,4.3,Unfurnished,1,170.34
+JP Nagar,1111,2,3,0,0.7,Unfurnished,0,79.36
+Jayanagar,1343,2,1,3,4.6,Furnished,0,138.41
+HSR Layout,451,1,1,1,10.3,Unfurnished,0,36.71
+Indiranagar,1986,4,3,0,2.8,Semi-Furnished,0,198.21
+BTM Layout,1393,3,2,1,2.6,Semi-Furnished,1,105.77
+Indiranagar,1519,3,2,1,2.5,Unfurnished,1,173.28
+Koramangala,1941,4,4,1,15.4,Semi-Furnished,1,195.52
+Koramangala,1113,2,2,2,0.3,Semi-Furnished,1,119.82
+BTM Layout,1627,3,3,2,3.5,Unfurnished,1,108.28
+Yelahanka,680,1,1,4,1.8,Furnished,1,41.64
+JP Nagar,785,2,2,3,13.5,Unfurnished,1,47.19
+Koramangala,2249,4,5,3,0.6,Semi-Furnished,1,269.8
+Marathahalli,1641,3,3,0,3.2,Semi-Furnished,1,95.48
+Marathahalli,1175,2,2,2,3.1,Semi-Furnished,1,62.7
+JP Nagar,1106,2,2,1,13.2,Unfurnished,1,68.99
+BTM Layout,1533,3,4,1,1.5,Semi-Furnished,1,119.96
+Whitefield,755,1,1,1,6.2,Unfurnished,0,45.68
+Yelahanka,1339,2,1,0,0.9,Semi-Furnished,1,76.25
+Whitefield,907,2,3,0,18.5,Furnished,1,54.95
+Jayanagar,1212,2,2,3,5.4,Furnished,1,124.64
+Koramangala,1487,3,3,0,5.9,Semi-Furnished,1,158.27
+Koramangala,1031,2,2,3,3.4,Unfurnished,1,95.47
+Koramangala,820,2,3,2,2.5,Unfurnished,0,83.73
+Marathahalli,1457,3,4,3,1.4,Unfurnished,1,76.56
+Koramangala,1950,4,4,3,5.6,Semi-Furnished,1,225.22
+Hebbal,980,2,3,2,18.5,Unfurnished,1,62.69
+HSR Layout,435,1,2,0,2.7,Furnished,0,42.3
+Whitefield,983,2,1,1,12.9,Furnished,0,60.95
+JP Nagar,1439,3,3,0,1.0,Unfurnished,1,107.91
+Koramangala,1515,3,2,1,16.5,Semi-Furnished,1,159.85
+HSR Layout,1258,3,2,1,2.6,Semi-Furnished,1,111.14
+Yelahanka,1883,4,4,1,2.9,Unfurnished,0,91.99
+Koramangala,1554,3,4,1,3.7,Semi-Furnished,0,153.83
+Whitefield,1380,3,3,0,7.6,Unfurnished,0,79.26
+HSR Layout,1211,2,2,2,7.6,Unfurnished,0,107.53
+Sarjapur Road,634,1,1,0,3.9,Semi-Furnished,0,34.14
+Yelahanka,2891,5,6,1,4.4,Furnished,1,181.89
+Yelahanka,1262,2,2,2,0.2,Unfurnished,1,55.97
+Yelahanka,1004,2,2,2,2.2,Semi-Furnished,1,57.27
+Indiranagar,1414,3,4,1,2.5,Unfurnished,1,153.71
+HSR Layout,1181,2,2,2,4.9,Furnished,1,125.51
+Hebbal,1576,3,3,0,4.9,Furnished,1,122.8
+Electronic City,1472,3,4,0,7.4,Unfurnished,0,60.62
+Koramangala,1259,2,1,0,7.6,Furnished,1,141.76
+Koramangala,2068,4,5,0,1.6,Unfurnished,1,261.48
+HSR Layout,1055,2,1,1,8.8,Unfurnished,1,86.07
+Sarjapur Road,1053,2,3,1,0.1,Semi-Furnished,1,71.1
+Whitefield,1360,3,3,1,7.6,Unfurnished,0,70.24
+Jayanagar,1512,3,3,0,0.6,Semi-Furnished,1,154.08
+Indiranagar,1710,3,3,0,7.8,Semi-Furnished,1,195.18
+Sarjapur Road,1117,2,2,2,4.5,Unfurnished,0,59.72
+Electronic City,1505,3,2,1,3.4,Unfurnished,1,65.23
+HSR Layout,1026,2,3,2,7.0,Semi-Furnished,1,91.11
+Hebbal,2150,4,4,1,0.2,Unfurnished,0,132.99
+Hebbal,1162,2,3,3,1.5,Unfurnished,0,80.09
+HSR Layout,1591,3,3,3,5.7,Unfurnished,1,153.15
+Koramangala,550,1,1,1,11.3,Furnished,1,60.22
+HSR Layout,1099,2,3,1,2.9,Furnished,0,131.28
+Koramangala,1122,2,2,2,1.8,Unfurnished,1,112.3
+Indiranagar,1949,4,4,1,4.4,Unfurnished,1,188.77
+Jayanagar,1525,3,2,1,5.8,Semi-Furnished,1,136.11
+Koramangala,1776,4,5,0,3.3,Furnished,1,219.2
+Koramangala,1122,2,1,1,12.6,Unfurnished,1,91.71
+Yelahanka,1149,2,2,4,4.4,Furnished,1,62.47
+Sarjapur Road,712,1,1,1,0.2,Semi-Furnished,0,42.04
+Marathahalli,1441,3,3,3,1.5,Furnished,0,93.45
+Electronic City,1096,2,3,3,3.6,Unfurnished,1,49.54
+Electronic City,2314,4,5,1,7.2,Furnished,0,116.08
+Sarjapur Road,2312,4,5,2,1.5,Unfurnished,1,128.65
+Koramangala,2096,4,5,0,22.4,Furnished,1,204.86
+Electronic City,1521,3,2,2,2.3,Semi-Furnished,0,75.06
+Marathahalli,1667,3,3,3,4.6,Semi-Furnished,1,91.41
+Marathahalli,1275,3,3,0,0.1,Furnished,1,83.9
+Yelahanka,1002,2,3,2,13.0,Semi-Furnished,1,46.43
+Koramangala,1700,3,4,2,9.3,Semi-Furnished,0,186.04
+Whitefield,746,1,1,4,1.3,Unfurnished,0,46.77
+Sarjapur Road,1105,2,2,2,16.2,Semi-Furnished,1,57.63
+Koramangala,824,2,3,1,2.3,Furnished,1,104.93
+Yelahanka,1043,2,2,2,7.1,Unfurnished,1,50.58
+Hebbal,962,2,3,4,10.3,Semi-Furnished,1,76.31
+Marathahalli,1100,2,1,0,8.1,Furnished,1,61.92
+Koramangala,1379,3,2,2,15.0,Semi-Furnished,1,146.27
+Koramangala,446,1,1,0,12.0,Furnished,1,51.8
+Marathahalli,1190,3,3,0,31.3,Furnished,0,57.41
+BTM Layout,1233,2,2,2,1.2,Semi-Furnished,1,96.8
+Sarjapur Road,1440,3,2,1,2.2,Semi-Furnished,0,86.78
+Electronic City,1524,3,3,3,6.1,Furnished,1,77.77
+Indiranagar,1500,3,3,2,7.9,Furnished,0,181.32
+Sarjapur Road,1340,3,3,3,4.6,Furnished,1,86.3
+Hebbal,861,2,2,0,0.5,Unfurnished,1,59.87
+BTM Layout,1349,3,3,2,11.1,Unfurnished,1,87.09
+Indiranagar,942,2,2,2,19.4,Semi-Furnished,1,88.2
+Marathahalli,1105,2,1,0,3.1,Semi-Furnished,1,67.63
+Hebbal,1381,3,3,2,1.5,Unfurnished,0,91.5
+Yelahanka,862,1,2,2,0.1,Unfurnished,1,43.91
+HSR Layout,1654,3,2,2,1.6,Unfurnished,1,148.03
+Whitefield,1621,3,3,2,7.2,Semi-Furnished,1,95.28
+Marathahalli,1032,2,3,4,14.6,Furnished,1,65.76
+Koramangala,827,1,1,0,0.6,Furnished,1,100.97
+HSR Layout,567,1,1,3,4.8,Unfurnished,0,50.04
+Sarjapur Road,2095,4,3,2,7.1,Unfurnished,0,107.53
+HSR Layout,1525,3,2,0,1.9,Unfurnished,1,133.73
+JP Nagar,1155,2,2,0,5.1,Unfurnished,1,92.04
+Indiranagar,1146,2,2,1,7.5,Semi-Furnished,0,109.73
+Yelahanka,1429,3,2,1,10.9,Unfurnished,0,65.34
+Sarjapur Road,2020,4,5,4,3.6,Unfurnished,0,102.76
+Electronic City,696,1,1,1,8.3,Unfurnished,0,23.42
+Whitefield,1157,2,1,2,2.2,Unfurnished,1,65.84
+HSR Layout,2041,4,5,4,1.4,Unfurnished,1,160.21
+Electronic City,362,1,1,1,1.2,Semi-Furnished,1,16.63
+Hebbal,1019,2,2,2,2.7,Unfurnished,0,73.67
+BTM Layout,2194,4,5,4,0.2,Semi-Furnished,1,162.19
+HSR Layout,1771,3,3,0,2.0,Unfurnished,0,130.75
+Koramangala,870,2,2,3,6.3,Semi-Furnished,1,104.59
+HSR Layout,536,1,1,0,6.3,Furnished,1,53.14
+Hebbal,542,1,2,1,0.5,Semi-Furnished,1,41.39
+Whitefield,1253,2,3,0,2.0,Semi-Furnished,0,83.12
+Marathahalli,2095,4,4,1,5.1,Furnished,0,137.65
+Marathahalli,914,2,2,1,2.3,Unfurnished,1,55.0
+Yelahanka,1584,3,2,0,3.2,Unfurnished,0,78.76
+Koramangala,2039,4,3,1,7.5,Unfurnished,1,178.47
+Hebbal,866,2,1,0,0.1,Unfurnished,1,54.33
+Electronic City,916,2,3,1,1.9,Semi-Furnished,1,46.96
+Indiranagar,1760,3,3,1,0.9,Unfurnished,1,163.19
+BTM Layout,2158,4,5,2,0.8,Furnished,0,169.69
+Hebbal,1516,3,3,0,19.2,Unfurnished,1,81.51
+Whitefield,563,1,1,1,2.8,Furnished,0,36.6
+Koramangala,1544,3,4,1,4.5,Furnished,0,178.26
+Indiranagar,1542,3,2,2,7.9,Furnished,1,157.36
+Koramangala,2144,4,5,2,0.3,Furnished,0,243.22
+Koramangala,1067,2,1,3,1.7,Unfurnished,0,109.75
+Whitefield,1630,3,3,3,10.7,Semi-Furnished,1,91.61
+HSR Layout,2103,4,3,0,11.9,Unfurnished,1,166.75
+Hebbal,903,2,2,2,2.8,Furnished,1,61.48
+Marathahalli,958,2,2,0,2.8,Unfurnished,1,61.94
+Yelahanka,303,1,2,0,8.5,Unfurnished,1,15.33
+Electronic City,1354,2,3,2,2.1,Furnished,1,67.56
+Sarjapur Road,1179,2,3,1,0.7,Unfurnished,1,62.93
+JP Nagar,1975,4,4,1,1.8,Unfurnished,0,140.26
+JP Nagar,1008,2,2,1,2.9,Unfurnished,1,73.64
+JP Nagar,954,2,2,3,0.3,Semi-Furnished,1,70.09
+BTM Layout,1731,3,3,2,3.9,Semi-Furnished,0,102.66
+Jayanagar,837,2,2,0,8.1,Semi-Furnished,0,66.77
+Indiranagar,1067,2,3,2,4.3,Furnished,1,109.11
+Marathahalli,1484,3,4,0,0.4,Unfurnished,1,88.93
+Hebbal,2224,4,5,3,3.5,Semi-Furnished,1,168.0
+Hebbal,1484,3,3,1,7.4,Semi-Furnished,1,97.91
+Jayanagar,1236,3,3,3,0.4,Semi-Furnished,1,109.23
+Whitefield,1012,2,2,4,0.4,Unfurnished,1,68.36
+HSR Layout,1954,4,4,2,2.8,Unfurnished,1,184.31
+BTM Layout,1062,2,3,2,1.3,Unfurnished,1,74.49
+Marathahalli,1715,3,4,3,16.4,Unfurnished,0,98.76
+Jayanagar,789,2,3,2,5.2,Unfurnished,1,60.27
+Koramangala,1980,4,5,0,2.0,Unfurnished,1,198.82
+HSR Layout,1417,3,4,2,7.3,Unfurnished,1,123.59
+BTM Layout,1443,3,2,1,2.8,Unfurnished,0,86.91
+Yelahanka,1161,2,2,1,0.9,Semi-Furnished,1,69.93
+JP Nagar,1024,2,2,4,1.6,Furnished,0,86.99
+HSR Layout,1562,3,3,2,6.2,Unfurnished,1,128.35
+Yelahanka,1406,3,4,3,0.3,Semi-Furnished,1,79.55
+Koramangala,634,1,1,3,1.9,Furnished,1,78.95
+Hebbal,2917,5,6,1,1.4,Semi-Furnished,1,216.68
+HSR Layout,1990,4,5,0,1.3,Furnished,1,198.57
+HSR Layout,1167,2,2,2,6.9,Unfurnished,1,90.76
+Yelahanka,1508,3,2,2,10.5,Furnished,1,93.82
+Sarjapur Road,1657,3,2,1,7.5,Semi-Furnished,1,85.53
+Whitefield,1020,2,2,3,6.2,Unfurnished,1,65.42
+JP Nagar,1107,2,3,2,14.9,Furnished,0,79.5
+Koramangala,1494,3,2,0,0.4,Furnished,1,196.72
+HSR Layout,1486,3,3,2,1.1,Unfurnished,1,139.19
+Whitefield,1089,2,1,1,3.2,Furnished,0,76.01
+Koramangala,1581,3,4,1,2.8,Unfurnished,0,169.04
+Jayanagar,1313,3,3,3,3.2,Semi-Furnished,0,100.52
+Whitefield,1715,3,2,0,1.4,Unfurnished,1,97.45
+Jayanagar,321,1,1,3,1.0,Unfurnished,1,24.56
+BTM Layout,1997,4,3,1,4.3,Semi-Furnished,1,151.43
+Electronic City,1036,2,3,2,15.8,Unfurnished,1,36.59
+Hebbal,1112,2,2,1,3.0,Unfurnished,1,65.14
+HSR Layout,1286,2,1,4,0.3,Unfurnished,1,115.46
+Yelahanka,771,2,1,2,7.3,Unfurnished,1,30.64
+Koramangala,2024,4,4,1,2.1,Semi-Furnished,0,223.19
+Indiranagar,731,2,3,3,1.7,Unfurnished,1,66.27
+Indiranagar,1505,3,2,0,2.4,Furnished,1,161.96
+Electronic City,641,1,1,2,7.7,Unfurnished,1,22.08
+Indiranagar,1289,2,1,4,10.2,Unfurnished,1,130.47
+Yelahanka,2818,5,6,1,5.3,Unfurnished,1,123.33
+BTM Layout,1657,3,3,0,2.3,Semi-Furnished,1,122.84
+JP Nagar,1138,2,3,0,2.2,Unfurnished,1,74.68
+Yelahanka,1435,3,3,1,0.8,Semi-Furnished,0,69.59
+Electronic City,839,2,2,3,16.2,Unfurnished,1,35.81
+Koramangala,1091,2,3,1,6.1,Furnished,1,135.26
+Koramangala,1276,3,2,2,0.2,Unfurnished,1,128.3
+Koramangala,1694,3,2,2,6.5,Furnished,1,200.54
+Jayanagar,1026,2,2,3,3.6,Unfurnished,0,78.5
+Jayanagar,2279,4,5,1,21.6,Unfurnished,0,156.66
+HSR Layout,1428,3,4,3,10.3,Unfurnished,1,128.69
+Koramangala,1090,2,1,0,1.1,Unfurnished,0,107.65
+JP Nagar,1531,3,3,1,7.6,Semi-Furnished,0,113.53
+JP Nagar,1493,3,3,4,4.0,Furnished,1,129.81
+Koramangala,1435,3,3,2,1.2,Unfurnished,0,141.66
+BTM Layout,1109,2,2,4,7.2,Semi-Furnished,0,73.87
+Sarjapur Road,1361,3,3,3,4.8,Unfurnished,1,70.8
+Koramangala,869,2,3,1,0.2,Unfurnished,0,94.68
+Koramangala,1686,3,3,1,6.2,Unfurnished,0,172.39
+Jayanagar,1609,3,2,1,6.0,Furnished,0,136.41
+Sarjapur Road,1060,2,3,2,0.9,Unfurnished,1,59.18
+BTM Layout,1750,3,2,0,2.6,Semi-Furnished,1,125.81
+Electronic City,2060,4,4,0,5.3,Unfurnished,0,87.49
+HSR Layout,2298,4,4,2,0.9,Unfurnished,0,194.15
+Jayanagar,1076,2,2,1,11.5,Unfurnished,1,96.16
+Jayanagar,896,2,2,4,0.2,Unfurnished,0,74.47
+Indiranagar,1777,3,4,2,0.7,Unfurnished,1,192.81
+BTM Layout,749,1,1,1,0.7,Unfurnished,1,49.65
+Yelahanka,2082,4,4,1,4.5,Unfurnished,0,96.42
+JP Nagar,1159,2,2,0,5.8,Furnished,1,101.87
+BTM Layout,989,2,3,0,3.1,Unfurnished,1,65.49
+Hebbal,1174,2,1,1,2.0,Semi-Furnished,0,83.71
+HSR Layout,691,2,1,1,9.9,Unfurnished,1,62.52
+Marathahalli,1347,3,3,2,0.4,Furnished,1,90.16
+Indiranagar,1197,2,2,1,2.0,Unfurnished,0,105.22
+Yelahanka,1013,2,1,2,0.2,Unfurnished,1,56.86
+Indiranagar,1081,2,3,0,0.1,Furnished,0,113.37
+Hebbal,1298,3,3,1,2.6,Unfurnished,1,89.53
+Indiranagar,1327,2,2,2,1.3,Semi-Furnished,1,133.18
+Electronic City,1679,3,2,3,1.9,Semi-Furnished,0,70.08
+Indiranagar,1470,3,4,2,10.3,Unfurnished,1,142.99
+Whitefield,1439,3,4,2,1.1,Furnished,1,102.06
+Hebbal,2254,4,4,1,9.1,Furnished,1,176.72
+Hebbal,2397,4,3,1,6.7,Furnished,1,157.08
+Jayanagar,2243,4,4,1,2.4,Furnished,1,229.18
+Indiranagar,1376,2,3,3,4.7,Semi-Furnished,1,136.86
+Electronic City,912,2,2,1,3.5,Unfurnished,0,32.33
+Whitefield,927,2,3,2,0.8,Semi-Furnished,1,69.28
+Indiranagar,1922,4,5,0,14.3,Unfurnished,1,178.75
+BTM Layout,2866,5,4,0,5.1,Unfurnished,1,200.41
+Koramangala,2126,4,3,4,12.7,Semi-Furnished,1,237.96
+Koramangala,577,1,1,2,10.4,Furnished,1,67.36
+Electronic City,2221,4,5,3,0.5,Unfurnished,0,89.47
+Indiranagar,1235,2,2,4,1.4,Furnished,1,140.62
+Jayanagar,371,1,2,1,0.9,Unfurnished,0,29.34
+Marathahalli,960,2,2,0,10.7,Unfurnished,1,49.33
+Koramangala,723,1,2,0,11.9,Furnished,0,73.24
+Whitefield,1430,3,3,0,4.5,Furnished,0,87.94
+HSR Layout,930,2,3,3,0.7,Unfurnished,1,91.74
+Koramangala,1203,2,3,0,0.9,Unfurnished,1,132.23
+Indiranagar,1307,3,3,0,10.1,Unfurnished,1,114.52
+Sarjapur Road,2055,4,3,0,15.9,Furnished,1,110.31
+Marathahalli,1549,3,2,0,1.3,Unfurnished,1,86.74
+Jayanagar,964,2,2,1,0.1,Unfurnished,1,72.46
+HSR Layout,1617,3,4,2,2.4,Semi-Furnished,1,161.31
+HSR Layout,2015,4,5,2,0.2,Unfurnished,1,200.23
+Jayanagar,811,1,1,0,10.6,Unfurnished,1,73.78
+Hebbal,1481,3,3,1,4.1,Furnished,1,108.68
+Hebbal,1151,2,2,1,6.2,Furnished,1,95.63
+Indiranagar,712,1,1,1,3.2,Furnished,1,76.88
+Jayanagar,1406,3,3,1,2.5,Unfurnished,1,108.22
+HSR Layout,1792,4,5,1,1.5,Furnished,1,179.61
+BTM Layout,1104,2,2,0,8.8,Semi-Furnished,0,77.23
+Yelahanka,1511,3,2,2,7.1,Unfurnished,1,66.51
+Jayanagar,2183,4,5,2,2.7,Semi-Furnished,1,192.13
+Electronic City,2066,4,5,2,2.3,Unfurnished,0,84.2
+Marathahalli,985,2,2,1,0.0,Semi-Furnished,0,56.49
+Electronic City,2401,4,4,4,0.4,Semi-Furnished,1,106.48
+Koramangala,829,2,2,1,5.9,Semi-Furnished,1,75.11
+Indiranagar,1610,3,3,4,4.3,Unfurnished,1,154.53
+Hebbal,514,1,1,0,3.4,Semi-Furnished,0,36.35
+Indiranagar,550,1,1,0,10.5,Unfurnished,0,45.19
+HSR Layout,1452,3,4,1,4.2,Furnished,1,158.47
+BTM Layout,929,2,3,1,2.9,Semi-Furnished,0,75.72
+Indiranagar,1136,2,3,3,1.1,Unfurnished,1,113.66
+Jayanagar,1259,2,1,1,10.3,Unfurnished,0,103.55
+HSR Layout,1571,3,2,2,5.2,Semi-Furnished,1,172.14
+Whitefield,616,1,1,0,0.6,Semi-Furnished,0,45.2
+JP Nagar,1352,3,3,0,6.3,Semi-Furnished,1,95.19
+Whitefield,678,1,1,0,3.3,Unfurnished,1,36.52
+Jayanagar,1373,2,3,1,10.0,Semi-Furnished,1,114.98
+Marathahalli,993,2,1,4,15.1,Unfurnished,0,49.33
+Yelahanka,994,2,2,1,5.5,Semi-Furnished,0,54.73
+Hebbal,966,2,2,3,7.9,Furnished,0,74.69
+Koramangala,977,2,2,1,0.3,Semi-Furnished,1,102.26
+Whitefield,2388,5,6,0,4.9,Unfurnished,1,135.12
+Hebbal,1561,3,4,3,8.4,Furnished,1,121.76
+Jayanagar,473,1,1,1,4.1,Unfurnished,0,33.6
+JP Nagar,808,2,2,1,5.4,Semi-Furnished,1,62.58
+JP Nagar,2213,4,4,2,13.8,Semi-Furnished,1,145.96
+JP Nagar,888,2,2,0,1.3,Unfurnished,1,58.2
+Jayanagar,549,1,1,1,0.6,Unfurnished,1,43.51
+Koramangala,1720,3,3,2,7.0,Unfurnished,0,170.38
+JP Nagar,1289,3,3,2,10.4,Furnished,1,107.37
+HSR Layout,1270,3,2,3,11.4,Furnished,1,125.49
+Indiranagar,640,1,1,3,6.2,Semi-Furnished,1,69.41
+BTM Layout,1222,2,3,2,10.7,Unfurnished,1,86.86
+BTM Layout,1264,3,3,1,7.2,Furnished,0,98.37
+Jayanagar,1111,2,2,0,0.5,Semi-Furnished,1,102.39
+Electronic City,1587,3,3,1,8.6,Unfurnished,0,62.63
+HSR Layout,1191,3,3,0,1.2,Unfurnished,0,102.73
+JP Nagar,1170,2,2,1,1.6,Unfurnished,1,73.32
+BTM Layout,2231,4,4,4,3.0,Semi-Furnished,1,182.17
+Indiranagar,2053,4,4,1,2.3,Semi-Furnished,0,212.52
+Whitefield,1688,3,4,1,2.3,Semi-Furnished,0,96.85
+BTM Layout,770,1,2,1,1.1,Furnished,1,72.51
+HSR Layout,615,1,1,1,2.1,Unfurnished,0,51.01
+Jayanagar,982,2,3,2,0.1,Semi-Furnished,1,91.48
+Sarjapur Road,904,2,2,0,3.8,Unfurnished,0,50.72
+Whitefield,2794,5,5,0,8.8,Semi-Furnished,0,165.2
+Yelahanka,1135,2,2,2,11.9,Unfurnished,1,56.06
+Electronic City,1001,2,2,1,10.3,Unfurnished,1,39.13
+HSR Layout,720,2,2,0,3.2,Furnished,1,84.73
+JP Nagar,1690,3,3,2,7.9,Unfurnished,1,112.09
+HSR Layout,1079,2,2,1,2.0,Semi-Furnished,0,110.21
+Sarjapur Road,993,2,3,1,0.3,Furnished,1,56.34
+Jayanagar,1179,2,2,3,6.8,Semi-Furnished,1,94.77
+Koramangala,2329,4,4,0,6.3,Unfurnished,1,239.5
+Indiranagar,300,1,1,4,9.7,Unfurnished,1,26.57
+Koramangala,2165,4,3,4,5.7,Furnished,0,247.4
+HSR Layout,1886,4,5,0,1.0,Unfurnished,0,168.42
+Whitefield,1125,2,2,3,11.5,Semi-Furnished,1,61.0
+HSR Layout,1519,3,2,1,5.9,Semi-Furnished,0,126.81
+Jayanagar,695,1,2,1,9.9,Semi-Furnished,1,61.1
+Hebbal,2725,5,5,1,8.9,Semi-Furnished,0,174.6
+Yelahanka,1219,3,3,0,2.1,Unfurnished,1,65.45
+Hebbal,982,2,2,1,0.5,Semi-Furnished,0,69.82
+Whitefield,1111,2,2,3,1.2,Semi-Furnished,0,72.39
+Indiranagar,752,1,2,2,0.6,Unfurnished,1,77.76
+Yelahanka,2624,5,6,1,1.7,Unfurnished,1,126.25
+Jayanagar,754,1,1,1,3.7,Semi-Furnished,1,58.05
+Whitefield,1403,3,4,2,14.2,Semi-Furnished,0,86.05
+JP Nagar,1104,2,2,3,12.3,Semi-Furnished,1,74.98
+JP Nagar,2024,4,4,3,7.6,Semi-Furnished,1,149.38
+Jayanagar,1077,2,2,1,0.1,Semi-Furnished,1,98.07
+Whitefield,1634,3,2,1,2.5,Furnished,0,109.2
+JP Nagar,866,2,2,2,6.9,Semi-Furnished,1,70.62
+Marathahalli,1398,3,3,1,0.8,Unfurnished,1,80.93
+JP Nagar,628,1,1,4,9.7,Unfurnished,1,42.99
+Hebbal,1410,2,1,1,14.8,Semi-Furnished,0,96.36
+JP Nagar,921,2,1,1,2.6,Furnished,1,83.04
+Jayanagar,1806,3,2,1,7.3,Unfurnished,0,132.26
+Indiranagar,1351,2,2,1,1.0,Semi-Furnished,1,131.52
+Yelahanka,1485,3,4,2,7.0,Unfurnished,1,67.26
+Marathahalli,1005,2,1,2,0.1,Unfurnished,1,58.28
+Hebbal,1996,4,4,2,1.0,Semi-Furnished,1,136.01
+Indiranagar,2090,4,4,1,7.4,Unfurnished,0,187.98
+Indiranagar,1289,3,4,0,7.5,Semi-Furnished,1,130.68
+BTM Layout,1039,2,2,1,6.1,Furnished,1,68.79
+Hebbal,1275,2,2,1,3.9,Furnished,1,91.57
+BTM Layout,508,1,1,3,6.7,Unfurnished,1,27.53
+Hebbal,1014,2,2,0,8.9,Semi-Furnished,1,69.17
+Marathahalli,1245,3,2,2,20.4,Furnished,1,76.98
+Yelahanka,1556,3,2,1,13.2,Unfurnished,1,60.28
+BTM Layout,2140,4,4,1,9.5,Unfurnished,1,128.76
+Marathahalli,1060,2,3,4,7.1,Furnished,1,69.28
+Yelahanka,1467,3,2,4,5.1,Unfurnished,1,65.01
+Indiranagar,1006,2,2,0,0.8,Furnished,1,107.82
+Jayanagar,1575,3,3,1,1.1,Semi-Furnished,0,143.5
+Hebbal,1046,2,3,0,10.3,Unfurnished,0,63.32
+Koramangala,1097,2,2,2,9.8,Unfurnished,0,92.39
+Indiranagar,1082,2,1,1,5.7,Unfurnished,1,87.12
+Koramangala,1669,3,4,0,3.5,Unfurnished,1,202.67
+Koramangala,2202,4,3,1,0.2,Semi-Furnished,0,261.31
+Indiranagar,1079,2,3,3,2.4,Semi-Furnished,1,111.54
+HSR Layout,828,1,1,1,3.3,Semi-Furnished,0,77.09
+BTM Layout,1113,2,2,1,4.0,Unfurnished,1,74.67
+Jayanagar,1696,3,4,1,15.9,Furnished,1,157.37
+Indiranagar,1141,2,2,2,0.7,Semi-Furnished,1,113.83
+Electronic City,1224,3,2,3,4.4,Furnished,0,56.3
+Hebbal,2996,5,5,1,2.8,Furnished,1,248.5
+HSR Layout,2120,4,3,0,27.7,Unfurnished,1,166.4
+JP Nagar,1042,2,3,2,11.9,Unfurnished,1,75.75
+Yelahanka,2142,4,5,2,3.5,Furnished,1,135.9
+JP Nagar,1448,3,3,1,40.0,Semi-Furnished,1,77.89
+Koramangala,1084,2,2,2,4.3,Unfurnished,1,106.19
+Hebbal,1411,3,4,1,1.1,Semi-Furnished,1,92.79
+Koramangala,2291,4,3,0,4.9,Unfurnished,1,234.68
+Sarjapur Road,1033,2,1,0,1.5,Unfurnished,0,56.57
+Yelahanka,993,2,3,0,6.1,Semi-Furnished,1,50.85
+Koramangala,911,2,1,0,16.6,Unfurnished,1,79.25
+Koramangala,1540,3,4,1,9.3,Furnished,1,197.84
+Indiranagar,1078,2,2,3,1.9,Furnished,1,129.24
+Hebbal,2158,4,3,2,2.1,Semi-Furnished,1,174.34
+Indiranagar,1346,3,3,3,0.4,Unfurnished,1,123.71
+Marathahalli,1260,3,3,1,2.0,Unfurnished,1,68.63
+Koramangala,694,1,1,3,0.6,Unfurnished,1,79.44
+Yelahanka,1723,3,3,2,4.2,Semi-Furnished,0,86.03
+JP Nagar,896,2,2,2,7.4,Unfurnished,1,60.61
+JP Nagar,838,1,1,0,8.3,Semi-Furnished,1,61.06
+Hebbal,1543,3,2,0,0.4,Unfurnished,1,107.09
+Indiranagar,1049,2,2,2,2.5,Furnished,0,123.33
+Electronic City,1440,3,4,1,2.0,Furnished,1,73.66
+Hebbal,392,1,1,0,0.7,Semi-Furnished,0,29.77
+HSR Layout,1198,2,1,1,2.7,Semi-Furnished,0,115.04
+HSR Layout,934,2,1,1,2.1,Unfurnished,1,78.88
+Whitefield,2683,5,5,1,6.0,Unfurnished,0,139.03
+Koramangala,1649,3,2,2,12.9,Furnished,1,179.28
+Whitefield,1218,3,3,2,3.6,Semi-Furnished,1,69.85
+BTM Layout,821,2,2,3,8.2,Unfurnished,0,51.03
+Koramangala,597,1,1,2,0.9,Semi-Furnished,1,75.1
+Jayanagar,2844,5,4,0,13.5,Furnished,0,244.93
+Whitefield,1123,2,3,1,1.0,Unfurnished,1,64.86
+Yelahanka,1005,2,3,3,1.3,Unfurnished,0,55.22
+Koramangala,1880,3,3,2,0.7,Furnished,0,210.35
+BTM Layout,566,1,1,0,2.2,Semi-Furnished,1,40.19
+BTM Layout,1465,3,3,2,4.8,Unfurnished,1,109.79
+Koramangala,1380,3,3,2,26.5,Unfurnished,1,120.7
+BTM Layout,1069,2,2,1,9.5,Furnished,0,79.69
+Sarjapur Road,692,1,1,1,2.9,Furnished,0,45.58
+JP Nagar,1231,2,1,3,5.1,Unfurnished,1,90.28
+JP Nagar,1877,4,3,0,5.9,Unfurnished,1,122.8
+Koramangala,1463,3,2,0,10.4,Unfurnished,1,118.4
+Marathahalli,1117,2,3,3,8.0,Unfurnished,1,59.64
+Whitefield,688,1,1,2,5.1,Unfurnished,0,41.18
+Electronic City,1501,3,3,2,6.6,Unfurnished,0,57.92
+Sarjapur Road,1581,3,3,0,8.2,Unfurnished,1,85.64
+Koramangala,929,2,3,0,0.9,Furnished,0,114.69
+Hebbal,1284,2,3,0,1.3,Unfurnished,0,76.54
+JP Nagar,1199,2,2,1,7.0,Unfurnished,0,79.18
+BTM Layout,1298,3,4,1,11.4,Unfurnished,1,88.51
+Sarjapur Road,2639,5,5,2,3.2,Semi-Furnished,0,141.7
+Koramangala,893,2,1,0,23.4,Unfurnished,1,75.04
+Whitefield,1602,3,3,0,1.5,Semi-Furnished,1,105.94
+HSR Layout,857,2,2,2,3.2,Semi-Furnished,0,79.77
+Indiranagar,1000,2,2,3,2.9,Furnished,1,122.22
+Whitefield,1118,2,2,1,16.0,Semi-Furnished,1,65.22
+HSR Layout,1490,3,4,3,2.0,Unfurnished,1,127.71
+JP Nagar,1089,2,3,2,3.8,Unfurnished,0,74.95
+Marathahalli,1340,3,4,2,1.2,Semi-Furnished,0,81.99
+Koramangala,1139,2,2,2,4.4,Unfurnished,1,127.49
+Yelahanka,958,2,1,1,11.7,Unfurnished,1,41.91
+Indiranagar,551,1,1,1,2.2,Furnished,0,53.32
+Whitefield,1536,3,4,2,10.0,Furnished,1,105.76
+Hebbal,1065,2,1,4,14.5,Furnished,1,73.31
+Marathahalli,1504,3,4,2,0.5,Furnished,0,91.88
+Hebbal,937,2,3,3,8.5,Semi-Furnished,1,67.12
+Whitefield,1005,2,2,1,1.8,Semi-Furnished,0,66.27
+JP Nagar,1050,2,2,2,1.2,Unfurnished,1,74.74
+Marathahalli,844,2,3,1,5.5,Furnished,0,56.27
+Marathahalli,531,1,1,0,7.3,Unfurnished,1,30.51
+Marathahalli,1108,2,3,0,3.0,Semi-Furnished,0,70.41
+BTM Layout,1308,3,3,2,0.2,Unfurnished,1,88.91
+Marathahalli,1673,3,2,0,14.4,Unfurnished,0,76.39
+Marathahalli,1240,2,3,2,7.9,Semi-Furnished,1,69.39
+Sarjapur Road,863,2,2,0,1.9,Unfurnished,0,48.43
+Hebbal,1254,2,1,0,4.1,Semi-Furnished,0,91.86
+HSR Layout,1028,2,1,1,0.2,Semi-Furnished,0,91.01
+Hebbal,663,1,1,1,2.5,Semi-Furnished,0,54.03
+HSR Layout,2026,4,3,1,4.4,Unfurnished,1,165.41
+Indiranagar,1188,2,2,3,4.4,Unfurnished,1,121.17
+Marathahalli,1111,2,1,2,1.4,Furnished,1,83.53
+BTM Layout,928,2,1,3,9.0,Unfurnished,1,62.27
+BTM Layout,875,2,2,0,2.1,Unfurnished,0,56.16
+Koramangala,1281,3,3,1,5.2,Semi-Furnished,0,128.16
+Jayanagar,628,1,1,1,1.9,Furnished,1,61.09
+Indiranagar,1136,2,3,2,3.3,Semi-Furnished,1,129.48
+Sarjapur Road,1598,3,3,2,1.4,Unfurnished,1,81.29
+Sarjapur Road,1032,2,1,0,6.0,Furnished,1,56.73
+Yelahanka,1326,3,3,0,3.3,Furnished,0,74.98
+JP Nagar,1398,3,3,0,0.1,Semi-Furnished,0,113.04
+Hebbal,1223,2,2,2,0.2,Semi-Furnished,1,104.55
+Marathahalli,1427,3,2,0,3.8,Semi-Furnished,1,78.61
+Whitefield,622,1,1,0,1.2,Semi-Furnished,0,38.22
+HSR Layout,1339,3,4,1,5.3,Semi-Furnished,1,139.79
+Yelahanka,1100,2,2,1,3.1,Furnished,1,63.72
+Yelahanka,981,2,1,1,6.4,Furnished,1,54.08
+HSR Layout,1657,3,3,2,18.3,Semi-Furnished,1,147.53
+Sarjapur Road,2216,4,4,2,4.5,Furnished,0,130.41
+Indiranagar,2726,5,6,4,9.3,Unfurnished,1,269.43
+Jayanagar,1481,3,3,2,8.4,Unfurnished,1,107.47
+Hebbal,967,2,1,1,15.3,Semi-Furnished,1,57.07
+Hebbal,837,2,2,2,1.4,Semi-Furnished,0,58.74
+Yelahanka,921,2,1,1,10.5,Unfurnished,1,34.56
+Koramangala,1080,2,2,0,14.2,Semi-Furnished,0,106.08
+Indiranagar,1099,2,2,0,3.0,Unfurnished,0,89.54
+Yelahanka,2122,4,4,2,2.3,Semi-Furnished,1,114.52
+Marathahalli,1005,2,3,1,18.2,Furnished,1,60.97
+Indiranagar,1190,2,2,1,5.9,Semi-Furnished,1,120.41
+Hebbal,1060,2,1,0,2.9,Unfurnished,1,74.35
+HSR Layout,2205,4,4,0,9.4,Furnished,1,223.37
+Yelahanka,1234,3,2,2,2.2,Semi-Furnished,1,64.02
+JP Nagar,912,3,4,0,1.2,Furnished,1,91.84
+Indiranagar,1093,2,2,2,4.7,Semi-Furnished,1,115.33
+Whitefield,1286,3,3,0,5.0,Furnished,1,92.62
+JP Nagar,568,1,1,0,10.5,Furnished,1,49.43
+Marathahalli,2055,4,4,2,3.7,Semi-Furnished,1,131.3
+Hebbal,1738,3,4,0,10.1,Unfurnished,1,129.94
+JP Nagar,1110,2,3,2,2.2,Semi-Furnished,1,91.0
+JP Nagar,1075,2,1,2,5.1,Semi-Furnished,1,83.35
+Sarjapur Road,1626,3,3,2,1.4,Semi-Furnished,1,93.08
+Jayanagar,655,1,1,1,2.9,Unfurnished,1,53.58
+Jayanagar,2031,4,4,3,11.7,Unfurnished,1,148.96
+HSR Layout,1211,2,1,1,1.5,Semi-Furnished,0,119.1
+Indiranagar,884,2,1,0,10.0,Furnished,0,85.35
+Marathahalli,1098,2,1,1,2.0,Semi-Furnished,1,68.31
+Koramangala,818,2,3,1,0.2,Unfurnished,0,88.3
+BTM Layout,1081,2,3,4,0.7,Unfurnished,1,79.51
+Marathahalli,1079,2,2,2,8.2,Unfurnished,1,55.04
+Marathahalli,1751,3,3,1,1.8,Unfurnished,1,105.43
+Koramangala,815,2,1,0,6.4,Unfurnished,0,78.4
+Whitefield,2710,5,6,0,7.2,Semi-Furnished,1,135.58
+Whitefield,1623,3,3,3,2.5,Furnished,1,105.42
+HSR Layout,1550,3,2,1,3.9,Unfurnished,1,150.91
+Electronic City,627,1,1,1,3.1,Semi-Furnished,1,31.84
+Marathahalli,907,2,1,1,17.7,Semi-Furnished,1,50.77
+BTM Layout,961,2,2,0,2.3,Furnished,1,84.26
+BTM Layout,1687,3,3,3,1.2,Furnished,1,133.77
+Yelahanka,2092,4,3,2,2.7,Unfurnished,1,100.32
+Indiranagar,656,1,1,3,6.6,Unfurnished,1,66.7
+BTM Layout,583,1,1,2,7.2,Unfurnished,1,40.6
+BTM Layout,1923,4,3,0,15.5,Semi-Furnished,1,131.15
+Indiranagar,1190,2,1,4,12.8,Semi-Furnished,1,112.48
+Hebbal,1575,3,4,1,2.0,Unfurnished,0,114.62
+Koramangala,1846,3,3,1,3.6,Furnished,1,242.04
+JP Nagar,1948,4,5,1,8.3,Semi-Furnished,1,156.84
+Sarjapur Road,1173,2,2,1,14.9,Furnished,1,68.79
+Whitefield,853,2,2,0,2.5,Unfurnished,0,47.27
+BTM Layout,1524,3,3,1,3.5,Unfurnished,0,107.17
+Marathahalli,2246,4,4,0,13.8,Unfurnished,1,107.39
+Sarjapur Road,739,2,3,3,2.7,Unfurnished,1,38.82
+Jayanagar,1019,2,1,0,3.9,Semi-Furnished,0,78.55
+JP Nagar,1416,3,3,3,14.1,Unfurnished,1,102.2
+Whitefield,1995,4,3,0,9.7,Semi-Furnished,1,113.83
+Koramangala,2158,4,4,0,1.7,Unfurnished,1,232.19
+Whitefield,2968,5,6,1,2.4,Unfurnished,1,177.53
+Sarjapur Road,580,1,1,1,2.6,Furnished,0,43.53
+JP Nagar,631,1,1,1,14.6,Furnished,1,50.77
+BTM Layout,1517,3,3,1,40.0,Unfurnished,1,64.38
+Sarjapur Road,1500,3,3,2,8.9,Furnished,1,99.92
+Electronic City,887,2,1,4,4.0,Semi-Furnished,0,37.89
+HSR Layout,1216,2,1,0,0.1,Unfurnished,1,109.64
+Electronic City,1544,3,3,2,7.2,Furnished,0,68.72
+Indiranagar,659,1,1,1,3.0,Unfurnished,1,64.42
+Indiranagar,929,2,1,3,6.0,Unfurnished,1,88.5
+Jayanagar,1431,3,3,1,5.6,Semi-Furnished,1,120.21
+Koramangala,1474,3,4,1,3.9,Unfurnished,0,143.29
+Electronic City,1270,3,4,1,17.3,Unfurnished,1,49.1
+Indiranagar,797,2,2,2,0.1,Unfurnished,1,65.78
+Indiranagar,1410,3,4,0,7.5,Semi-Furnished,1,129.7
+Sarjapur Road,1578,3,2,2,3.2,Semi-Furnished,0,100.16
+Hebbal,1402,3,2,1,7.5,Unfurnished,0,90.32
+Sarjapur Road,1347,3,3,3,6.7,Furnished,0,78.25
+HSR Layout,928,2,2,4,0.1,Unfurnished,1,74.79
+Koramangala,532,1,1,1,2.0,Semi-Furnished,1,59.74
+JP Nagar,547,1,2,2,1.3,Furnished,0,50.14
+Koramangala,1375,2,1,1,1.1,Furnished,1,202.12
+Koramangala,1658,3,3,1,7.8,Semi-Furnished,1,201.69
+Indiranagar,2254,4,5,0,1.6,Semi-Furnished,1,227.14
+Indiranagar,1675,3,4,3,3.9,Unfurnished,1,157.86
+Koramangala,1350,3,4,2,1.7,Semi-Furnished,1,139.58
+Koramangala,867,2,2,1,5.2,Unfurnished,1,82.95
+Yelahanka,884,2,2,4,7.7,Unfurnished,1,40.79
+Whitefield,1250,2,2,1,2.4,Unfurnished,1,72.05
+Indiranagar,968,2,2,1,5.5,Unfurnished,1,104.58
+JP Nagar,412,1,1,0,10.5,Semi-Furnished,1,27.71
+Indiranagar,1435,3,3,1,0.6,Furnished,1,165.97
+Koramangala,2764,5,6,2,7.4,Unfurnished,1,240.72
+BTM Layout,1090,2,3,2,2.3,Unfurnished,1,80.13
+Indiranagar,638,1,1,2,0.8,Semi-Furnished,1,61.29
+Electronic City,1376,3,3,0,4.7,Semi-Furnished,1,67.29
+Jayanagar,1153,2,3,0,1.5,Unfurnished,0,93.34
+Koramangala,1404,3,4,0,10.3,Unfurnished,1,125.72
+Marathahalli,1477,3,4,0,0.3,Semi-Furnished,1,80.62
+JP Nagar,2203,4,5,2,0.6,Furnished,1,184.06
+Indiranagar,954,2,2,0,4.4,Unfurnished,0,88.91
+Marathahalli,1415,3,3,2,5.3,Unfurnished,1,81.24
+Jayanagar,1139,2,3,1,7.9,Semi-Furnished,0,93.02
+Indiranagar,1371,3,4,1,1.8,Unfurnished,1,145.0
+Marathahalli,992,2,3,0,11.1,Unfurnished,0,47.53
+Koramangala,1133,2,3,2,18.4,Semi-Furnished,1,89.78
+Jayanagar,1808,3,2,3,4.1,Furnished,1,179.45
+Electronic City,1591,3,4,1,8.6,Unfurnished,1,71.97
+HSR Layout,1571,3,4,1,4.5,Semi-Furnished,1,166.57
+Koramangala,1580,3,4,4,0.4,Unfurnished,0,148.95
+JP Nagar,1339,3,2,1,2.4,Furnished,1,111.62
+Whitefield,617,1,1,3,0.5,Unfurnished,1,38.95
+HSR Layout,1496,3,2,4,27.0,Semi-Furnished,0,106.58
+HSR Layout,1548,3,4,0,1.6,Furnished,1,169.58
+Hebbal,2117,4,4,3,6.1,Furnished,1,157.27
+Marathahalli,2157,4,5,0,2.0,Semi-Furnished,0,120.95
+Yelahanka,553,1,1,1,6.4,Unfurnished,0,23.6
+JP Nagar,1509,3,4,0,1.4,Unfurnished,0,116.91
+BTM Layout,416,1,2,0,9.2,Unfurnished,1,28.24
+Koramangala,1002,2,2,2,0.7,Semi-Furnished,0,119.53
+Jayanagar,1709,3,3,2,13.5,Semi-Furnished,0,139.92
+JP Nagar,1098,2,3,2,11.0,Furnished,1,100.4
+Sarjapur Road,1497,3,2,0,6.8,Unfurnished,1,84.05
+BTM Layout,884,1,1,2,0.4,Semi-Furnished,1,71.92
+HSR Layout,846,2,1,1,1.4,Furnished,1,89.58
+Indiranagar,1334,3,2,0,11.8,Furnished,0,163.95
+Jayanagar,1757,3,3,1,0.8,Semi-Furnished,0,155.82
+Hebbal,2107,4,4,1,1.0,Semi-Furnished,0,130.35
+Jayanagar,1464,3,2,0,4.7,Semi-Furnished,1,132.2
+Jayanagar,1320,3,3,0,1.9,Unfurnished,1,103.24
+JP Nagar,1117,2,2,1,1.5,Unfurnished,1,88.52
+HSR Layout,682,1,1,3,5.1,Semi-Furnished,1,67.94
+BTM Layout,886,2,3,3,2.8,Unfurnished,1,62.55
+HSR Layout,1479,3,2,4,0.9,Semi-Furnished,1,136.11
+Koramangala,1450,3,4,1,4.6,Semi-Furnished,1,164.88
+HSR Layout,1088,2,2,0,2.9,Semi-Furnished,1,100.33
+Hebbal,1332,3,3,2,8.0,Unfurnished,1,91.66
+Indiranagar,1688,3,3,1,0.7,Unfurnished,1,172.3
+Indiranagar,737,1,1,4,5.8,Unfurnished,1,83.71
+Sarjapur Road,996,2,2,2,3.4,Unfurnished,1,52.72
+Indiranagar,2068,4,4,1,3.1,Furnished,0,221.27
+Marathahalli,1480,3,3,0,1.6,Unfurnished,0,80.93
+Marathahalli,1983,4,4,2,0.2,Unfurnished,1,114.41
+Jayanagar,533,1,2,2,11.3,Unfurnished,1,45.2
+Yelahanka,2759,5,5,1,2.4,Semi-Furnished,1,143.07
+Indiranagar,1292,2,3,1,6.9,Semi-Furnished,1,151.2
+Jayanagar,742,1,1,3,17.7,Unfurnished,1,56.53
+HSR Layout,2940,5,4,0,5.0,Furnished,0,283.11
+Yelahanka,1105,2,3,3,3.0,Furnished,1,61.44
+Indiranagar,1332,3,4,2,1.9,Unfurnished,1,141.83
+Marathahalli,1044,2,2,0,16.3,Semi-Furnished,1,57.22
+Indiranagar,1646,3,4,2,6.9,Semi-Furnished,0,162.85
+Koramangala,1911,4,3,0,6.6,Unfurnished,1,183.97
+Indiranagar,1145,2,2,0,3.3,Furnished,1,129.41
+Indiranagar,1848,3,2,1,11.2,Unfurnished,0,152.68
+JP Nagar,1209,2,2,1,7.5,Unfurnished,1,93.21
+Koramangala,1712,3,2,1,2.0,Unfurnished,1,187.67
+BTM Layout,1083,2,1,3,5.5,Semi-Furnished,1,79.26
+Sarjapur Road,1195,2,3,1,3.4,Furnished,1,77.54
+Marathahalli,942,2,1,2,0.0,Unfurnished,0,53.09
+Indiranagar,1169,2,2,2,9.9,Unfurnished,0,102.22
+HSR Layout,2198,4,4,1,0.8,Semi-Furnished,1,201.4
+JP Nagar,1093,2,2,3,4.3,Unfurnished,0,65.88
+HSR Layout,1247,2,2,0,2.5,Unfurnished,1,105.6
+Electronic City,969,2,3,1,2.5,Unfurnished,1,41.93
+Jayanagar,1022,2,2,3,3.9,Unfurnished,1,80.08
+JP Nagar,1514,3,2,1,34.9,Unfurnished,1,86.4
+JP Nagar,2646,5,5,1,3.1,Unfurnished,0,182.81
+Indiranagar,1084,2,3,3,1.2,Unfurnished,1,122.38
+Yelahanka,1842,4,4,0,5.7,Semi-Furnished,1,91.06
+Indiranagar,1657,3,2,0,1.6,Unfurnished,1,163.21
+Indiranagar,1057,2,1,0,0.7,Furnished,1,120.06
+BTM Layout,1422,3,4,1,0.3,Unfurnished,0,102.91
+Koramangala,1375,3,3,3,0.1,Semi-Furnished,0,162.64
+Koramangala,1465,3,3,0,3.4,Furnished,1,185.99
+Whitefield,2203,4,4,1,3.3,Unfurnished,1,110.99
+BTM Layout,1132,2,1,1,1.2,Semi-Furnished,0,86.47
+JP Nagar,1994,4,3,1,9.2,Furnished,1,151.67
+Marathahalli,1373,3,2,2,0.8,Unfurnished,1,77.73
+Hebbal,1149,2,2,2,14.8,Furnished,1,87.31
+Indiranagar,1392,3,3,1,5.3,Unfurnished,0,116.71
+HSR Layout,1059,2,1,4,0.2,Unfurnished,1,104.59
+Koramangala,2819,5,6,0,19.8,Semi-Furnished,0,259.98
+Electronic City,1547,3,3,0,2.2,Unfurnished,1,76.47
+Jayanagar,729,1,1,2,3.6,Semi-Furnished,0,63.0
+BTM Layout,861,2,2,3,2.0,Furnished,1,80.3
+Whitefield,1213,3,4,1,7.8,Furnished,1,89.49
+Koramangala,515,1,1,1,4.0,Semi-Furnished,1,54.67
+Indiranagar,870,1,1,3,0.9,Furnished,1,91.52
+Koramangala,1353,2,3,0,0.7,Unfurnished,0,141.09
+BTM Layout,1325,2,1,1,7.8,Unfurnished,1,85.51
+Jayanagar,1021,2,1,1,1.6,Semi-Furnished,1,103.1
+Jayanagar,783,2,2,1,0.9,Semi-Furnished,0,67.65
+Hebbal,699,2,2,0,4.2,Semi-Furnished,1,49.77
+Indiranagar,1408,3,3,3,9.7,Semi-Furnished,1,125.04
+Jayanagar,1470,3,4,3,2.0,Unfurnished,1,129.52
+HSR Layout,1245,2,3,1,1.9,Semi-Furnished,1,113.45
+Marathahalli,1180,2,2,1,10.8,Furnished,0,73.44
+Sarjapur Road,1534,3,2,2,1.0,Semi-Furnished,1,96.04
+JP Nagar,467,1,1,1,5.8,Unfurnished,1,31.6
+HSR Layout,906,2,2,0,18.6,Semi-Furnished,0,78.2
+JP Nagar,638,1,1,2,11.0,Unfurnished,1,42.73
+Indiranagar,1605,3,3,4,0.4,Furnished,1,167.31
+Whitefield,1559,3,4,1,2.3,Unfurnished,0,100.33
+Indiranagar,1345,3,3,1,0.9,Unfurnished,1,123.4
+Koramangala,1598,3,4,0,17.9,Unfurnished,1,153.4
+Jayanagar,1564,3,2,2,25.6,Unfurnished,1,109.22
+Marathahalli,889,2,1,1,1.6,Semi-Furnished,0,54.52
+BTM Layout,1382,3,3,1,6.6,Unfurnished,1,96.38
+Jayanagar,703,1,1,2,11.1,Furnished,0,57.77
+Jayanagar,1465,3,4,4,1.6,Semi-Furnished,1,151.95
+Whitefield,1738,3,3,2,1.2,Unfurnished,1,110.78
+Whitefield,1575,3,3,1,0.1,Semi-Furnished,1,105.93
+Jayanagar,977,2,1,0,3.2,Semi-Furnished,1,79.5
+HSR Layout,1048,2,3,0,13.8,Semi-Furnished,1,87.56
+JP Nagar,1510,3,3,0,14.0,Semi-Furnished,1,113.43
+Indiranagar,1391,3,2,4,0.8,Unfurnished,1,117.4
+Whitefield,1963,4,5,2,1.4,Semi-Furnished,1,132.04
+HSR Layout,1155,2,3,0,3.1,Unfurnished,1,95.35
+Koramangala,1627,3,3,1,9.1,Semi-Furnished,1,162.33
+Whitefield,1591,3,3,1,5.7,Furnished,1,97.4
+Hebbal,2327,4,4,0,4.3,Unfurnished,1,159.26
+Electronic City,1419,3,4,0,5.4,Semi-Furnished,1,70.43
+Marathahalli,1751,3,4,1,0.6,Unfurnished,0,101.96
+Koramangala,1365,3,2,0,3.9,Unfurnished,1,144.78
+Indiranagar,1348,3,4,2,29.0,Semi-Furnished,1,114.0
+HSR Layout,2536,5,4,2,0.6,Semi-Furnished,1,261.38
+JP Nagar,533,1,1,1,4.4,Unfurnished,1,39.77
+HSR Layout,524,1,1,1,2.1,Unfurnished,0,36.72
+Hebbal,2179,4,5,0,4.7,Furnished,0,179.84
+Indiranagar,1537,3,4,1,5.1,Unfurnished,1,156.91
+JP Nagar,1321,3,2,1,5.2,Unfurnished,0,88.84
+Koramangala,991,2,2,1,11.5,Furnished,0,93.34
+Yelahanka,544,1,2,2,3.0,Furnished,1,32.44
+Marathahalli,1234,3,3,3,4.4,Unfurnished,1,70.92
+BTM Layout,1353,3,3,1,0.1,Furnished,1,110.95
+HSR Layout,934,2,2,1,9.4,Unfurnished,1,80.08
+Whitefield,1265,2,3,1,1.8,Unfurnished,0,79.29
+Whitefield,2129,4,4,1,10.2,Furnished,1,162.53
+JP Nagar,699,1,2,2,1.9,Furnished,0,60.27
+Jayanagar,1875,4,5,1,0.1,Unfurnished,0,160.36
+JP Nagar,1229,2,2,1,1.0,Unfurnished,1,86.03
+Koramangala,1695,3,4,1,25.5,Unfurnished,0,135.45
+Koramangala,1800,4,4,1,2.3,Unfurnished,1,185.65
+Whitefield,1394,3,4,1,0.7,Semi-Furnished,1,99.7
+Sarjapur Road,1124,2,1,1,0.8,Semi-Furnished,0,68.87
+Yelahanka,1597,3,3,2,2.2,Semi-Furnished,1,96.01
+BTM Layout,948,2,1,2,0.2,Semi-Furnished,1,65.7
+Koramangala,1004,2,3,2,4.3,Furnished,1,112.31
+Marathahalli,2710,5,6,3,1.4,Unfurnished,1,171.46
+Yelahanka,1517,3,4,4,4.4,Semi-Furnished,0,85.24
+Koramangala,1680,3,2,0,0.9,Furnished,1,209.26
+JP Nagar,934,2,3,1,3.4,Unfurnished,1,47.7
+Sarjapur Road,750,1,1,1,5.5,Furnished,1,45.04
+BTM Layout,483,1,1,1,0.4,Semi-Furnished,1,38.19
+Hebbal,1373,3,4,3,3.1,Unfurnished,1,89.17
+Koramangala,1623,3,4,2,2.2,Unfurnished,0,168.03
+Koramangala,1638,3,3,1,1.6,Semi-Furnished,1,209.88
+Sarjapur Road,2228,4,4,2,5.6,Semi-Furnished,1,141.97
+Whitefield,403,1,1,1,5.3,Semi-Furnished,1,26.56
+Hebbal,980,2,1,2,6.0,Unfurnished,1,64.72
+Hebbal,1173,2,1,3,1.0,Semi-Furnished,1,84.54
+Marathahalli,1056,2,3,0,2.0,Unfurnished,0,62.5
+Sarjapur Road,439,1,1,0,1.4,Unfurnished,1,24.42
+Koramangala,2169,4,5,2,4.7,Unfurnished,1,226.81
+Koramangala,943,2,3,1,3.7,Semi-Furnished,0,91.66
+Electronic City,2369,4,5,0,2.4,Unfurnished,0,94.56
+HSR Layout,1282,2,1,1,9.3,Unfurnished,1,114.32
+Koramangala,2891,5,5,0,0.6,Unfurnished,1,281.68
+Koramangala,1704,3,4,2,22.1,Unfurnished,1,154.6
+JP Nagar,2110,4,3,2,0.7,Unfurnished,0,155.43
+Sarjapur Road,715,1,1,1,8.9,Semi-Furnished,1,41.61
+Indiranagar,1722,3,3,2,2.8,Semi-Furnished,1,186.67
+HSR Layout,2137,4,5,1,12.0,Semi-Furnished,1,203.32
+BTM Layout,1012,2,3,1,0.5,Semi-Furnished,1,76.2
+Whitefield,344,1,1,2,2.8,Unfurnished,1,18.2
+Electronic City,1038,2,2,1,2.5,Furnished,1,49.22
+Indiranagar,2224,4,5,2,29.9,Unfurnished,1,179.23
+Marathahalli,1642,3,2,1,25.4,Semi-Furnished,1,75.38
+Indiranagar,1576,3,4,1,1.3,Furnished,1,171.95
+Sarjapur Road,969,2,2,3,6.0,Semi-Furnished,1,51.85
+HSR Layout,303,1,1,1,4.6,Unfurnished,1,23.26
+Jayanagar,1426,3,2,0,1.0,Unfurnished,1,110.95
+Koramangala,554,1,2,1,1.1,Unfurnished,1,63.58
+Jayanagar,1453,3,3,2,27.2,Semi-Furnished,1,99.45
+Yelahanka,2193,4,5,3,3.6,Semi-Furnished,1,102.78
+Hebbal,1348,2,2,1,0.8,Semi-Furnished,1,97.18
+Hebbal,1519,3,3,0,1.5,Unfurnished,1,108.31
+Marathahalli,567,1,1,2,1.9,Furnished,1,33.46
+BTM Layout,1461,3,3,2,4.3,Semi-Furnished,0,112.14
+JP Nagar,1069,2,2,2,2.5,Unfurnished,1,70.53
+Hebbal,1376,3,2,1,3.6,Unfurnished,1,90.54
+Whitefield,1068,2,2,0,1.1,Semi-Furnished,1,66.99
+Whitefield,1118,2,2,0,2.4,Semi-Furnished,0,65.99
+Indiranagar,1531,3,4,1,0.4,Unfurnished,1,153.1
+Yelahanka,1119,2,2,1,13.2,Unfurnished,1,52.68
+HSR Layout,1565,3,2,1,1.3,Semi-Furnished,1,152.64
+HSR Layout,784,2,1,1,8.5,Unfurnished,1,64.04
+BTM Layout,1596,3,2,1,2.6,Unfurnished,0,111.29
+BTM Layout,949,2,3,1,3.9,Furnished,0,77.46
+BTM Layout,1336,3,4,2,2.1,Semi-Furnished,1,98.97
+Koramangala,884,2,1,0,7.2,Semi-Furnished,1,95.73
+Hebbal,1115,2,1,3,11.2,Semi-Furnished,1,72.37
+Koramangala,1017,2,1,4,2.0,Semi-Furnished,1,107.7
+Indiranagar,1248,3,4,1,1.7,Semi-Furnished,1,141.54
+Indiranagar,1122,2,3,1,6.9,Furnished,0,125.0
+Koramangala,1884,4,4,2,1.3,Unfurnished,1,208.44
+HSR Layout,2121,4,4,0,6.1,Unfurnished,1,192.85
+JP Nagar,1086,2,3,1,0.6,Unfurnished,1,77.42
+Electronic City,1633,3,2,2,5.8,Semi-Furnished,0,75.59
+Hebbal,867,1,1,0,4.3,Semi-Furnished,0,59.32
+Jayanagar,845,2,3,1,0.7,Unfurnished,0,74.85
+Koramangala,1492,3,3,2,6.3,Unfurnished,1,148.98
+Jayanagar,1459,3,3,1,3.5,Unfurnished,1,123.59
+Koramangala,1565,3,4,1,1.5,Unfurnished,1,171.32
+Marathahalli,1082,2,1,3,2.6,Furnished,0,74.0
+HSR Layout,997,2,1,1,4.1,Semi-Furnished,0,81.16
+Indiranagar,534,1,1,1,0.6,Unfurnished,1,46.71
+Electronic City,1333,3,3,1,19.0,Unfurnished,1,51.7
+Jayanagar,1648,3,3,1,6.6,Unfurnished,1,136.44
+BTM Layout,1569,3,3,1,0.6,Semi-Furnished,0,110.04
+Koramangala,1188,2,2,1,10.4,Semi-Furnished,1,127.96
+Hebbal,1003,2,3,1,2.3,Furnished,1,74.43
+Yelahanka,951,2,3,2,5.4,Semi-Furnished,0,59.11
+BTM Layout,438,1,1,0,1.9,Semi-Furnished,1,36.5
+JP Nagar,1104,2,2,2,7.9,Furnished,0,91.7
+Marathahalli,1344,3,2,0,7.7,Semi-Furnished,0,76.68
+Yelahanka,2377,4,3,3,4.8,Unfurnished,1,109.16
+BTM Layout,1304,3,3,1,1.7,Semi-Furnished,1,90.54
+HSR Layout,1091,2,2,0,1.8,Semi-Furnished,1,105.44
+Koramangala,835,1,1,2,2.9,Semi-Furnished,1,87.82
+Whitefield,2190,4,4,2,0.9,Unfurnished,1,123.79
+JP Nagar,626,1,1,0,2.5,Unfurnished,0,39.79
+JP Nagar,1955,4,3,1,6.9,Unfurnished,0,135.31
+Electronic City,843,2,2,0,10.7,Unfurnished,1,32.78
+Marathahalli,1166,2,2,1,2.4,Furnished,0,78.4
+Jayanagar,2326,4,4,2,1.6,Semi-Furnished,1,218.26
+Electronic City,534,1,1,2,10.7,Semi-Furnished,1,23.4
+Sarjapur Road,1329,3,4,0,13.3,Semi-Furnished,0,83.8
+Indiranagar,1131,3,2,2,3.2,Semi-Furnished,1,124.37
+Whitefield,903,2,1,0,0.2,Furnished,0,56.26
+Marathahalli,1033,2,2,1,7.1,Unfurnished,0,56.31
+Hebbal,1740,3,4,1,9.2,Semi-Furnished,0,118.52
+Whitefield,1601,3,4,0,0.1,Unfurnished,1,89.18
+Yelahanka,646,1,2,2,5.4,Furnished,1,33.44
+Jayanagar,2040,4,4,2,5.3,Furnished,1,202.82
+Electronic City,963,2,2,1,2.9,Furnished,1,50.85
+Indiranagar,1261,2,2,0,8.3,Unfurnished,0,103.65
+Marathahalli,1080,2,3,1,3.4,Unfurnished,1,66.65
+Koramangala,300,1,1,0,6.8,Unfurnished,1,30.69
+Sarjapur Road,949,2,3,0,4.4,Semi-Furnished,0,59.02
+JP Nagar,2671,5,5,1,1.7,Semi-Furnished,0,220.5
+Sarjapur Road,968,2,3,0,5.6,Unfurnished,1,52.38
+Koramangala,684,1,1,0,8.0,Semi-Furnished,1,81.75
+Sarjapur Road,584,1,2,2,21.9,Unfurnished,1,25.42
+HSR Layout,1488,3,4,1,2.9,Furnished,0,179.71
+Koramangala,2297,4,3,3,0.4,Unfurnished,1,227.94
+Whitefield,946,2,1,0,26.5,Unfurnished,1,44.81
+Whitefield,880,1,1,1,5.9,Semi-Furnished,1,52.45
+Hebbal,949,2,2,2,17.6,Semi-Furnished,0,57.44
+HSR Layout,613,1,1,1,0.7,Unfurnished,1,67.2
+Indiranagar,558,1,1,1,2.5,Furnished,1,61.69
+Marathahalli,1069,2,2,1,0.9,Semi-Furnished,1,70.73
+Koramangala,1117,2,1,0,10.8,Furnished,1,125.63
+Marathahalli,1565,3,4,0,12.7,Furnished,1,105.02
+HSR Layout,937,2,3,1,4.2,Semi-Furnished,0,84.44
+JP Nagar,1932,4,4,1,1.2,Furnished,1,172.1
+JP Nagar,2475,4,3,0,0.8,Furnished,0,218.13
+Jayanagar,1427,3,4,2,5.3,Furnished,0,128.05
+Koramangala,1155,2,2,0,4.2,Furnished,1,166.69
+HSR Layout,809,2,1,1,7.1,Furnished,1,86.33
+JP Nagar,1008,2,2,1,2.2,Semi-Furnished,0,75.78
+Koramangala,1481,3,4,1,3.1,Unfurnished,1,148.65
+Indiranagar,1121,2,1,2,0.1,Furnished,1,131.42
+Electronic City,1692,4,4,2,5.7,Semi-Furnished,1,69.69
+Jayanagar,2125,4,5,0,3.3,Unfurnished,0,194.63
+Jayanagar,878,2,2,2,15.1,Unfurnished,1,67.82
+JP Nagar,1549,3,2,1,6.2,Semi-Furnished,0,113.77
+Indiranagar,445,1,1,3,3.1,Semi-Furnished,0,47.78
+HSR Layout,922,2,2,2,1.8,Unfurnished,1,78.97
+JP Nagar,1009,2,2,2,14.1,Unfurnished,1,61.61
+JP Nagar,892,2,2,0,0.1,Semi-Furnished,0,68.68
+HSR Layout,2029,4,5,0,2.4,Unfurnished,1,187.43
+HSR Layout,871,2,2,3,17.2,Semi-Furnished,0,74.04
+Koramangala,775,2,2,2,6.4,Semi-Furnished,0,72.63
+BTM Layout,1653,3,4,0,4.6,Semi-Furnished,1,121.84
+Electronic City,1306,3,4,2,1.4,Unfurnished,1,45.12
+BTM Layout,1023,2,3,2,10.8,Unfurnished,1,62.75
+Yelahanka,2213,4,5,1,1.4,Semi-Furnished,1,126.36
+Jayanagar,1408,3,3,1,1.7,Semi-Furnished,1,136.52
+Whitefield,926,2,2,1,1.3,Unfurnished,1,50.86
+Jayanagar,634,1,2,3,1.0,Unfurnished,0,51.41
+HSR Layout,1218,2,3,2,18.4,Furnished,0,110.21
+Indiranagar,1325,3,2,0,5.5,Furnished,1,158.82
+Yelahanka,1477,3,2,2,6.1,Semi-Furnished,1,83.85
+Sarjapur Road,1840,4,3,0,18.5,Unfurnished,1,88.98
+Marathahalli,991,2,2,0,1.6,Unfurnished,0,53.79
+Hebbal,605,1,1,1,0.0,Unfurnished,1,37.9
+Whitefield,472,1,1,0,5.5,Unfurnished,1,27.42
+HSR Layout,981,2,1,2,4.3,Semi-Furnished,1,107.23
+Electronic City,1289,3,2,1,3.9,Semi-Furnished,1,64.23
+Marathahalli,1512,3,3,4,0.4,Unfurnished,0,85.43
+Sarjapur Road,1208,2,2,0,3.6,Furnished,0,76.34
+Yelahanka,885,2,1,1,2.0,Semi-Furnished,0,42.97
+Electronic City,957,2,3,4,1.9,Semi-Furnished,1,44.22
+Koramangala,1125,2,1,1,1.5,Furnished,1,140.57
+Jayanagar,1232,2,2,3,2.4,Semi-Furnished,1,112.47
+HSR Layout,826,2,2,3,2.6,Furnished,1,93.53
+JP Nagar,1025,2,1,2,2.2,Unfurnished,1,80.48
+JP Nagar,642,1,1,2,23.1,Unfurnished,1,40.62
+Marathahalli,1035,2,3,3,16.2,Semi-Furnished,1,53.75
+HSR Layout,300,1,2,2,5.1,Semi-Furnished,0,26.02
+Koramangala,1575,3,3,3,23.8,Unfurnished,1,126.86
+Electronic City,1278,2,2,0,28.4,Semi-Furnished,0,45.54
+Koramangala,2817,5,6,2,2.6,Unfurnished,1,256.13
+HSR Layout,895,2,2,3,3.5,Semi-Furnished,1,85.95
+Yelahanka,973,2,2,0,19.2,Semi-Furnished,0,46.9
+Yelahanka,1315,2,1,1,5.6,Semi-Furnished,0,68.16
+Electronic City,736,1,2,2,1.4,Semi-Furnished,0,32.84
+HSR Layout,2196,4,3,1,7.0,Furnished,1,212.93
+Indiranagar,653,1,1,3,1.4,Unfurnished,0,64.8
+Indiranagar,2001,4,4,4,2.5,Furnished,1,233.52
+JP Nagar,2070,4,3,2,1.5,Unfurnished,1,150.5
+Whitefield,1488,3,3,2,1.7,Semi-Furnished,1,91.68
+HSR Layout,1582,3,3,0,0.0,Semi-Furnished,0,151.16
+Indiranagar,1726,3,3,0,12.8,Furnished,1,176.79
+BTM Layout,1218,2,2,1,2.1,Semi-Furnished,1,97.91
+Jayanagar,1287,3,2,0,0.5,Furnished,1,140.2
+Indiranagar,634,1,1,3,0.5,Unfurnished,1,56.42
+Jayanagar,711,1,1,3,4.9,Furnished,1,62.84
+Hebbal,1143,2,2,1,29.7,Unfurnished,0,63.89
+Sarjapur Road,1406,3,3,1,0.9,Unfurnished,1,79.3
+Indiranagar,2537,4,5,2,0.6,Unfurnished,1,234.29
+BTM Layout,408,1,1,3,3.5,Semi-Furnished,1,32.85
+BTM Layout,1338,3,3,4,5.0,Semi-Furnished,0,98.01
+BTM Layout,1085,2,3,1,2.1,Unfurnished,0,86.66
+Yelahanka,1368,2,1,1,2.2,Unfurnished,1,65.98
+Yelahanka,925,2,3,1,3.3,Semi-Furnished,0,51.32
+HSR Layout,1010,2,2,3,2.3,Furnished,1,96.21
+Hebbal,1212,2,1,0,14.8,Semi-Furnished,0,84.87
+Jayanagar,1497,3,4,0,0.3,Semi-Furnished,1,149.57
+Yelahanka,1450,3,3,1,1.6,Semi-Furnished,1,85.84
+HSR Layout,1135,2,3,1,9.9,Semi-Furnished,1,113.56
+Hebbal,1091,2,1,2,10.8,Furnished,1,81.39
+JP Nagar,2255,4,3,0,0.7,Semi-Furnished,0,160.07
+Indiranagar,1694,3,2,0,21.8,Unfurnished,0,127.26
+JP Nagar,1096,2,2,1,7.1,Furnished,1,80.08
+Jayanagar,1094,2,3,2,1.9,Furnished,1,103.46
+JP Nagar,2132,4,5,1,3.7,Unfurnished,1,162.73
+HSR Layout,1573,3,3,1,2.1,Semi-Furnished,0,146.5
+HSR Layout,1058,2,1,1,1.0,Semi-Furnished,1,102.11
+BTM Layout,1050,2,2,1,2.1,Semi-Furnished,0,72.66
+Koramangala,1679,3,2,2,5.2,Unfurnished,1,149.52
+JP Nagar,827,1,1,2,10.5,Semi-Furnished,1,62.04
+Jayanagar,2574,5,4,4,2.7,Unfurnished,1,220.47
+Jayanagar,1052,2,2,1,2.6,Unfurnished,1,81.75
+Koramangala,1397,3,3,0,3.8,Furnished,0,156.94
+Marathahalli,1003,2,2,2,6.2,Semi-Furnished,1,66.43
+Koramangala,1110,2,2,2,8.4,Furnished,0,134.74
+Whitefield,2200,4,5,1,2.4,Furnished,1,140.38
+Koramangala,1033,2,2,1,5.3,Semi-Furnished,1,112.66
+Whitefield,1213,3,3,0,3.0,Furnished,0,89.28
+Sarjapur Road,455,1,1,0,7.6,Unfurnished,1,23.64
+Sarjapur Road,734,1,2,2,1.1,Semi-Furnished,1,44.16
+HSR Layout,639,2,2,0,1.8,Semi-Furnished,1,67.01
+Hebbal,1678,3,4,3,3.3,Semi-Furnished,1,134.07
+Koramangala,1128,2,2,0,13.2,Unfurnished,1,114.03
+Yelahanka,797,1,1,1,5.1,Unfurnished,1,37.46
+JP Nagar,1020,2,3,1,20.2,Unfurnished,1,68.35
+Sarjapur Road,1191,3,2,3,0.7,Semi-Furnished,1,79.35
+HSR Layout,1565,3,4,0,3.7,Furnished,0,160.29
+JP Nagar,1241,2,3,2,3.3,Furnished,0,101.75
+Koramangala,739,1,1,1,5.5,Unfurnished,0,78.27
+Sarjapur Road,2001,4,4,2,10.0,Unfurnished,0,113.64
+Whitefield,1063,2,2,2,11.1,Unfurnished,0,64.5
+Marathahalli,2020,4,4,2,6.7,Unfurnished,1,108.42
+Yelahanka,1977,4,5,0,6.2,Furnished,0,106.47
+Hebbal,1643,3,3,1,17.9,Furnished,1,107.41
+Indiranagar,870,2,2,0,2.9,Unfurnished,1,84.66
+Sarjapur Road,1366,3,3,2,10.7,Unfurnished,1,64.87
+Indiranagar,1334,3,3,2,15.3,Unfurnished,1,111.4
+Marathahalli,1276,3,2,2,4.1,Unfurnished,0,72.5
+Indiranagar,1072,2,1,1,7.8,Furnished,1,120.38
+Koramangala,1224,2,1,0,2.8,Semi-Furnished,1,119.71
+Jayanagar,1022,2,1,1,1.0,Semi-Furnished,1,103.64
+HSR Layout,1274,3,2,2,5.3,Semi-Furnished,0,107.12
+Indiranagar,1626,3,3,0,1.3,Unfurnished,1,148.28
+Indiranagar,1303,2,2,4,3.7,Unfurnished,1,114.09
+HSR Layout,953,2,3,0,12.4,Unfurnished,1,76.43
+Hebbal,978,2,2,1,0.5,Semi-Furnished,0,66.06
+BTM Layout,1577,3,3,2,0.2,Furnished,1,125.18
+Electronic City,2343,4,5,4,5.6,Semi-Furnished,1,89.11
+HSR Layout,972,2,2,2,2.4,Unfurnished,1,88.04
+Electronic City,850,2,3,0,3.2,Semi-Furnished,1,40.5
+Whitefield,1145,2,3,0,3.1,Unfurnished,0,76.44
+Yelahanka,1620,3,2,0,0.5,Unfurnished,0,80.09
+Marathahalli,1501,3,4,1,0.0,Unfurnished,0,82.76
+Indiranagar,2016,4,4,2,13.7,Semi-Furnished,0,168.69
+Indiranagar,1199,2,1,0,1.5,Furnished,0,131.9
+Whitefield,2179,4,4,4,3.3,Semi-Furnished,0,137.06
+JP Nagar,485,1,1,0,21.4,Unfurnished,0,27.92
+Sarjapur Road,1507,3,3,1,10.5,Unfurnished,1,77.86
+Indiranagar,397,1,1,3,0.7,Unfurnished,1,44.18
+Indiranagar,2203,4,3,2,4.3,Unfurnished,1,204.52
+BTM Layout,1461,3,3,0,7.9,Unfurnished,1,85.24
+BTM Layout,1435,3,3,4,7.2,Semi-Furnished,1,111.22
+HSR Layout,2095,4,5,0,8.6,Unfurnished,1,186.12
+Whitefield,1056,2,1,0,3.7,Furnished,0,61.74
+Whitefield,734,1,1,2,1.2,Semi-Furnished,1,48.78
+Marathahalli,2189,4,3,2,3.8,Unfurnished,1,114.98
+HSR Layout,1027,2,2,1,6.3,Unfurnished,1,92.01
+Whitefield,1165,2,2,0,5.6,Semi-Furnished,1,82.17
+Marathahalli,1110,2,2,2,0.4,Semi-Furnished,1,68.73
+Whitefield,1436,3,3,1,0.4,Unfurnished,1,92.89
+JP Nagar,581,1,2,0,20.2,Furnished,1,40.13
+Koramangala,1028,2,3,0,1.0,Unfurnished,1,98.61
+Whitefield,676,1,1,0,2.1,Furnished,1,53.99
+Marathahalli,995,2,2,0,8.8,Unfurnished,1,55.03
+HSR Layout,2041,4,4,2,3.2,Semi-Furnished,0,197.43
+Sarjapur Road,3095,5,5,0,1.2,Semi-Furnished,1,200.91
+Jayanagar,1641,3,4,1,3.8,Semi-Furnished,1,143.95
+Koramangala,936,2,3,1,5.0,Unfurnished,1,102.84
+Hebbal,2186,4,4,1,3.6,Unfurnished,0,148.95
+Koramangala,1518,3,3,0,15.1,Semi-Furnished,0,133.7
+BTM Layout,1109,2,1,1,2.0,Furnished,1,102.19
+HSR Layout,2121,4,3,0,6.5,Semi-Furnished,1,216.92
+Jayanagar,1678,3,2,3,0.7,Unfurnished,1,129.51
+Whitefield,1552,3,2,1,3.0,Unfurnished,1,92.65
+HSR Layout,1491,3,3,2,8.1,Semi-Furnished,0,130.38
+JP Nagar,1206,2,2,2,1.5,Unfurnished,1,98.08
+JP Nagar,1085,2,2,2,5.3,Unfurnished,1,70.12
+Indiranagar,1518,3,4,3,1.0,Semi-Furnished,1,205.22
+Indiranagar,1097,2,2,1,0.7,Semi-Furnished,1,114.98
+JP Nagar,1036,2,2,1,4.4,Unfurnished,1,78.71
+BTM Layout,1501,3,2,0,6.7,Unfurnished,0,107.54
+Electronic City,1412,3,3,3,0.7,Semi-Furnished,1,65.33
+HSR Layout,937,2,2,1,15.0,Unfurnished,0,71.98
+Koramangala,1350,3,4,2,1.5,Furnished,0,157.98
+BTM Layout,1891,4,3,0,0.8,Unfurnished,0,121.61
+Electronic City,1368,3,4,0,1.4,Unfurnished,1,61.41
+Indiranagar,1024,2,2,0,1.1,Semi-Furnished,1,107.28
+Hebbal,1065,2,1,1,0.6,Semi-Furnished,1,76.92
+Whitefield,1009,2,1,3,9.6,Unfurnished,1,54.41
+Jayanagar,300,1,1,4,4.1,Unfurnished,0,24.75
+HSR Layout,1286,2,2,0,3.0,Unfurnished,1,108.46
+Koramangala,1213,2,2,3,18.1,Semi-Furnished,1,116.79
+HSR Layout,1117,2,2,1,2.8,Unfurnished,0,102.14
+Jayanagar,2386,4,4,0,1.1,Semi-Furnished,1,221.59
+Indiranagar,453,1,1,1,1.9,Semi-Furnished,1,44.1
